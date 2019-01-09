@@ -1,0 +1,7 @@
+* B08n0026 原書縮版影印字跡不清之處，參考南林出版社版本訂正。
+* B08n0026 原書標點比較老式，重新參考本禪法師所提供的電子檔（南林尼僧苑版本）予以部份更改，並進行文字比對及部份用字修訂。
+* B08n0026 有下標標記 <sub>...</sub>，如：
+    B08n0026_p0164b26_##等。含有多種之脂酸，如酪酸（Butyric Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>CŌH）、羊油酸（Caproice
+    B08n0026_p0164b27_## Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>CŌH）、羊脂酸（Caprylic Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>CŌH）、羊臘酸（Capric
+    B08n0026_p0164b28_## Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>CŌH）等，並含有豐富之維生素（Vitamin A and D）及少許礦物質
+* B08n0029 原書沒有新標，套用林斌提供之新式標點版，並進行文字比對及部份用字修訂。

@@ -1,0 +1,832 @@
+p0001
+  01 參閱 Mps. IV. 2-3（南傳藏、七，大般涅槃第四誦品第二～三節）、長阿含經四（大正藏、一．一三a）。
+p0003
+  01 底本原無「三」字，準以下多數經文成例，私加。
+p0004
+  01 參閱增支部、二集第十二、五（南傳藏、七．大般涅槃經第六誦品五節以下）。
+  02 「成就……愚者」四字係依暹羅本補入。
+p0005
+  03 「保護」同上。
+  04 三頌，請參閱 Sn. verses 658-660; S. VI. I. 9; a. x. 86。
+p0006
+  01 關於四事，據暹羅本補入 catusu 是正確。以下倣此。
+p0007
+  02 行之 -cariyāya，暹羅作 -cariyāya 是正確，以下注，者亦然。
+  03 暹羅本在（tāya）之次下無 naṁ 是正確。
+p0008
+  01 參閱集異門足論、九（大正藏二六．四〇四a）。
+  02 參閱 Pug. IV. 27。
+p0009
+  03 云生與老衰 jāti-jarūpagāmi 者，於頌法稍異，在暹羅本作 jāti-jarūpagā hi 為正確。
+  04 云念 upaṭṭhitā sati 者，在暹羅本作 upaṭṭhitā-sati 為正確。
+p0010
+  05 云退 apahānadhammo 者，暹羅本作 aparihānadhammo，而不成其語調，諒據雅語之音便法，應讀作 'parihānadhammo。
+  06 日文南傳藏依暹本補，今漢譯，可不另加字。
+p0011
+  01 底本無此一字，係依後段「二」推酌加此一字。參閱此段文字 Pug. IV. 28。
+  02 「未達成」在底本之 anuppanno，在暹羅本與本書及註釋均作 anupapanno，以其意義妥順，故採用此語。此後之 uppanno 亦均倣此。
+  03 「知解」乃 vedallaṁ 之譯，若依覺音之釋，當為「滿足得」或「喜得」義，詳見聖語研究所第三所載，荻原雲來之「九分教之新研究」，其中「吠陀羅」條下述論。
+  04 所謂「法隨法」，係指隨順於四向、四果與涅槃之九出世法。
+p0013
+  05 「彼之」於底本之 nāssa 意義不甚適當，乃採底本註脚所示與暹羅本之 tassa。
+p0014
+  01 參閱增一阿含一九（大正藏二．六四五c）。
+  02 一，底本無此數字，依據前後數例私加。
+  03 持法（dhammadharā）底本缺此，考量文脈私補。
+  04 在日文本乃依暹本補加，今漢譯可不另加字。
+  05 二，底本無此數字，今為加例，其理由亦如[02]所述。
+p0015
+  01 參閱增一阿含一九（大正藏二．六四五b）。
+  02 一及二，底本缺，依前後多用例附加。
+p0016
+  03 在日文本乃依暹本補，今漢譯可不另加字。
+  04 以下二頌，底本錯誤頗多，依暹本訂正如左：ye kcc'ime vādapathā puthussitā yannissitā samaṇa-brāhmaṇā ca Tathāgataṁ patvā na te bhavanti visāradaṁ vādapathātivattaṁ yo dhamma-cakkaṁ abhibhuyya kevali pavattayi sabba-bhūtanukampi taṁ tādisaṁ deva-manussa-seṭṭhaṁ sattā namassanti bhavassa pāragun 'ti 右第二頌初行之 kevali，暹本作 kevalaṁ 意義不通，今從覺音註釋。
+p0018
+  01 增一阿含二二（大正藏二．六五八a）。
+  02 一及二，底本缺數字，據前後諸例私補。
+p0019
+  01 參閱集異門足論、八（大正藏二六．三九九a、b）。
+  02 味　依前後文，又循暹本補 assādañ。
+p0020
+  03 離染　底本之 saṅkilesehi 乃 saṅkilesikehi。
+  04 引後有　底本之 ponobhavikeki，係 ponobhavikehi 之誤。
+  05 相應　底本之 saṁyutto，依暹本之本文及釋文，取 sampayutto。
+p0021
+  06 此　底本之 sa，一如暹本，應作 sa。
+p0022
+  07 生老　底本之 jatijarā- 為 jātijarā- 之誤。
+  08 軛安穩　底本之 yogakhemi，據暹本採 yogakkhemi。
+  09 二是三之誤植。
+p0024
+  01 而，底本之 tañ ce，依暹本及他本應讀 tañ ca 為正，以下倣之。
+  02 雖行，底本之 carañ ce pi，依暹本及他本或覺音注釋文，應讀 carampi 為正，以下倣之。
+p0025
+  03 依暹本補之，今漢譯，可不另加字。
+  04 三，底本缺此數字，依前後多例私補。
+  05 坐，udā vā 暹本作 uda vā 為正。
+  06 依家，在覺音釋，有「依於煩惱」之義。
+p0026
+  01 一　底本缺，依前後多數例私補；二亦同樣。
+p0027
+  02 上中下是即過去、現在、未來。
+  03 蘊 色等五種。
+  04 心靜 ceto sam 暹本作 cetosam 為正。
+p0028
+  01 參閱增一阿含、一八（大正藏、二．六三五b）、集異門、六（大正藏、二六．三九一c）Mahāvyutpatti XXXIX。
+  02 底本缺一及二，依前後文類推私補。以下此例猶多，恕不一一列舉。
+p0029
+  01 參閱雜阿含、三一（大正藏、二．二二一b）。
+p0030
+  02 種 -bandhuno 在暹本作 -bandhunā，為正。
+  03 方……得，pāpuṇoti 在暹本作 pāpuṇe ti，為正。
+p0032
+  01 參閱集異門、八（大正藏、二六．四〇一a）。
+p0033
+  02 不應行 不相應涅槃之行。
+  01 底本之 nāgatigamanāni，在暹本作 nāgatigamanāniti，為正。
+p0034
+  01 為如是理解，故合二種理趣而說。
+p0036
+  01 沙門　底本之 samaṇo na，在暹本作 samaṇena，為正確。以下之有[＊]者亦然。
+  02 醍醐　底本之 mando，在暹本作 maṇḍo，為正確。
+  01 第五施設 paññatti pañcamaṁ，在暹本作 paññattipañcamaṁ，為正確。
+  02 微細智　底本之 sukhumaṁ，在暹本作 sokhummaṁ，正確。
+  03 不應行　底本之 agati，在暹本作 agati，正確。
+p0037
+  01 參閱 S. VI. 1. 2. 雜阿含、四四（大正藏二．三二一c）。
+  02 起，底本之 udāpādi，係 udapādi 之誤。
+p0038
+  03 底本二十頁二十七行 attanā，以次似有脫漏，暹羅本較底本更多重複同樣文字，省略之餘，依暹本得以填補脫漏之文字。私補之後，當如次文：paññasampannataraṁ yam ahaṁ sakkatvā garukatvā upanissāya vihareyyaṁ, aparipūrassa kho ahaṁ vimuttikkhandhassa pāripūriyā … vihareyyaṁ na khopanāhaṁ passāmi sadevake loke … aññaṁ samaṇaṁ vā brāhmaṇaṁ vā attanā。
+  04 婆羅門，底本之 brahmaṇaṁ，係 brāhmaṇaṁ 之誤。
+  05 諸世尊（bhavanto），係依脚註所出之本與暹本。下之附[＊]者亦然。
+p0039
+  06 住（viharanti）字在複數，意即於現在有多佛之存在，於教義有違，故在註釋鑑於（前之）「大德！世尊亦現是應供、正等覺者」（單數），當不可以複數作解云云。但於暹本之此句，則予變更作 vihariṁsu vihāti ca，如此即為單數，成為：現在佛祇有一位。
+p0040
+  01 我等云云，底本之 ne 在暹本是 me taṁ，採之。
+p0041
+  02 瞿曇，底本之 Gotamo，在暹本作 Gotama，正確。
+  03 心底，底本之 anidānavatiṁ，在暹本作 anidhānavatim，正確。
+  04 祇，底本之 teva，依暹本其他採 tveva。
+  05 凡愚，底本之 bālo，係 bālo 之誤。
+p0042
+  06 於意，底本之 manāsān，係 manāsan 之誤。
+  07 增上心，底本之 abhicetasikanaṁ，在暹本作 abhicetasikānaṁ，正確。
+  08 義理，底本之 paññayattha，採暹本及他本之 paññayatthaṁ。
+p0043
+  01 參閱中阿含、三四（大正藏、一．六四五b）Itiv. 112。
+p0044
+  02 所覺（mutaṁ），是指從根柢上拔起者，即：香、味、觸三者。
+  03 如來之原文 tathāgata，如果將之作 tathā+gata 解釋，即是「如往」之義，同於所謂世間之作如所覺了。今作此義解，以下倣之。
+  04 如　底本之 tatth'eva，在暹本作 tath'eva，正確。
+  05 名之　底本之 vuccatiti，依前後節之文例與暹本，單讀作 vuccati。
+  06 日文本依暹本補，今華譯可不另加字。
+  07 了知　底本之 abhiññaya，係 abhiññāya 之誤。
+p0046
+  01 如來　底本之 tathagato，暹本及註釋均作 tathāgate，今從之。
+  02 知 Nyāṇatiloka（Die Reden des Buddha II, 40 note I.），應如緬甸本加 na janami與 na 讀之。既如所註，此反而是誤。
+p0047
+  03 宛然　底本之 tādi se，採暹本之 tādiso。
+  04 一如　底本之 tādi tamhā，在暹本作 tādimhā，正確。
+p0049
+  01 沙門支　底本之 samaññan，在暹本作 sāmaññaṅgan，正確。
+  02 非　底本之 senāsanañ ca 不成其意義，在暹本作 na senāsanam，正確。
+p0050
+  01 參閱集異門、六（大正藏、二六．三二九b）。
+p0051
+  02 底本脫漏諸比丘（bhikkhave）一句，茲依暹本補之。
+p0052
+  03 若然　底本之 ti，在暹本作 hi，正確。
+  04 堅固云云　底本之 dhiraṁ sahati，不作調，而且意義亦不妥當，茲依暹本及其他，採dhira-saṁhati。
+  05 一切業云云　底本之 sammā kammavyākataṁ，茲依暹本及其他，採 sabbakammavihāyinaṁ。
+  06 誰　底本之 kho，在暹本作 ko，正確。
+p0053
+  01 參閱集異門、七（大正藏、二六．二九五a）。
+  02 依覺音釋「迹」是「分」義。
+p0054
+  03 永遠云云　底本之 attaññāni，係 rattaññāni 之誤植。
+p0055
+  01 暹本重複於 abhiññātā，概是正形。
+p0056
+  02 依前後文意及暹本看來，可知係脫漏 samaṇa-brāhmaṇā。
+p0057
+  03 應作 vassa-ṁ-bhaññā，暹本作 vassa-bhaññā，兩者均可。
+p0058
+  01 kāḷiko 於前載之文有 kāḷako，暹本亦於此處作 kāḷako，正確。
+  01 參閱七處三觀經（大正藏、二．八七七a）。
+  02 輪圓足、[與>興]<resp="CBETA.maha">盛、幸福之義。
+p0059
+  03 聖人　底本之 ariya mittakaro，與暹本 ariyamittakaro 合而成立，正確。
+  04 端正　底本之 sammā paṇidhisampanno，亦是暹本之合成語，正確。
+  01 參閱雜阿含二六（大正藏、二．一八五a）、集異門、九（大正藏、二六．四〇二c）。
+p0060
+  02 若　底本 ca，該是 ce 之誤寫。
+p0061
+  01 多樂　底本之 sukhabhūtā，在暹本及其他作 sukhabahulā，正確。
+  02 migā te 不作調，在暹本缺 te，正確。
+  03 aniccā va 不作調，在暹本缺 va，正確。
+p0062
+  01 參閱增一阿含、一二（大正藏、二、六〇一c）、雜阿含、三一（大正藏、二．二二五c）。
+p0064
+  01 底本之 pano 係 pana 之誤。
+  02 諸　底本之 tass'eva，採用暹本之 tassa tass'eva。
+  03 尊瞿曇　底本之 bhavaṁ Gotamo，在暹本作 bho Gotama，正確。
+  04 論難云云　底本之 paṭikkosatu pana，依暹本及其他，刪去 pana。
+p0065
+  05 於汝　底本之 tyāhaṁ，在暹本作 te，正確。
+  06 不欲　底本之 nakaṅkhāmi，係 nākaṅkhāmi 之誤。
+p0066
+  07 正法　底本之 ñāyam dhammaṁ，在暹本作 ñeyyadhammaṁ，正確。
+  08 暹本雖有 maggāmaggassa kusalo katakicco anāsavo，今循從底本。
+p0067
+  01 參閱雜阿含、五（大正藏、二．二八a）、別譯雜阿含、一三（大正藏、二．四六七a）、增一阿含、三一（大正藏、二．七一七c）。
+  02 輻　底本之 sahassārāni，係 sahassarāni 之誤。
+  03 最上之調伏　底本之 uttamadammatha-，係 uttamadamatha 之誤。
+  04 諸根云云　底本之 santindriyaṁ，在註解作 yatindriyaṁ，於本文之前一行，santindriyaṁ 即有此語，以重複故，為避免，今據註釋之讀法。
+p0069
+  05 我 ahaṁ 之語，係依暹本補。
+p0071
+  01 奮起　底本脫漏 paccuṭṭhāya，據暹本補。
+p0072
+  02 熾然　底本之 viharamāno pi，在暹本作 viharam ātāpi，今採之，註釋作 vihāri ātāpi，意義相同。
+  03 見怖　底本之 bhayadassivā 不作調，暹本作 bhayadassi vā，正確。
+  01 passaddhākayasaṅkharo vā 之 vā，於底本末行同文，及依暹本省略。
+p0073
+  02 極遣，底本之 nuṇṇāni honti 次後，在暹本有 panuṇṇāni 之語，註釋中亦舉此語為釋，以之暫今補此。
+p0075
+  01 參閱雜阿含四（大正藏二．二二c）、別譯雜阿含五（大正藏二．四〇四a）。
+  02 阿羅漢道云云，底本之 arahamaggaṁ samāpannā vā，在暹本作 arahattamaggaṁvā samāpannā，正確。
+  03 底本 haññati，haññanti 之誤，以下做之。
+  04 S. III. 1. 9.「獻馬」等五種，皆為犧牲祭祀之名。
+p0076
+  01 參閱雜阿含、四（大正藏、二．二三a）、別譯雜阿含、五（大正藏、二．四〇四b）。
+p0077
+  02 梵行者　底本之 brahmacariyā 不成其調，在暹本作 brahmacārayo，正確。
+  03 族姓云云　底本之 vitivattakālaṁgati 不成其調，意義亦不當，在暹本作 vitivattā kulaṁgatiṁ，正確。
+  04 施物　底本之 bhavyaṁ，在暹本作 huññaṁ，正確。
+p0078
+  01 攝　底本 saṅgāho，在暹本作 saṅgaho，正確。
+  02 頭那　底本之 loke，在暹本及其他 doṇo，正確。
+p0079
+  01 參閱集異門、七（大正藏、二六．三九五c）。
+p0080
+  02 我云云　底本之 panam etam，在暹本作 pana metam，正確。
+  03 此頌亦出於三集之三十二（漢譯南傳大藏、一九．第四天使品第一節之頌偈），Sn. verse1048，但在 1048，但集異門引 V. II 06, II 07。
+  04 寂靜　底本之 sato，在暹本及波羅延之文，俱作 santo，註釋文同。
+  05 身心等之惡行，若基於燒已，此等乃喻於煙。
+p0081
+  01 參閱集異門、八（大正藏、二六．四〇一b）。
+p0084
+  01 如依　底本之 anvāyam iv' 宜作 anvāya-m-iv'。
+  01 參閱 S. II. 3. 6. 雜阿含四九（大正藏、二．三五九a）、別譯雜阿含一五（大正藏、二．四七七b）、增三八（大正藏、二．七五六a）。
+p0085
+  02 是　底本之 vadāmi，在暹本作 vadāmīti，正確。
+  03 學得充分　底本之 sikkhito，在暹本作 susikkhito，依釋文訂正之。
+p0087
+  01 祇此　底本 imasmiṁ 之次後，依據前述同經文及暹本等補入 yeva。
+p0089
+  01 參閱 S. X. 21. 7. 雜阿含三八（大正藏、二．二七七b）、別譯雜阿含一（大正藏、二．三七五c）。
+p0091
+  01 所繫　底本之 yogaguttā，在暹本作 yogayuttā，正確。
+p0093
+  01 貪與瞋云云　底本之 rāgadosapaṭikkiṭṭhā，應作 rāgadosapaṭikkhiṭṭhā。
+p0094
+  02 獸　底本之 pabhā，在暹本作 matā，是二十二第一頌之「獸」原本 mago。在暹本作 mato，在釋文有 migo，與 mago 若同義，則不依暹本，採取底本。於今亦不依暹本，又底本之語，若不適當，則捨此，倣先例視作 magā。
+p0095
+  01 第一　底本雖作第六，依後章段表數，可作如今所示，暹本依然。
+p0096
+  02 者　底本 saṁvattati，依下文例及暹本，當作 saṁvattatīti。
+  03 阿羅迦容量名稱。
+  04 大福聚　底本之 puññakkhandho，依前同文及暹本讀作 mahāp。
+  05 者　底本之 gacchati，依前後之類文及暹本讀作 gacchatiti。
+  06 魚群　底本之 naragaṇa 不成意義，在暹本作 macchagaṇa，正確。
+  07 寶聚　底本之 ratanagaṇanam 不成其調，在成其調，在暹本作 ratanagaṇānam，正確。
+p0097
+  01 參閱集異門、七（大正藏、二六．三九三b）。
+p0098
+  02 不穿　底本之 achiddehi，係 acchiddehi 之誤。
+  03 參閱 S. XI. 2. 4; S. LV. 26. 23。
+p0099
+  01 毘蘭若　在底本雖有 Verañjim，茲在暹本之 Verañjaṁ。
+  02 一樹　底本之 aññatārasmiṁ，係 aññatarasmiṁ 之誤。
+p0102
+  03 安穩樂　底本之 vāsatthaṁ，依暹本及其他，又釋文觀察，取 phāsukaṁ。
+p0104
+  01 不罵詈　底本之 anokkosaka-，係 anakkosaka-之誤。
+p0105
+  01 身（kāyena）以次之下，應有段落，次節亦同此。
+  02 ti? 宜作 ti，次節亦同。
+  03 兩人共具　底本之 ubho ca，如暹本及其他應採 ubho va。
+p0107
+  01 拘利女　底本之 koḷiyadhitāya，在暹本作 koḷiyadhītāya，正確。
+  02 拘利女　底本之 koḷiyadhitā，在暹本作 koḷiyadhītā，正確。
+  03 食訖　底本之 bhuttaviṁ，在暹本作 bhuttāviṁ，正確。
+  04 拘利女　底本之 koliyadhataraṁ，係 koḷiyadhitaraṁ 之誤。
+p0109
+  01 施與　底本之 anupavecchati 不成其調，在暹本作 anuppavecchati，正確。
+  01 底本之 sukhaṁ deti，一句是多餘，在此除去。
+p0110
+  01 在家　底本之 gihi sām，在暹本作 gihisām，正確。以下倣之。
+p0111
+  01 底本 dve va，採用暹本之 dveca。
+p0112
+  01 難得　底本 manāpā 以下脫漏 dullabhā，依暹本補之。
+p0113
+  02 聖弟子　底本之 ariyasāvako，在暹本作 ariyasāvakassa，正確。
+p0115
+  03 以非因　底本之 āyatanaso，在暹本作 anāyatanaso，正確。
+  04 受用　底本之 bhūttā，係 bhuttā 之誤植。
+  05 梵行者　底本之 brahmacarayo，係 brahmacārayo 之誤植。
+  06 所求　底本之 atho，在暹本作 attho，正確。
+p0118
+  01 財物樂　底本之 bhoga sukham，應是 bhogasukhaṁ 之誤植。
+  01 同於三集第四之三十一（漢譯南傳大藏經第一九．第四八使品三十一），祇有加添「先天神」之一段。
+  02 應請者（āhuneyya），於上記之處，譯為可供養者，今從玄奘之譯語，而作斯譯。
+p0119
+  03 有歡喜　底本之 modatīti，作先前同處及暹本，應採作 pamodatīti。
+  01 底本　缺標題數字，今私補。
+  02 一　底本作4字，蓋雖與前之六十三相連續，但不太妥當。
+  03 補特伽羅　底本之 samannāgato，在暹本作 samannāgato puggalo，於此據之。其次之註[＊]有者亦然。
+  04 底本作5字，與[02]條之下所述者，同其理由，改如今狀。
+p0121
+  01 底本 cāpi viddasu，在暹本作 cāpi aviddasu，正確讀法，應是 cāpy aviddasu。
+p0122
+  01 參閱雜阿含九（大正藏、二．六一a）、隨勇尊者經（大正藏、一四．七七三a）。
+  02 以慈心　底本之 mettam，在暹本作 mettena，正確。
+p0123
+  03 此偈請參閱 Cv. V. 6; Jāt. no. 203（漢譯南傳大藏經、三三．二〇三[健>犍]<resp="CBETA.maha">度本生故事）。
+  04 佛指佛德，以下法、僧亦倣之。
+  05 有量　於德有量之義。
+p0124
+  01 參閱 S. XVII. 35; Cv. VII. 2. 5，雜阿含三八（大正藏二．二七六b）。
+p0125
+  01 參閱雜阿含三一（大正藏、二．二二一b、c）。
+p0126
+  02 底本缺此句，亦依暹本補。
+  03 得　底本之 pāpuṇāti，在暹本作 pāpuṇe ti，正確。
+p0127
+  01 參閱增一阿含八（大正藏、二．五八六c）。
+  02 王之代官　底本之 rājaputtāpi，在暹本作 rājayuttāpi，依釋土斟酌，以暹本為正確，以下倣之。
+  03 不正　底本七五頁第四行 parivattantesu 之其次，脫漏 visamaṁ。
+p0128
+  04 非法云云　底本之 hoti adhammiko 不成其調，在暹本作 hoty adhammiko，正確。
+p0129
+  01 蛇　底本之 ahinda，在暹本作 ahinā，正確。
+p0130
+  01 底本原無「第三」二字，依暹本補。
+p0131
+  01 不善士　底本之 asappuriso，在暹本讀作 asappuriso ti，以下注[＊]有者亦然。
+  02 不躊躇　底本之 alampetvā，在暹本作 alambetvā，近似雅語。
+  03 諸比丘　依暹本補 bhikkhave，以下注有[＊]者亦然。
+  04 躊躇　底本之 lampetvā，在暹本作 lambetvā，近雅語。
+  05 德　底本之 vannaṁ，在暹本作 vaṇṇaṁ，正確。
+p0132
+  06 善士　底本之 sappuriso，依暹本讀 sappuriso ti，以下注有[＊]者亦然。
+p0133
+  07 在底本以此章作〔七十四〕，今此章之分作一、二、三之二段，當非正確，應如暹本之作（七十二）之讀為是。而今分九、十兩段者，係依私見。
+  08 ev'assa 在暹本作 ev'assā，正確。
+p0134
+  01 底本（七十五）所作依前述理由，如今所作。又在文首，底本所置之「一」，亦是，今省之。
+  02 第一　底本之 aṅga，在暹本及釋文，均作 agga，以下倣之。
+p0135
+  01 底本此處不分章，分依暹本。文首在底本還有「二」，今亦省之。
+  02 如七十四之註[02] aṇga 之下所說。
+  01 參閱 Mps. VI. 5-6（漢譯南傳藏、七．大般涅槃經第六誦品第五節）、長阿含四（大正藏、一．二六b）。
+  02 參閱前出經之初部分（漢譯南傳藏、七．同第五誦品第一節以下）。
+  03 間　底本之 antarcna 與暹本及涅槃經原文，均作 antare。
+p0136
+  04 依下段分節，不可在此處分節，以故除底本之「二」。
+  05 或　底本之 va，係之誤。
+  06 「三」係「二」之誤。
+p0137
+  01 參閱增一阿含二一（大正藏、二．六五七a）。
+p0139
+  01 復　底本 paṭiggāhakā 之次後，依暹本加 pi。
+p0141
+  01 劍蒲闍 kammoja，釋文作 kamboja，兩者俱可。今旨外國之意。
+p0142
+  01 二　底本之 c'eva，在暹本其他作 dve ca，正確。
+  01 底本原無「第四」字，依暹本補，以下倣之。
+  02 參閱四集、六十四（今卷一二二頁）。
+p0144
+  01 參閱 Pug. IV. 15。
+p0145
+  01 參閱增一阿含、一八（大正藏、二．六三六a）、集異門、九（大正藏、二六．四〇五a）、Pug. IV. 19。
+p0147
+  02 補特伽羅　底本脫漏 puggalo，依暹本補。
+p0148
+  01 參閱 Pug. IV. 20。
+  01 參閱增一阿含二〇（大正藏、二 ．六五三c）。
+  02 澆頭　底本之 muddhāvasittassa，在暹本及釋文俱作 muddhābhisittassa，其意義兩相同，而最為普通所用之形式，當是後者，故取此。
+  03 灌頂　底本之 ābhiseko，在暹本作 ābhiseko，正確。
+p0149
+  04 梵行者　底本之 sabrahmacārihī，係 sabrahmacārīhi 之誤。
+p0150
+  05 增上心　底本之 abhicetasikānaṁ，在暹本作 ābh。
+  06 住　底本之 -vihāranaṁ，係 -vihārānaṁ 之誤。
+  07 自　底本之 dhamme 在其次後脫漏 sayaṁ，依暹本補。
+  08 在　底本有 bahulaṁ civaraṁ bahulaṃ，其第二之 bahulaṁ，應予刪除。
+  09 增上心　底本之 abhicetasikānānaṁ 應作 ābhicetasikānaṁ。
+p0151
+  01 參閱 Pug. IV. 29. 增一阿含二〇（大正藏、二．六五三c）。
+p0154
+  01 方　底本之 yācito，在暹本作 yācitova，正確。
+  02 世間　底本之 okasmin，係 lokasmin 之缺字。
+p0155
+  01 有比丘 bhikkhu 一詞，係依暹本補。
+  02 無上　底本之 amuttaraṁ，係 anuttaraṁ 之誤。
+p0156
+  01 殺生　底本之 pāṇātipātā，在暹本作 pāṇātipāto，正確。
+  02 子　底本之 anno，在暹本作 putto，正確。
+p0158
+  01 參閱 Pug. IV. 26。
+p0160
+  01 補特伽羅　底本 Puggala，係 puggalo 之誤。
+  02 復次　在 idha 之下脫漏 pana，依暹本補。
+p0162
+  01 參閱 Pug. IV. 23。
+p0163
+  01 參閱 Pug. IV. 23。
+p0165
+  01 參閱集異門、九（大正藏、二六．四〇四c）。
+p0166
+  02 質　底本之 dhārakajātako，在暹本作 dhārakajātiko，正確。
+p0169
+  01 參閱 Pug. IV. 17。
+p0172
+  01 貪　底本單作 santi（寂靜），如斯時，缺第六節，或以作第六節解，則缺第七節，在暹本作 rāgānaṁ santi。如斯時，則祇有第六節，而缺第七節。應據底本脚註所出之 B. K. rāganisanti，今且從此。
+  02 晡多利　底本之 Potalikena，在暹本作 Potaliyena，若作斯者，則符合於前文，故今採之。但於意義，底本、暹本卻兩相違異。
+p0173
+  01 參閱 Pug. IV. 8。
+p0175
+  01 參閱增一阿含一八（大正藏、二．六三五a）。
+p0176
+  01 參閱 Pug. IV. 11。
+p0179
+  01 Pug. IV. 12. 參閱。在底本依攝句文推測，雖有「一零四」之設，但此攝句文字，容有應予異議餘地。依釋文所示，底本之「一零五」係「一零四」；又「一零六」，係「一零五」之誤，一如暹本之脚註所出示，其脫漏之分，應視為「一零六」。
+p0180
+  02 底本十四行之……pe……應該代之〔103. 5〕置於前行。
+  03 底本脫漏補特伽羅（puggalo），依暹本補。下之註有[＊]者亦然。
+  04 底本脫漏，諸比丘！（bhikkhaVe），依暹本補之。下之註有[＊]者亦然。
+  05 底本脫漏，諸比丘！（kho bhikkhave），依暹本補之。
+p0181
+  01 增一阿含一七（大正藏、二．六三四a）。
+  02 菴羅係果名，漢譯為餘甘子。
+p0182
+  03 依暹本補入諸比丘！（bhikkhave），以下倣之。
+p0183
+  01 此章從缺。請見一百四之註[01]。
+  01 參閱 Pug. IV. 9。
+p0185
+  01 參閱 Pug. IV. 13。
+p0187
+  01 參閱 Pug. IV. 21。
+p0188
+  02 底本中脫漏此「諸比丘」（bhikkhave），依暹本補之。
+p0189
+  01 參閱 Pug. IV. 14。
+p0191
+  01 底本雖一如現譯，於雲之喻，有一零一、一零二兩章。故正確當是：「二之雲、瓶、湖水有二」之意義。而一章從闕。
+  01 參閱雜阿含三三（大正藏、二．二三四b）。
+  02 名　底本之 saññato，在暹本作 saññāto，正確。
+p0193
+  03 一切　底本之 so，在暹本其他 yo，正確。
+  04 實 yo 在暹本其他均無此字，正確。
+  05 誠然……被殺　底本之 sugatahato，在暹本作 suvadho，今據之。
+p0194
+  01 參閱雜阿含三三（大正藏、二．二三四a）、別譯雜阿含八（大正藏、二．四二九b）。
+p0195
+  02 如何　在底本有 kathan。在暹本及其他作 kin，今採後者，以下倣之。
+  03 裂皮　在底本有 maṁsavedhaviddho，暹本及釋文，俱作 cammavedhaviddho，今取後者，下註有[＊]者亦然。
+p0196
+  04 吉祥士　在底本作 puggalo，依暹本及其前後類文，改如今字；下註有[＊]者亦然。
+p0199
+  01 支　底本之 dhammehi，在暹本作 aṅgehi，正確。
+p0200
+  02 在　底本 vihiṁsāvitakkaṁ 之次下，脫漏……pe……之符號。
+  03 處　底本之 yā sā disā，在暹本作 yādisā，正確。
+  04 比丘　在底本脫漏 bhikkhu，依暹本補之。
+p0202
+  01 丈夫精進　底本之 purisaviraye，在暹本作 purisaviriye，正確。下註有[＊]者亦然。
+  02 不作　底本之 akāyiramānaṁ，係 akayiramānaṁ 之誤。
+  03 能……　底本之 saṁvāttati，係 saṁvattati之誤。
+  04 可意　底本之 maṅāpaṁ，係 manāpaṁ 之誤。
+p0204
+  01 可貪　底本之 rajaniycsa，係 rajaniyesu 之誤。
+  01 參閱 Mps. V. 8.（漢譯南傳藏經、七．第五誦品節）、長阿含四（大正藏、一．二六a）。
+p0205
+  01 底本脫漏「諸比丘！」（bhikkhave），依暹本補之。
+p0207
+  01 參閱增支部第二集、第一之一（漢譯南傳藏經增支部一七、第三十七經參照）。
+p0208
+  02 地獄　底之 nirāye，係 niraye 之誤。
+p0209
+  01 爾　底本之 ṭatthā，在暹本作 tathā 斟酌後之類文。
+p0210
+  02 不喜　底本之 antamano，在本作 anattamano，正確。
+  03 底本於此句之下，有 kāle pātabbaṁ akāle na pātabbaṁ 句，暹本亦無，斟酌文脈亦以無為妥當。故今省之。
+  04 汝之（te）依暹本補，以下倣之。
+p0211
+  05 底本脫漏「憤不喜」（kupito anattamano），依暹本作，正確。
+  06 善男子　底本之 kulaputtassa，在暹本作 kulaputto，正確。
+  07 五種　底本之 pañcahī，係之誤 pañcahi。
+p0213
+  01 參閱中阿含四三（大正藏、一．七〇〇b）。
+  02 離　底本之 vivice 係之 vivicc' 之誤。
+  03 等淨　底本之 sampasādo，在暹本其他作 sampasādanaṁ，正確。
+p0216
+  01 在底本中，dutiyaṁ 及第二行 tatiyaṁ 之次下，雖有省略符號之點線，但依以下類文看來依暹本，均付闕如，認為可行。
+p0218
+  01 天威光　底本之 devānubhāvānaṁ，在暹本作 devānubhāvaṁ，正確。下之注[＊]有者皆然。
+p0220
+  01 愛樂所執處　底本之 ālayarāmā，在暹作 ālayārāmā，正確。以下倣之。
+  02 歡喜所執處　底本之 ālayasamuditā，在暹本及其他作 ālayasammuditā，正確，以下倣之。
+  03 愛樂　底本之 anupasamarāmā，在暹本作 anupasamārāmā，正確。
+  04 底本上脫漏「說示時」（desiyamāne），依暹本補。
+  05 底本之 Tathāgatassa，雖不成其意義，但依前述類文及暹本，而採 Tathāgatena 形式。
+p0221
+  06 底本上脫漏「希有」（acchariyā）字，依前述類文及暹本補。
+  01 參閱 Mps. V. 16.（漢譯南傳藏經、七．第五誦品第一六節）。
+p0222
+  02 阿難　底本 Ānanda，係 Ānando 之誤。
+  01 參閱 Mps. V. 16.（漢譯南傳藏經、七．第五誦品第一七節）。
+  02 王　底本之 rañño，在暹本作 raññe，正確。
+p0225
+  01 參閱 Pug. IV. 6。
+  01 參閱 Pug. IV. 5。
+p0226
+  02 須引導者　底本之 ñeyyo，在暹本作 neyyo，正確。
+  01 參閱 Pug. IV. 18。
+p0227
+  01 參閱 Pug. IV. 4。
+  02 底本之脫漏「諸比丘」（bhikkhave）一字，暹本補。
+p0228
+  01 參閱 Pug. III. 15。
+p0230
+  01 底本上脫漏特伽羅（puggalo），依暹本補之。
+p0231
+  02 底本上有 idha pana 也有，pana 在暹本則無，徵諸前述類文，當以暹本為可。
+  01 參閱 Pug. IV. 7。
+p0232
+  02 說法師底之 dhammakatthikā，係 dhammakathikā 之誤。
+p0233
+  01 依前之一三〇攝句，以下之攝句，於暹本完全缺如，而底本之謬誤亦不在少，以語形而不固執於意作譯。
+p0235
+  01 參閱增支部、三集、九十三之五（南傳藏、一九．第五一掬鹽品三十九第五節）。
+p0236
+  01 諸比丘（bhikkhave），係暹本補。
+p0237
+  01 底本 vimuttisāro ti 之 ti 可以不用，依暹本可除。
+  01 此一行，底本中從缺，倣前之第二之五十，私加。
+p0238
+  01 能攝力　底本之 saṅgāhabalaṁ，在暹本作 saṅgāhakabalaṁ，正確。一百五十四、一百五十五之附[＊]者亦然。
+p0240
+  01 底本中之 va，係 vā 之誤。
+p0241
+  01 不懷　底本之 paṇidahissāmā，係 paṇidahissāma 之誤。
+p0243
+  01 參閱雜阿含二一（大正藏、二．一四八a）。
+  02 彼尼　依暹本其他，見於 ayyassa 次前之 sā 加補，其次之註[＊]者依然。
+  03 比丘尼……　底本 bhikkhunipassayo，應作 bhikkhunipassayo，以下倣之。
+p0244
+  04 「毀橋」者，是毀方便，毀因緣之義。
+  05 在 yatrā ca 之次下，在暹本及前之類文（A. I. 114, 6），有 me 字樣，今依之。
+p0246
+  01 底本之 assu，係 assa 之誤。
+  02 sugato 之前有 evaṁ 者，係依暹本補。
+p0247
+  03 難了知　底本之 dunnnayo，係 dunnayo 之誤。
+  04 正法　底本 dhammo 之次下，有 saddhammassa 之語，係依暹本補，以下倣之。
+  05 根本　此指比丘。
+  06 豐富　底本之 bāhulikā，在暹本作 bāhullikā，正確，以下倣之。
+  07 銷沉　行於五蓋之性質者，故有斯名。
+  08 不令忘失　底本脫漏 sammosāya，依暹本補。
+p0250
+  01 參閱增一阿含二三（大正藏二．六六八）。
+  02 底本無此補特伽羅（puggalo）語，依暹本補，下之注，者亦然。祇本章之五存此語。
+p0251
+  03 底本缺 pi，依暹補，下倣此。
+  04 遲通　底本之 dandābhiññā，係 dandhābhiññā 之誤。
+  05 本性　底本脫漏 pakatiyā pi 字，依暹本補。
+p0254
+  01 參閱集異門、七（大正藏、六，三九五b）。
+  02 底本上無有補伽羅（puggalo）語，依暹本補，下之注，亦然。
+p0255
+  03 參閱增支部、三集之十六（南傳大藏、一七、一八四頁）。
+  04 不取相　底本之 mimmitaggāhī, nimittaggāhī 係之誤。
+  05 名　底本之脫漏 vuccati 字，依暹本補。
+p0256
+  01 與前章之[01]同。
+  02 補特伽羅（puggalo），係依暹本補。以次附[＊]者然。
+p0257
+  03 比丘　底本之 ekacco，在暹本作 bhikkhu，集先章之例，後者應可行。
+p0258
+  01 遲　底本之 dandhābhiññā，在暹本作 dandhā，正確。
+p0259
+  01 摩訶（mahā）語，係依暹本補。
+p0261
+  01 此之一，係依暹本補，謂：evaṁ kho bhikkhave puggalo diṭṭh' eva dhamme sasaṅkhāraparinibbāyī hoti。
+  02 比丘（bhikkhu）語，依暹本補。
+  03 底本雖有 ekacco puggalo，但依前後文例，又據暹本，將之省略。
+  04 無行　底本之 sasaṅkhāra，係 asaṅkkāra- 之誤。
+p0262
+  05 此之一段，依暹本補，謂：evaṁ kho bhikkhave puggalo kāyassa bhcdā asaṅkhāraparinibbāyī hoti。
+  06 此等，底本之 ima，係 ime 之誤。
+  01 參閱雜阿含二一（大正藏、二 ． 一四六c）。
+p0263
+  02 比丘　底本之 bhikkhū，在暹本作 bhikkhu，正確。
+  03 疏遠　底本之 vyantihonti，在暹本作 vyantīhonti，正確。
+  04 意云云　底本之 dhammuddhaccaviggahītamanā，在暹本其他，作viggahitaṁmānasaṁ，正確。
+p0264
+  01 統為一雙　底本之 yuganandhena，應作 yuganaddhena。
+p0265
+  01 此　依暹本後類文之 taṁ 一語補。
+  02 其緣　底本之 yaṁ paccayā，可作 yaṁ-paccayā，下倣之。
+  03 於彼　底本之 ssā，係 ssa 之誤。
+  04 造作　底本中在 yaṁ 之次前，脫漏 abhisaṅkharoti 字。
+p0266
+  05 底本自此以下，作為一二七，從品[未>末]<resp="CBETA.maha">之攝句看，又依暹本，今在此不分章，隨之，其分節數字，亦應改。參閱集異門、九、（大正藏、二六．四〇三c）。
+p0268
+  01 參閱增一阿含一八（大正藏、二．六三九a）。一七二及一七三依底本號碼，各向上類推其一。
+p0269
+  01 參閱雜阿含九（大正藏、二．五九c）。
+p0270
+  02 非非有　底本之 no atth' 係 no natth' 之誤。
+  03 非有　底本之 ev' atth' 係 ev' atthi 之誤。
+p0271
+  01 在底本於此處不分章，依據品攝句及暹本如今文。
+  02 至已　在底本脫漏（upasaṅkamitvā），今依暹本加。
+p0273
+  01 參閱增支部．二集第十二之一～四同。（漢譯南傳大藏、一七．第二集第十二希求品之一～四）。
+p0275
+  01 我所　底本之 nāttani yaṁ，在暹本作 nāttaniyaṁ，正確。
+  01 參閱雜阿含一八（大正藏、二．一二八b）。
+p0276
+  02 信解　底本之 vimuccati，在暹本作 adhimuccati，正確。有[＊]者亦然。
+  03 膠　底本之 lasagatena，在暹本及釋，本均作 lapagatena，亦認為是底本之脚註所出lepagatena 之誤植，又認為或許 lapa，是 lepa 之轉訛。
+  04 比丘　底本之 bhikkhuno，在暹本作 bhikkhu，正確。以次之有[＊]者亦然。
+p0278
+  01 參閱 Mps. IV. 7-11.（漢譯南傳大藏經、七．大般涅槃經第四誦品第八～十一節）、增一阿含二〇（大正藏、二．六五二b）。
+p0279
+  02 所說　底本在 bhikkhnno 以次，脫漏 bhāsitaṁ 字，依暹本補。
+  03 而　底本 imassa 以次，脫漏 ca 字，依暹補。
+p0281
+  04 非　底本 idaṁ 以次，脫漏 na c' eva 字，依暹本補。
+p0283
+  01 參閱增支部、三集，百三十一（漢譯南傳大藏經、一七．第四戰士品百三十一第一節）。
+  02 又　底本於 mahato，次後脫漏 ca，茲依前後用例及暹本補。
+p0285
+  01 或　底本之 va，係 vā 之誤。
+  02 老　底本之 jivīti，在暹本之作 jirīti，正確。
+p0286
+  01 底本 viññātaṁ 以次，脫漏，依暹本補。
+p0288
+  01 又我　底本之 vāhaṁ，依暹本及其，他採 cāhaṁ 形，以下倣之。
+  02 胸　底本之 uratthalaṁ，在暹本作 urattāḷī 正確，以下倣之。
+p0289
+  03 疲　底本之 kīlamati，係 kilamati 之誤。
+p0290
+  04 決定　底本之 miṭṭhaṅgato niṭṭhaṅgato 之誤。
+  01 參閱雜阿含三五（大正藏、二．二五一a）、別譯雜阿含一一（大正藏、二．四五〇c）。
+p0291
+  02 底本之 Antabhāro，在暹本及四集三十之一有 Annabhāro，今依此。
+  03 與 Sakuludāyi 亦同處有 Sakuludāyī，今依此。
+  04 如何　底本之 kāyā，係 kāya 之誤。
+  05 不可殺　底本 avijjā，在暹本作 avajjhā，正確。
+p0292
+  06 任何者　底本 kiñcanaṁ n'atthiti 係 kiñcanaṁ atthīti 之誤，在暹本作 kiñcinatthīti。
+p0293
+  01 參閱中阿含、四五（大正藏、一．七〇九a）、佛說意（大正藏、一．九〇一b）。
+  02 底本作 gacchati 在暹本作 gacchatīti，正確，惟依日文舉譯，此為。
+p0294
+  03 多　底本暹本 bahu 作 bahū，正確。
+p0297
+  01 徒眾　底本之 parisatī，在暹本作 parisati，正確。
+  02 最大謙下　底本之 paramanipaccākāraṁ，在暹本作 paramanipaccakāraṁ，正確，以下倣之。
+  03 王　底本之 rañño，係 raññā 之誤。
+  04 更賢　底本之 paṇḍitaro，在暹本作 paṇḍitataro，正確，以下倣之。
+p0299
+  01 如何　底本之 sabbaso，在暹本作 sabbo so，據釋文 sabbo pi so 所稱看來，當從暹本。
+  02 在 Upaka 之次，在暹本有 vatteti parupārambhaṁ，底本可能是脫漏此字，今依暹本。
+  03 汝　底本上雖有 tvaṁ kho si（pi?）但在暹本，則單只 tvaṁ kho，今從此。
+p0300
+  04 底本之 akusalaṁ，在暹本作 akusalan ti，正確，但依日文本華譯，此字可從略。
+p0301
+  01 參閱集異門、七（大正藏、二六．三九五a）。
+p0302
+  01 應請　底本之 āhuneyyo，在暹本作 āhuneyyā，正確。自此以下之三個形容詞，亦準之。
+p0305
+  01 想起　底本之 pi lapanti，在暹本作 pilapanti，正確，以下倣之。
+  02 必斯　底本之 vāso，在暹本作 vā so，正確，以下倣之。
+p0306
+  03 「化生於化生」者，是「最初所生之天子，以後生……」。
+p0307
+  01 參閱 S. III. 2. 1。
+p0308
+  02 應云云　底本之 veditabbaṁ，在暹本作 veditabbo，正確，以下倣之。
+  03 住　底本之 saṁvāsamāno 暹本作 saṁvasamāno，正確。
+p0309
+  04 對談　底本之 saṁvohāramāno，在暹本作 saṁvoharamāno，正確。
+  05 後言說　底本之 pacchimavohārā，在暹本造 pacchimavohāraṁ，正確。
+  06 底本在 samāno 與 rogavyasanena 之間，脫漏略字符號。
+p0310
+  07 具慧　底本之 duppañño，在本作 paññavā，正確，下之注以，者亦然。
+  08 無慧者　底本之 paññavā，在暹本作 duppañño 正確，下之注以，者亦然。
+  09 尋思云云　底本之 atakkāvacanaṁ，係 atakkāvacaraṁ 之誤。
+p0311
+  10 底本 yathā ca 之次下，脫漏 abhinīhāro yathā ca 之字。
+p0312
+  01 有幻術　底本 māyāvi 在暹本作 māyāvī，正確。
+p0313
+  02 二～一一與增支部．三集、六十五之三～一四（漢譯南傳大藏經、一九．第二大品六十五之三～一四）幾乎完全相同。
+p0315
+  03 在 samādapeti 之前，有 na 者，是誤，在暹本則無。
+p0316
+  04 所語　底本之 taṁvuttaṁ，係 taṁ vuttaṁ 誤植。
+p0317
+  05 不實　底本之 abhutena，係 abhūtena 之誤。
+p0318
+  06 底本係以括弧顯示脫漏 imāya avaṭṭaniyā 二字，暹本亦從闕，姑且不論有無，於意義若通順，勉強不必視為脫漏二字，以下之 āvatteyyuṁ，在暹本作 āvaṭṭeyyuṁ，此為通形。
+  07 底本之 brāhmaṇā vessā，應作 brāhmaṇā…vessā…，又，其次之 suddā…，依前次之註，意義推量，宜單作 suddā，暹本亦然。
+p0319
+  01 參閱雜阿含二一（大正藏、二．一四八c）。
+  02 虎路是沙布迦之另一名。
+p0320
+  03 「三」底本將此置於次行之首，是錯。
+p0322
+  01 參閱中、三（大正藏、一．四三四a）。
+p0325
+  02 販馬　底本之 assa paṇīyaṁ，在暹本作 assapaṇiyaṁ，正確。
+p0326
+  01 圓　底本之 vacisamācāra，應是 cārā 之誤。
+p0327
+  02 底本將此作第四之初，從意義上作考量，今變更如此。
+  03 當云云　底本之 āpajjatīti，在暹本作 āpajjissatīti，正確。
+  04 底本之上雖不將此另置新，今依意義推量，當作第四之初視之。
+p0328
+  05 底本將此處，作第六之首，依前列同理，以變更。
+  06 依與前列同理，將此作第六之始。
+p0330
+  01 容色醜　底本之 durūpo，在暹本作 dūrūpo，正確。
+  02 底本之 sā，在暹本作 so，正確，以下倣之。
+  03 有嫉妒心　底本之 issamānikā 在本作 issāmaniko，正確；以下很多女性形容詞，在暹本作另性形容詞，一切皆應如暹本所示，在此不另一一指列。
+p0331
+  04 他　底本之 parilābha- 係 paralābha- 之誤植。
+p0332
+  05 底本之 karemi，係 kāremi 之誤植。
+p0333
+  01 M. LI（vol. I, p. 343）; Pug. pp. 56-61. 集異門第九（大正藏、二六 ．四〇六a）。
+p0334
+  02 參閱增支部、三集、百五十一（漢譯南傳大藏經、一七 ．祼形品百五十一以下）。
+p0335
+  03 勤　底本之 -locananuyogam，係 -locanānuyogam 之誤。
+  04 卻　底本之 āsanapaṭi khitto，係 āsanapaṭikkhitto 之誤。
+p0337
+  05 請見增支部、三集、七十之十四、註[30]。
+p0338
+  06 正是如是　底本之 evam evaṃ，係 evam eva 之誤。
+  07 參閱增支部、四集、十四之一（今卷二九頁）。
+p0340
+  01 參閱雜阿含三五（大正藏、二．二五六a）。
+  02 流轉　底本之 saritaṁ 在暹本同處及註釋，均作 saṁsaritaṁ，今依此。
+p0342
+  03 內　底本之 ajjhattikāyassa up，在暹本作 ajjhattikass' up，正確。
+  04 百八愛行　底本之 aṭṭhārasa taṇhāvicaritāṁ sātaṁ 在暹本作 aṭṭhataṇhāvicaritasataṁ，正確。
+p0343
+  01 參閱雜阿含三五（大正藏、二．二五六b）。
+p0349
+  01 Saḷo 在先前本文作 Sāḷho，不知究以何者為是。
+  02 底本作 Sāpugī，今從本文。
+  01 此一行　原本出在攝句前面，倣前例而移至品末。
+p0350
+  01 參閱 Pug. IV. 1. 雜阿含三七（大正藏、二．二七五a）。
+  02 諸比丘 bhikkhu 在暹本作 bhikkhū，正確。
+p0354
+  01 底本脫漏 pharusāya 一字。
+p0356
+  01 底本上將 bhikkhave 重複，是誤植。
+p0359
+  01 底本上脫漏 attanā ca 字，依暹本補。
+  01 參閱 Pug. IV. 2。
+p0360
+  02 底本上脫漏 attanā ca 字，依暹本補。
+p0361
+  01 參閱 Pug. IV. 2。
+p0362
+  01 參閱 pug. IV. 2 & 3.雜阿含三七（大正藏二．二七四c）。
+p0364
+  01 參閱 Pug. IV. 3。
+p0365
+  01 底本如是，暹本缺，或許是誤寫。
+p0370
+  01 在暹本作惡行品，據二二一之前半，應採此題為是；若據後，應採底本題目。
+p0373
+  01 底本上脫漏 attānaṁ 字，依暹本補。
+  02 底本上脫漏字 puññaṁ，依暹本補。
+  01 參閱二百二十一之註[01]。
+p0374
+  01 參閱集異門、七（大正藏、二六．三九六a）。
+  02 底本將 kamma 重複，茲據暹本刪除，以下倣之。
+p0375
+  01 與二三一註[01]同。
+p0377
+  01 在底本上，雖有 Sikho Moggallāno brāhmaṇo，但在暹本則有 sikhā-moggallānobrāhmaṇo，採之。
+p0380
+  01 一類　底本之 ekacco，在暹本作 ekaccena，正確。
+  02 殺母　底本之 mātā-jīvitā，應作 mātā jīvītā。
+  03 殺父　底本之 pitā-jīvitā voropitā，在暹本作 pitā jīvitā voropito，正確。
+  04 殺阿羅漢　底本之 arahaṁ-jīvitā voropitā，在暹本作 arahaṁ jīvītā voropīto，正確。
+  05 出　底本之 uppāditā，在暹本作 uppādītaṁ，正確。
+p0382
+  01 底本之 kaṇhasukkhaṁ 是 kaṇhasukkaṁ 之誤。
+p0385
+  01 餘　底本之 aññe ti，在暹本，其他作 aññehi，正確，以下注有[＊]者亦然。
+p0386
+  02 第二　底本之 tatiyo，係 dutiyo 之誤。
+p0387
+  01 在暹本有 bhikkhave 語，準其餘語法，應採取暹本。
+p0389
+  01 底本之 nāsessanti，在暹本作 nāsessantīti，正確。下之注以[＊]者亦然，今據日文本華譯，可從略。
+p0393
+  01 一切　底本之 'ssa，在暹本作 sabbe，正確，下之注[＊]有者，亦然。
+p0395
+  01 獸王　底本之 mahārājā，在暹本作 migarājā，正確。以下之注以[＊]者亦然。
+p0396
+  01 大益　底本之 bahukāre，在暹本作 bahukārā，正確。
+p0397
+  01 參閱[01]集異門、一〇（大正藏、二六．四一〇b）。
+  01 參閱集異門、一〇（大正藏、二六．四一〇c）。
+p0398
+  01 參閱集異門、一〇（大正藏、二六．四一一a）。
+  01 參閱集異門、一〇（大正藏、二六 ．四 一一b）。
+p0399
+  01 如前列本文，應作 sikkhānisaṁsaṁ（為學有勝利）。
+  02 於 ubhayena vagge 不成其意義，或許作 ubhayena vaggena，較符原意。vohāra，宣作 vohārā。
+p0400
+  01 底本上脫漏 abhiññā 一語，依暹本補。
+p0401
+  01 參閱 M. XXVI（vol. I, p. l63）、（漢譯南傳大藏經、中部經一．二二七頁）、中阿含五六（大正藏、一．七七六a）、本事經四（大正藏一七．六七九b）。
+  02 老法　底本之 jaradhammaṁ，係 jarādhammaṁ 之誤植。
+p0402
+  01 參閱四集、三十二（本卷六〇頁）。
+p0404
+  01 大　底本之 mahantaṁ，在暹本其他，則作 mahattaṁ，應以此為妄當，下之注以[＊]者亦然。
+p0405
+  01 參閱增支部、三集、九十四（漢譯南傳大藏經、一九．第五一掬鹽品九十四）。
+p0406
+  02 底本 bhikkhave 之次後，應刪除 bhikkhu。
+p0407
+  01 參閱增支部、三集、九十五（漢譯南傳大藏經、一九．第五一掬鹽品九十五）。
+  02 底本上，應採括弧，而 dhammānaṁ 之次下，脫漏 pahānāya kusalānam dhammānaṁ一語，今依暹本補。
+p0409
+  01 在暹本有 paññavā hoti ajaḷo aneḷamūgo 採之。
+p0411
+  01 第七業道品，在底本上從缺，依暹本補。本品十章，請參閱增支部、三集百五十三以下十章（漢譯南傳大藏經、一九．祼形品百五十三以下十章）。
+p0414
+  01 底本上脫漏 bhikkhve，依暹本補。
+  01 在暹本有「五十所不攝之諸經」。
+p0415
+  02 此一節，參閱增支部、三集、百五十一之三（南傳藏、一七、四九〇頁）Mps. II. 12（漢譯南傳大藏經、一九．祼形品百十一之三）。
+  03 該節與第三節，請參閱增支部、三集、百五十二（南傳藏、一七．四九一頁）。
+  04 策勵（vayamati）係依前述類文及暹本補充。
+p0416
+  05 以下之文，請參閱增支部、三集、百六十三（南傳藏、一七．四九五頁）。

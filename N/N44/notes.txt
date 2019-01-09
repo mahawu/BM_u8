@@ -1,0 +1,212 @@
+p0001
+  01 俱存論（yuganandha-kathā）「俱存」者，名為寂止、正觀。此以下稱為「俱存品」，只採用部分之名以為品名。
+  02 瞿私多園（Ghosītārāma）於 PTS. Dic 亦有 Ghositā。在暹羅本及底本皆有 sī。
+  03 在底本有「阿羅漢得」（arahattapattiṁ）。
+p0007
+  04 雖言十六行相實則列舉十七。但見下文最後之三未詳說。
+p0011
+  05 雖言十六行相以上列舉之處成為十四。
+  06 傾心底本雖作 āpajjati 在隨暹羅本為 āvajjati。
+p0029
+  01 無願之義云云 底本脫落此一句，依暹羅本補之。
+p0030
+  02 現前解　底本暹羅本雖均作為 abhiropana- 如其他之用例應改為 abhiniropana-。
+p0031
+  03 退轉　在底本雖有「識之義」依於暹羅本及其他用例改正之。
+  04 地之義　底本雖作「等之義」依其他之用例及暹羅本改正為 bhummaṭṭha。
+  05 善解脫　在底本雖有「善清淨」依暹羅本及其他之用例改正之。
+  06 覺　底本雖有 bhuñjana，依暹羅本及其他之用例應改正為 bujjhana。以下倣此。
+p0032
+  07 足　底本雖作 padaha 依暹羅本及其他之用例改正為 pāda- 其次思惟之足亦同。
+p0035
+  08 住之次，底本有 vacanaṁ 異本有 cavanaṁ, caraṁ 等語以在文脈上應為不須要故不譯。
+p0036
+  09 有量、徧纏底本雖作 pamāṇabandhā，依暹羅本改為 pamāṇavantā。
+p0041
+  01 尊者 ariya 或被思考指為阿利安族。非尊者準此可知。
+  02 墮者（vinipātika）vinipāta 即謂在地獄等之墮者。
+p0042
+  03 信根徧習在底本雖有 saddhindriyaṁ paribhāvitā，但隨暹羅本應讀為 saddhindriyaparibhāvitā。以下倣此。
+p0047
+  04 此之省略文準第四項乃至第七項可知。
+p0061
+  01 以上已於「轉法輪經」。
+p0064
+  02 以上，已於別經。
+p0065
+  03 已於第二之別經。
+p0069
+  04 以上已列舉五。應「脫一切智智」。
+p0077
+  01 「吞」底本、暹羅本皆作 Paccāgamanti，改正為 Paccācamanti。
+p0078
+  01 審慮力　底本作 nijjhanti，應採用暹羅本之 nijjhatti。
+p0081
+  02 此之一句底本脫落。
+p0085
+  03 隨順（ninna）Mvyut, 30, 3 及參照註記。
+  04 趣向（poṇa）Mvyut, 30, 4 參照。
+  05 臨入（pabbhāra）Mvyut, 30, 4 參照。
+  06 明所成　底本雖為 vijāmayā，乃為 vijjāmayā 之誤植。
+p0086
+  07 勝羣處（āsabhaṁ ṭhanaṁ），Mvyut, 245, 716 參照。
+p0087
+  08 非一　底本之 anekavidita 乃為 anekavihita 之誤植。
+p0091
+  01 底本脫「想」。
+p0099
+  02 底本 udāna 為 uddāna 之誤。
+p0100
+  01 無等慧　底本暹羅本雖俱作 assāmantapaññaṁ，但在 Mvyut. 48, 36 有語成為 asamaprajña（adi）以適合於今之文而採用。
+  02 捷慧 hāsapaññā 與所謂之 āśuprajña 相等。（Mvyut. 48, 36 參照）。
+p0107
+  03 此下在底本有重複文，依暹羅本改正之。
+p0108
+  04 第八人（aṭṭhamaka）指由阿羅漢數住於第八者，位於善異生與預流者之中間。
+p0109
+  05 隨從　在底本雖有 pacchā samannāgatā，今採用在暹羅本中有 pacchāgatā。
+p0111
+  06 在別本有「所問」其義亦通。
+  07 超越　在底本及暹羅本雖有 atighaṁsitvā（cati+ghars？），意義不明，今依別本。
+  08 於原文以下之五語（niddiṭṭhakāraṇā upakkhitakā te Bhagavato Sampajjanti）未詳。
+p0114
+  09 已在如註[02]所言在此處 hāsapañña 雖為 āśuprajñā 之轉成，而今見為 harṣaprajñā 使「捷」通於「喜」。
+p0115
+  10 除　底本於此處及以下雖作 vimodeti，但依暹羅本此為 vinodeti 之誤。
+  11 不忍　在底本有 vāseti 成為 nādhivāseti 之誤植。
+p0116
+  12 宿緣（pubbayoga）與所謂之宿業同。
+  13 開展　在底本雖作 pabhijjhati，依暹羅本應採用 pabhijjati。
+p0118
+  14 獨等覺者（paccekasambuddha）同於所謂獨覺。
+p0120
+  01 徧流 visavitā 未詳。今只依 vi+sru 所見之說。D. II. 213 之 visaritā 參照。恐非為「神境」（rddhi-）viṣaya 之轉訛耶？
+p0121
+  02 動轉 ijjhati 在此處使之通於 iñjati。
+p0122
+  03 多端　底本之 anekaviditaṁ 為 -vihitaṁ 之誤植。
+p0125
+  04 有色　底本暹羅本雖俱有 rūpam，應改為 rūpiṁ。（就本註及次註 D. I, P. 77 其他參照）
+  05 具一切之支節　底本及暹羅本之 sabbaṅga-paccaṅgaṁ 應改為 -paccaṅgiṁ。
+  06 使諸根圓滿　底本雖為 abhinindriyaṁ，但無寧採用暹羅本之 ahinindriyaṁ。
+p0126
+  07 象〔軍〕　底本之 hatthivaṇṇaṁ vā 應依暹羅本改為 hatthiṁ pi。
+p0127
+  08 底本在此之下雖為「定遍滿神通……乃至……」，若如此之返覆之句存在「……乃至……」則成為「衍」〔繁復眾多〕，見暹羅本。
+p0128
+  09 界（dhātu）在此處應見「慈」之類語。DA. I. 253 參照。
+p0129
+  10 此之五人底本暹羅本俱只舉四人。
+p0131
+  01 此一句在底本脫落，今依暹羅本補之。
+p0132
+  02 在底本暹羅本俱缺此一句，依下文及其他個處之用語補之。
+p0134
+  03 散亂者　在底本有「無散亂者」，依暹羅本改正。
+  04 證果（phalasacchikiriyā）在底本有「證道」magga。為誤植，依暹羅本改正。
+p0135
+  01 圓滿因緣　暹羅本作舍衛國因緣。
+p0136
+  02 於最捨轉變　Mvyut. 40, 9（神氏編 975）參照。
+p0138
+  03 此處缺十二依止之說明。
+p0142
+  01 以下至本論之終乃與大品第四根論二八中之文一致。（漢譯南傳藏四三．第四根論-二五節以後參照）。
+p0146
+  01 本論與大品第一、智論第二十七章之文（參閱漢譯南傳藏四三、智論第二十七章-一六九頁）幾乎一致。
+p0152
+  01 在北傳此語，解為正性離生。見 Mvyut, 245, 98-100 與其之註記。
+p0154
+  02 死魔之餌之意。
+p0155
+  03 勝義 paramatthaṁ 在一本有 peramattaṁ，應譯為「勝性」又「勝我」？
+p0158
+  01 「無欲」之原語 nicchāta 恐由 na+iccha+tā 而成立，應為一形容詞之習慣語。（Saññata 參照）PTS，Dic，之說（nis+psāta）如何？
+p0159
+  02 存以（vijjati）說明為「明」（vijjā）。
+p0161
+  03 漢譯南傳藏四三、大品第五解脫論十五節參照。
+p0174
+  01 五種之不便、八種之便利、九種之不便、十二之便利、八種之不便、十種之便利等見漢譯南傳大藏經三一卷本生經一三頁以下之註。
+p0266
+  01 底本之 vivinakānane 不得譯，依在暹羅本有 vivanakānane 譯之。
+  02 底本之 tadā maṁ 亦被想像為 tadā naṁ？在暹羅本亦有 tadā maṁ，且在 Jtm 與此相當之處有 tasya（= bodhisattvasya）tapaḥprakarṣāt pravisṛtena yasasāsamāvarjitahṛdayaḥ śakro devendrḥ 之故 maṁ 應訂正為 me。
+p0267
+  03 底本之 khetta 應為 puññakkhetta 之略，其次付以 * 號者亦然。
+  04 底本 muddikāmo 誤，暹羅本有 muddakāmo。次之有 * 者底本亦為 muddito 暹羅本有 muddato。
+p0268
+  05 me yācakam anupatte（暹羅本 anuppatte）之 me 為於格，見 Pis-chala 415。
+  06 底本之 anucchava 與 anucchavika 同義。
+p0269
+  07 在底本雖有 Kopāhanā mudusabhā，在暹羅本則有 Ko pākana mudū subhā，依此譯之。
+  08 底本之 ratti 在暹羅本則有 rattiṁ，此為正。
+  09 底本之 yadicchikaṁ 應倣照暹羅本之 yad icchakaṁ。
+  10 底本之 na pāhaṁ 在暹羅本寫為一字之故應成為 'n apāhaṁ（na aprārthaṁ）之意。
+  11 vajjaṁ 在暹羅本有 vejjaṁ，通於此意。
+  12 ūnadhanaṁ 雖得譯為少財，可見註釋為有財。
+p0270
+  13 在底本有 niccayo 為 nicayo 之誤。暹羅本亦作後者。
+p0271
+  14 在底本有（nikkhanto）yaññavāṭako，在暹羅本有 yaññavā tato 共如為誤。恐應成為 yaññavāṭato。
+p0272
+  15 vimaṁsayāmi 由 Skt. vimarsayāmi→vimassayāmi 更為使變化者。
+  16 為師威王之醫師。在暹羅本有 Sivaka。
+  17 在底本雖有 dantayi，在暹羅本則有 dandhayi，依於此。
+p0275
+  18 在底本 ubbidhā，在暹羅本有 ubbhiggā，應成為 ubbiddhā（= Sktụdviddhā）之誤。
+p0276
+  19 底本之 cubho 見 'C ubho。
+p0277
+  20 底本之 Pāto 成為梵語之 prātas。
+p0279
+  21 底本 nahāru 在暹羅本有 nhāru。
+  22 在底本雖有 idaṁ pāramī，在暹羅本有 imaṁ pārami。
+p0282
+  01 在底本雖有 ahosi，取暹羅本之 ahosiṁ。
+  02 底本之 ālaka 不見於辭典，在 Hemacandra; Desīnāmamālā I, 73 有 āla 之語附以 alpasrotas 之意。今依此在暹羅本有 āḷhake 此亦應成為誤。
+p0283
+  03 sarīrakicca 普通雖為火葬之意，在此處不適。返回原意譯之。
+p0285
+  04 底本之 kapi māgantvā 應為 kapi-m-āgantvā。
+  05 mutteti 是 mūrtayati（Skt）。
+p0286
+  06 底本之 gahareyyum 不正確，於暹羅本有 garaheyyu 者為宜。
+p0287
+  07 底本暹羅本雖皆為 tassa，不僅成為多餘之字不得譯，應改為 taṁ。
+  08 dubbhi 成為 dambhin（Skt）成為稀有之變化。
+  09 底本之 nimmini 在暹羅本有 nimminiṁ。
+  10 tiṭṭha te so mahārāja 之 te 為利害為格，so 第二人稱從屬為例譯之。
+p0288
+  11 在底本雖有 dhammadhammadevaputtacariyaṁ，依在暹羅本有 dhammadevaputtacariyaṁ。
+  12 底本之 dasa pāvake 為誤，在暹羅本有 dasa pāpake。
+  13 底本之 samimhā 為 sāmyati 之 I. Pl. iṣ aor.（cfḷabhimhā Geiger, Pāli Literatur undSprache 166）依荻原雲來博士之教示。
+p0289
+  14 底本之 bakkho 為誤，在暹羅本有 bhakkho 方為正。Skt. bhakṣyo 相當。
+  15 底本之 bhijjissati 在暹羅本有 bhijjīssatī。metre 之關係上後者為正。
+  16 顯示親愛之意。
+p0290
+  17 底本之 niyantaṁ 在暹羅本有 niyyantaṁ，兩者皆可。
+p0293
+  01 底本之 patikaro 在暹羅本有 paṭikaro，此在普通梵語而成為 prat ikaro，於此不能譯。此為 r 與 I 混同而被視 i 和 t 為同一故而成為 Parikara→Palikara→Paḷikara→Patikara？
+  02 底本之 mālāvacchañ ca 在暹羅本有 mālāgacchañ ca（摩羅之叢），ārāma 非為於格，又有 ca 故，並非為「在園植摩羅樹」之意，作園而用 ropayati 之語。
+p0294
+  03 底本之 kacci te bhante khamanīyaṁ 在暹羅本有 kacci khamanīyaṁ tava。
+  04 底本之 nāsito 在暹羅本有 nāsiyo。依此視為與 nāsyo（Skt）相當者。
+  05 sā gati jaṭila-hiḷitā 之最後之合成語可視為鬼語位置變遷而如此譯之。
+p0296
+  06 底本之 ajāy, ahaṁ 在暹羅本有 ajāyi'haṁ。
+p0297
+  07 在暹羅本為 mūgapakkha-cariya。
+  08 vutāya 應被用為能動意義之過去分詞，此語雖無用例，不然則以意義不通而如是譯之。
+p0298
+  09 成為一種之惡兆。
+p0299
+  10 底本之 orapāraṁ 在暹羅本有 orā pāraṁ，應為河之上游與下游之意。
+  11 底本之 vaṭṭāpoṭaka 在暹羅本有 vaṭṭakapotaka，此語甚良。
+p0301
+  12 底本之 vicintayitvā 在暹羅本有 vicintayitvāna。
+  13 底本之 addasa 在暹羅本有 addasaṁ。
+  14 pamocesiṁ 被用為希求法之 aorist 之例。與 M-Vastu, I, P. 224, 10 praviśensuḥ 對照。
+p0302
+  15 vaṭṭa 譯為輪雖為不良，依前後之關係可譯為球。
+  16 tyā 乃為吠陀之 tya 而與 te 相等。

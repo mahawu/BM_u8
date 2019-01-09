@@ -1,0 +1,14 @@
+K38 檔案比對版本來源記錄 20101116
+
+K:高麗大藏經研究所提供
+C:CBETA 人工輸入（版本一）
+R:CBETA 人工輸入（版本二）
+
+K:高麗大藏經研究所提供, Text as provided by Research Institute of Tripitaka Koreana(RITK)
+C:CBETA 人工輸入（版本一）, Input by CBETA(first version)
+R:CBETA 人工輸入（版本二）, Input by CBETA(second version)
+
+比對版本  高麗藏經號-冊-頁  版本   日期       卷數  經名                                     【朝代 譯者或作者】
+────────────────────────────────────────────────────────────
+KCR       K1402-38-p0512    V1.0   2010/11/16   30  高麗國新雕大藏校正別錄                   【高麗 守其等校勘】
+────────────────────────────────────────────────────────────

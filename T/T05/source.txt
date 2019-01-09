@@ -1,0 +1,13 @@
+T05 檔案比對版本來源記錄
+
+A:妙雲蘭若提供, Text as provided by Miao-Yuan Aranya
+P:眾生出版社提供, Text as provided by Chung Sheng Publishing Company
+J:日本 SAT 組織提供, Text as provided by SAT, Japan
+p:眾生出版社提供新式標點, Punctuated text as provided by Chung Sheng Publishing Company
+
+
+
+比對版本  大正經號-冊-頁  版本   日期       卷數  經名                                     【朝代 譯者或作者】            高麗經號-冊
+───────────────────────────────────────────────────────────────────
+APJp      T0220-05-p0001  V1.02  2000/03/01  200  大般若波羅蜜多經(第1卷-第200卷)          【唐 玄奘譯】                  K0001-01
+───────────────────────────────────────────────────────────────────

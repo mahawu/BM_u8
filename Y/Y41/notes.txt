@@ -1,0 +1,24 @@
+# ********
+# 新增註解
+# ********
+
+p0029
+  A01 《佛說處處經》卷1：「人命在呼吸之間」(CBETA, T17, no. 730, p. 527, a14)
+p0036
+  A01 《般若波羅蜜多心經》卷1(CBETA, T08, no. 251, p. 848, c8-9)
+p0050
+  A01 印順法師著作《教制教典與教學》第211頁。
+  A02 (ref yinshun::vol:23;page:p274)
+p0082
+  A01 (ref yinshun::vol:8;page:p125)
+p0122
+  A01 (ref yinshun::vol:23;page:p395)
+p0165
+  A01 (ref yinshun::vol:37;page:pa3)
+  A02 (ref yinshun::vol:37;page:pa5)
+p0168
+  A01 (ref yinshun::vol:34;page:pa1)
+p0170
+  A01 (ref yinshun::vol:29;page:p7-8)
+p0186
+  A01 (ref yinshun::vol:25;page:pa3)

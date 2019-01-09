@@ -1,0 +1,194 @@
+p0001
+  01 以何因緣云云，原意為：「來此者即為此緣耶？」
+p0002
+  02 上人法，以 uttari-manussa-dhamma 譯之。
+p0004
+  03 世界之起源（aggañña）於註有 lokupatticariyavaṁsa 故如是譯之。下之第二七經 Aggañña-suttanta 有 lokuppatti（世起因）。
+p0006
+  04 四足而行（catukuṇḍiko）四瓶。然，用兩臂兩膝而行，恰如四足之瓶。M. 1. 79 有 catukuntiko（漢譯南傳中部經典一、一〇三頁，有「四肢匍匐而行」）。
+p0007
+  05 腹脹（elasakena），漢譯有譯為腹脹，於次節有節用食物故，暫從此譯法而譯。
+p0008
+  06 依註釋，不得語起死屍，有此事是謂依佛之威力。北傳之漢譯，以此事實人名人化而譯為起屍餓鬼 kālakañja。
+p0009
+  07 依註釋，是行一、死時，二、生病，三、再生，四、死法，五、死鬼語之五種神通。
+p0013
+  08 見（diṭṭhi）在陷入之見，是指邪見。
+p0021
+  09 闍利（Jāliya）參照漢譯南傳藏長部經典一、一七五頁。
+p0027
+  10 不墮著（na parāmasāmi）其他之意見或不陷欺瞞。
+p0028
+  11 涅槃（nibbuti）覺音解為煩惱滅（kilesa-nibāna）。
+  12 虛空（suññaṁ）是無人之處。
+p0040
+  01 畜狗家，原本雖為 saṁkittisu，別本作 saṅgitisuna 應為畜狗家之意義。
+p0042
+  02 雷鳴（asani-vicakkaṁ）雷鳴雨害之意。
+p0046
+  03 樹節，是和真實同義。
+p0075
+  01 對於經題之 aggañña，於巴利聖典出版協會之巴英辭典，分解為 agga+ñña 於志魯達斯之辭典，把 aggañña 分解為 agra+jña，同樣由此而想，雖為 recognised as primitive primeval, jña 非受傷之意。勿論，aggañña 是 aggaṁ+ja=aggañ+ja 依於類化作用，成為 agāñña 為「最初生」之形容詞？或該譯為「原人」。或想更妥當者於大事（Mahāvastu I.P1.340）有類同 agrinya 語。例如 anya añña, bhanya bhañña, agrinya 等於 agañña 該是不會錯吧！
+p0081
+  02 地餅（pappaṭaka）或言「地膏」。牛乳與米混煮而作如圓子之食物，巴利聖典協會之巴英辭典為「芽」「瘤」「樹節上之芽」等，但不採用此。
+p0090
+  03 此上原本缺 vusitavā「梵行[己>已]<resp="CBETA.maha">立」一句。
+p0092
+  01 信（Pasanno）原來差不多是愉快、明快之意，但此語與 Bhagavanti（Bhagavant 之於格）結合時，就有信仰上之意，亦含有滿足知之意義故，補以如是悟得而譯。
+p0093
+  02 總相之法（dhammanvayo），在此，是通一切法類集之意。
+p0094
+  03 心隨煩惱（cetaso upakkilesā）意思是隨於心之惱亂之事；應解為諸煩惱之總稱。
+  04 「歸命」Pasīdiṁ 是語源 pssāda 同，為於格時，以宗教信仰之意義，而翻為歸命。
+p0095
+  05 記心（ādesanā）依新譯之譯語例，北傳漢譯於自歡喜經譯為觀察。故由此兩譯而混用之。若取其意而言，亦宜稱為讀心術。
+p0096
+  06 一類（ekacco）是一人，或某人亦同樣。
+  07 尋之擴大活動（vitokko-vipphāra）於 SKT. 為 vitarkavisphāra, vi sphāra 是振動之義，為想事物則如所謂天籟響，可解為依尋、伺、尋之擴大活動之聲，覺音以此為隨眠等之聲，意未必明瞭。
+p0098
+  08 精勤（padhāna）勞力之義，一般此語於三十七菩提分法中之四正勤之正勤（sammāppadhāna）被熟語化，相當於梵文之正斷或正勤 samyakprahāṇa，然，於此處實說七覺支，所謂現修所斷之斷的意義吧！
+p0099
+  09 離間語（pesuṇiyaṁ）原本有 pesuniyaṁ 是錯誤。
+  10 如賢人與賢人 mantā mantā, mantā 是 mantar（賢人）之 Nominative，有用為如賢人，如聖者、如思索家之狀態，今從慣用法。
+  11 修定 jnāyī 原本為 ñāyī 從暹羅和註釋。
+p0100
+  12 不還一般為 anāgāmin 而於此唯有 opapātiko（化生），化生則相當於梵文 upapādukāḥ 意為無父母而生，不依父母而生，取否定方面，特別想用於此之此字，依前後之文勢，意譯為不還。
+p0101
+  13 「知世界破壞……」原本有 jānāmi saṁvaṭṭi vā loko vivaṭṭiva ti 而沒有 na，「知世界之破壞又成立」異本附有 na，又此類之三昧，關於世界之成壞，無憶起什麼，故可為不知，不唯如此，言世界之未來時，其次如本經所示，看為不知於未世界成立又破壞，其對比上，於此加入 na，為 najānāmi 較適當。
+  14 「我與世界……是常住」是 atthi（tveva）sasati-saman 補以我和世界之主格而譯之。atthi 雖依 Stede 亦可用為第三人稱之複數，故思惟前後之文勢時，想補為我和世界之主格為確當。
+p0102
+  15 世界之破壞（Csaṁvaṭṭi）是世界展開之收拾，應看為離散之意，決非消滅之意，對此，世界之成立（vivaṭṭi）是展開、形成之意。
+p0105
+  16 一九 原本為二〇，是錯誤，以下之號碼順增一。
+  17 無苦憂（akasira-lābhi）非難行苦行而得之意。
+p0106
+  18 一者（ekaccam），於此謂過去未來，有與佛同等之等正覺，現在則無有，認為過去和未來者為一，對此現在者亦為一。因過去或未來之沙門、婆羅門與佛正同等者；然是指過去佛和未來佛。
+  19 對於法之順法（dhammassa cânudhammaṁ）者，意是法隨其法之法，當看為正說之法與解其法之豫備法之意。覺音謂：法者，是出世間和世間之經，即九分教之意義。
+p0108
+  20 自歡喜經（sampasādanīya）於漢譯（北傳）翻為自清淨經，而緬甸本，在此處之經題為 Sampasādaniya, Sampasādanīya 是 sampasāda 義務分詞，又未來分詞之語尾附加 anīya「引導於歡喜」或有「當為清淨」之意。Sampasādaniya 於 Sampasādana 附伽 taddhita 語尾 iya 者，則「令歡喜」，或「有成為歡喜」之意。
+p0124
+  01 原本為 navaṁ，於暹羅本有 na vo 從此而譯之。
+p0131
+  02 如何云云，於原本 kiṁ no ahaṁ……應訂正為而讀。
+  03 原本於次有「對汝等不該說」一句，今依異本除去此句，下於第三七節之初處亦然。
+p0139
+  01 其等一一間之區分（suvibhatt-antara）「其間之區分」之字也。Mahāpadāna-s 不見其他 Pāli 語系，故加註。
+p0140
+  02 安闍那（añjana），眼圍之化粧料。
+p0141
+  03 原本梵音和迦陵頻伽音，各別而出，為三十二相。Mahāpadāna-s 等為一相，從此而譯。
+p0142
+  04 Brahmāyu 不見於 Mahāpadāna 等，故加註。
+p0144
+  05 善持者（sundhara），字義不明，想是由 su-dhara 來的吧！（大地言為 dharaṇī）
+p0148
+  06 廣長云云，於原本有 vipula-dīgha-pāṇika，此時 pāṇika 應讀為 paṇhī。
+p0151
+  07 其隨從者云云，於原本 bhavati parijanassa vo vidheyeyyo.（對隨從者，實隨從也。）意義不通，今佛音 Buddhaghosa 讀為 bhavati parijano assa vo vidheyyo。
+  08 此之，於原本雖有 mahimaṁ 註云 mahim-imaṁ。
+p0152
+  09 教言者（vacanappaṭikara），其義不明。
+p0153
+  10 身毛向上生靡狀云云，原本雖為 ubbham uppatita-lomavāsaso 依暹羅本，應讀為 ubham uppatitalomavā assa。
+p0164
+  11 基相之前兆。原雖有 pubba-nimittamassatam 應讀為 pubba-nimittam assitaṁ。
+  12 無減退，原本有 asahāna 應讀為 aparihāna。
+  13 uddhaggassa rasa-haraṇiyo givāya jātā honti samabhivāhiniyo 不見於其他經，故加註，其意義甚不明瞭。補以喉頭有味覺神經善味覺，在傳中有言：味中得上味，咽中二處律液流出（智度論卷八十八、[困>因]<resp="CBETA.maha">果經卷一），佛舌清淨故，令諸飲食變成上味（大婆沙卷百七十七）等亦有，參照大毘婆沙論卷百七十七（大正藏二七、八八八c）、大若般卷三百八十一（大正藏六、九六七c），大智度論卷四（大正藏、二五、九〇c～九一a），Burnouf, Lotus, 11. pp. 566-7。
+p0165
+  14 斜視，原本雖有 visa citaṁ 應依暹羅本讀為 visāvi。
+p0170
+  15 一一云云，原本為 ekeka-lamūpacit-aṅgavā ahu，aṅgavā 之義不明，此處之意，解成 aṅga-vant。
+p0173
+  16 激強云云，字義為「語激強粗惡語」。
+p0174
+  17 二對之足，dvidu-gama，四足即獸類之意。
+p0175
+  18 忉利天，於原本有 tidiva 意義為 tāvatiṁsa-deva。
+  19 唯此偈和其不同，不語有關出家，多少要注意，何故，不明也。
+  20 偽幣（kaṁsakūṭa）偽造貨幣，以欺詐。
+p0177
+  21 死歿，原本雖有 caviya 應讀為 cavitvā。
+  22 而，原本為 na 由別本讀為 puna。
+  23 二生 dija 之義不明。
+p0201
+  01 人煙（依日文為人之味）vijanavāta 分解為 vi+jana+vāta。
+p0202
+  02 鴦耆羅 Sumaṅgsla-vilāsinī 於 Siamese edition, vol. īi. p. 193 由肢節 aṅga 發出光明 rasmi 故稱為安義羅沙〔註〕，此本由俗解。Aṅgīras 出於吠陀時代聖仙之名，以此如為佛之一稱呼。
+  03 此二三行之文法，雖和原文不盡相同，但其意義相信是相同的，依註釋書補譯之，但依註釋書：「不用兩舌」乃至歸敬瞿曇佛的人，謂應歸命之。
+p0205
+  04 死者及用兩舌者、陰口銳利者、殺生者、竊盜者，詐欺人等，習慣上牽出城之南門，或附於荼毘，斬首、或鞭打。於中阿含四卷波羅牢經有「又復見王收捕罪人，反縛兩手，打鼓唱令出南城門」之文，[尢>无]<resp="CBETA.maha">同經說由北城門拉出罪人，於[塹>斬]<resp="CBETA.maha">腰而棄著。
+p0211
+  05 置於石竈而炊（tuṇḍikire pacitvāna），中阿含世記經須於鬱單曰品：「其上常有自然釜鍑，有摩尼珠，名曰焰光，置於鍑下，飯熟光滅，不假樵火，不動人功。」中阿含第十二卷於鞞婆陵耆經：「大王！我便受鬱單曰法，即於籮釜中，取羹飯而去。」於 Sumaṇgala Vilāsinī p. 196 說明，釜置無煙炭火而炊，此稱「光石」以此石據三箇釜置其上炊，云由石發光，米自然煮。
+  06 隻諦〔之乘物〕有一歸擬如馬形。
+p0213
+  07 聖尊（mārisa）是喜語（piyavacana）敬語（garuvacana）等等，唯現於呼格，多用於天人稱呼佛或佛弟子，甚少用於佛叫天人或佛弟子 Rhys Davids 是 dearsir。之譯。
+p0214
+  08 稱此 yakkhanaṭṭhika 為夜叉大臣，於註有十二支，於此唯舉十支或八支。殊（副）Vessavaṇa 名詞是如試由 Visāṇā 來理解，想不可能的事 Vessavana〔梵 vais'ravaṇa〕是因 ri+savaṇa 之變化來的，而 savaṇa 之語根是 su（梵 sru），正是「多聞廣聞」之意思吧！s'ru（正確是 sru）有漏出滲出之意，然而從此 Vessavaṇa 來解還是有困難。
+p0218
+  09 以空鉢 Sumaṇgala-Vilāsinī（P.201）似比丘所用鉢之青銅鉢，被於頭首上，以鐵杵叩其中央，是一種處罰法，如此註是正確者 Rhys Davids 譯為 They would bend down his head like an empty bowl 就不適正。
+p0225
+  01 鐵工匠 Kammāraputta 之子，此乃生來就為鐵工匠之意，其意即鐵匠家之子，故唯如此譯之。
+  02 鬱婆達迦 Ubbhaṭaka 此字又作 Ubbhaṭṭhaka，直立之意，從佛音註，由其高聳立而得名。
+p0226
+  03 依 nissaya 有二義，一是「持」，二是「……近」之意義中 Rhys Davids 氏是一，Neumann 氏是取二之意，無乃二之為是。
+p0227
+  04 起志者 paṭibhātu 意思是：「於汝之心……起」，今如是譯之。
+  05 橫臥 tam aham āyamissāmi 原意為伸背。
+  06 作起想（utthānasaññaṁ manasikaritvā）於集異門足論，作當起想，即臥時，同時之意識已想起來，非心之偷安，無不是具念正知以明佛心情。
+p0228
+  07 譏慊（visatta-rūpā），唯緬甸本之二，於暹羅之印刷本有載，其他版本皆缺。
+  08 義利（attha）一語，有意義、利益之二義也。
+p0229
+  09 行在集異門足論釋為命根 jivitindriya＝壽。
+p0231
+  10 精勤原文有 padhāna 以上二九以來之精勤字，皆此字之譯，而此字玄奘譯為斷，今作「於精勤不遮止」「於斷不遮止。」又（譯為四正斷或四正勤，同字之異譯。參照本經四法之下），斯字，不管怎樣是勤之意義，其勤不是斷惡不善法之勤，今一同字屢作 pahāna（skt.prahāna 斷）又如上譯為斷。
+  11 明云云 Rhys Davids, The higher knowledge and emancipation; Neumann, Wissenund Erlosung. 集異門足論二．二六與此同字，本來之意，是上之無明之反對面，關於萬法之真相，佛教之教理，明即知見及依此為解脫之意，於集異門足論，例無學之三明（參照本經三法中）解為心解脫、慧解脫及無為解脫＝擇滅涅槃之三解脫。
+p0234
+  12 不得快意原語 na adhimuccati，於漢譯作為不善解脫等字。
+p0235
+  13 盛在原文反覆記述為化作，暫如此譯之。
+p0242
+  14 不動之信（avecca-ppasāda），avecca 是梵文之 avetya 其 avetya 是 ava+i+tya 即深理解，證之意 pasāda（skt.prasāda）是信之意思。
+p0248
+  15 窣羅（surā）法蘊足論諸律，及其之委解未必一致，今依法蘊足論之解釋：「主麥為主，投入諸藥物，醞釀而合成的。」
+  16 迷麗耶（meraya）同上，諸根、莖、葉、花、果等和諸藥物合成醞釀為酒。
+  17 末陀同上，葡萄酒及其他或上面之窣羅、迷麗耶等。
+  18 諸放逸處，（Pamādaṭṭhāna）如法蘊足論，此諸放逸處，是上三種酒之外，且釋依其酒惹起諸醉餘之放逸，以原意似少有出入，想是此三酒之結語。
+p0249
+  19 「意不安」原本 maṅko-bhūto，於諸辭典有 maṅku-bhūto（discontented, troubled, confused）今從此譯之。
+p0250
+  20 五心蕪（pañca cetokhilā）（Rhys Davids, 5 Spiritual barrenness; Neumann, 5 Herzbeklemmungen）漢二譯無，集異門足論是五心栽。
+p0252
+  21 不被牽引，原本為 na vimuccati，以從佛音註 nadhimuccati（=is not drawn to）。
+p0254
+  22 定相 aññataraṁ samādhi-nimittaṁ（Rhys Davids, some given clue to eoncentration）引導禪觀，諸對象心象，即後說之十徧處，不淨觀等 cf. Points of Controvercy by Mrs. Rhys Davids, p. 388。
+p0258
+  23 眾多等，緬甸印刷本無此一句，上亦然。
+p0263
+  24 應證位成就人，依別本補入。
+p0264
+  25 得十二分（yāvadatthaṁ pāripūriṁ）如文，「十分如所願」。
+p0266
+  26 下者，謂五欲。
+  27 生處（uppaṭṭi）意為所願之生處。
+p0267
+  28 具戒離貪者之心願，今巴利聖典協會本之文，若依其文而譯者：「具戒者之心願是離貪性」，從諸傳本之異記，為與上已揭之文相應，今如是譯之。
+p0269
+  29 有色等，又可譯為「有色……」。
+p0271
+  30 別受 appatisaṁvedino 於集異門足論卷一九，記為別想。
+p0272
+  31 邊地（paccantimesu janapadesu）此中古來解為欲界四大洲之一，想北俱盧洲亦含括在內，蓋同洲無苦受，樂著而離染道。
+  32 供養（yitthaṁ）中阿含八難經「齋」。
+  33 燒施（hutaṁ）中阿含八難經「咒說」，燒施是於婆羅門教，酪等投於火中，謂燒而供奉等。
+  34 正至（somaggātā）於八難經有「往至真人之善趣」。
+  35 正行（sammā-Paṭipannā）八難經「善法善向」。
+p0274
+  36 喜談（piyasamudāhāro）若依佛音註，自談人之法，喜於傾聽，對他又由此而談法，令喜聞也。
+  37 勝法（abhidhamma），如所周知，音譯為阿毘曇，阿毘達磨，字義如今之譯，意為卓越之法。
+p0284
+  01 依他等（anaññathā）或譯為「不變異」。
+p0292
+  02 諸徵（sa-uddesṁ=with explanation）集異門足論同上，譯「言說」。現在是示說結果標徵之意而譯之。
+p0296
+  03 所行（ācāra-gocara）玄奘常譯為規則所行。

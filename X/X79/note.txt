@@ -1,0 +1,132 @@
+====2002-08-15====
+# 常錯字檢查至 A0060,B0437→A0071,B0477
+# n1557 p0012 缺 Q1「七佛」，p0260 缺 Q1「雜著」。
+# n1559 p0288 缺 Q1「示眾機語」。
+====2002-08-29====
+# 序性質的小經號行，如 No. 1557A，改作 No. 1557-A。
+  若有標題，則連同標題（標題行第一行前面插入一個半形空白），加"="改作"X"or"x"標記。
+# 經本文之前的最後一個前序或Q1標題的結尾加上</Q1>。
+# 對表示抬頭尊稱的行加小"k"。
+# byline 性質的"?"改作"A"接著"Ｂ"。
+# 卷與卷交接處插入</Q>。
+# 修訂若干「卷末附文」。
+# 修改「音釋」的段落標記。
+# 加</L>。
+# 使用特殊縮排段落標記，如：p##<p,1,-1>。
+# p0554a17 SM 標記不夠用，暫打"?"。
+====2002-09-06====
+# 重複的 mulu 如下，XML人員可能須手動處理：
+     2 <mulu type="其他" level="1" label="文殊道禪師"/>
+     2 <mulu type="其他" level="1" label="白楊順禪師"/>
+     2 <mulu type="其他" level="1" label="西天祖師"/>
+     2 <mulu type="其他" level="2" label="七祖婆須蜜尊者"/>
+     2 <mulu type="其他" level="2" label="三祖僧璨大師"/>
+     2 <mulu type="其他" level="2" label="九祖伏＆CB00501；密多尊者"/>
+     2 <mulu type="其他" level="2" label="二十一祖婆修盤頭尊者"/>
+     2 <mulu type="其他" level="2" label="二十七祖般若多羅尊者"/>
+     2 <mulu type="其他" level="2" label="二十二祖摩拏羅尊者"/>
+     2 <mulu type="其他" level="2" label="二十五祖婆舍斯多尊者"/>
+     2 <mulu type="其他" level="2" label="二十祖闍夜多尊者"/>
+     2 <mulu type="其他" level="2" label="二祖慧可大師"/>
+     2 <mulu type="其他" level="2" label="二祖阿難尊者"/>
+     2 <mulu type="其他" level="2" label="五祖提多迦尊者"/>
+     2 <mulu type="其他" level="2" label="八祖佛陀難提尊者"/>
+     2 <mulu type="其他" level="2" label="六祖彌遮迦尊者"/>
+     2 <mulu type="其他" level="2" label="十七祖僧伽難提尊者"/>
+     2 <mulu type="其他" level="2" label="十三祖迦毗摩羅尊者"/>
+     2 <mulu type="其他" level="2" label="十九祖鳩摩羅多尊者"/>
+     2 <mulu type="其他" level="2" label="十二祖馬鳴尊者"/>
+     2 <mulu type="其他" level="2" label="十八祖伽耶舍多尊者"/>
+     2 <mulu type="其他" level="2" label="十六祖羅＆CB00264；羅多尊者"/>
+     2 <mulu type="其他" level="2" label="十四祖龍樹尊者"/>
+     2 <mulu type="其他" level="2" label="十祖＆CB00169；尊者"/>
+     2 <mulu type="其他" level="2" label="南嶽第十七世"/>
+     2 <mulu type="其他" level="2" label="青原第十一世"/>
+     2 <mulu type="其他" level="2" label="青原第十世"/>
+     2 <mulu type="其他" level="2" label="青原第十二世"/>
+     2 <mulu type="其他" level="2" label="青原第十五世"/>
+     2 <mulu type="其他" level="2" label="青原第十四世"/>
+     2 <mulu type="其他" level="3" label="三聖逢人即出"/>
+     2 <mulu type="其他" level="3" label="三頓棒"/>
+     2 <mulu type="其他" level="3" label="世尊拈華"/>
+     2 <mulu type="其他" level="3" label="五位"/>
+     2 <mulu type="其他" level="3" label="侍者報大王來"/>
+     2 <mulu type="其他" level="3" label="南嶽下第六世"/>
+     2 <mulu type="其他" level="3" label="南嶽下第十一世"/>
+     2 <mulu type="其他" level="3" label="南嶽下第十七世"/>
+     2 <mulu type="其他" level="3" label="南嶽下第十三世"/>
+     2 <mulu type="其他" level="3" label="南嶽下第十世"/>
+     2 <mulu type="其他" level="3" label="南嶽下第十二世"/>
+     2 <mulu type="其他" level="3" label="南嶽下第十六世"/>
+     2 <mulu type="其他" level="3" label="南嶽下第十四世"/>
+     2 <mulu type="其他" level="3" label="南嶽下第四世"/>
+     2 <mulu type="其他" level="3" label="即心即佛"/>
+     2 <mulu type="其他" level="3" label="司空山本淨禪師"/>
+     2 <mulu type="其他" level="3" label="國師三喚侍者"/>
+     2 <mulu type="其他" level="3" label="夾山境話"/>
+     2 <mulu type="其他" level="3" label="山居"/>
+     2 <mulu type="其他" level="3" label="廓侍者問德山從上諸聖向甚麼處去"/>
+     2 <mulu type="其他" level="3" label="廬陵米價"/>
+     2 <mulu type="其他" level="3" label="德山托＆CB00425；"/>
+     2 <mulu type="其他" level="3" label="德山見龍潭"/>
+     2 <mulu type="其他" level="3" label="慈明水盆"/>
+     2 <mulu type="其他" level="3" label="新婦騎驢"/>
+     2 <mulu type="其他" level="3" label="日面佛月面佛"/>
+     2 <mulu type="其他" level="3" label="晦堂拳頭"/>
+     2 <mulu type="其他" level="3" label="洗＆CB00425；盂"/>
+     2 <mulu type="其他" level="3" label="燒木佛"/>
+     2 <mulu type="其他" level="3" label="玄沙三種病人"/>
+     2 <mulu type="其他" level="3" label="產難"/>
+     2 <mulu type="其他" level="3" label="竹篦"/>
+     2 <mulu type="其他" level="3" label="臘月火燒山"/>
+     2 <mulu type="其他" level="3" label="臨濟囑三聖"/>
+     2 <mulu type="其他" level="3" label="興化勘同參"/>
+     2 <mulu type="其他" level="3" label="芭蕉拄杖"/>
+     2 <mulu type="其他" level="3" label="雜詠"/>
+     2 <mulu type="其他" level="3" label="靈雲悟道玄沙未徹"/>
+     2 <mulu type="其他" level="3" label="青原下第九世"/>
+     2 <mulu type="其他" level="3" label="青原下第五世"/>
+     2 <mulu type="其他" level="3" label="青原下第八世"/>
+     2 <mulu type="其他" level="3" label="青原下第四世"/>
+     2 <mulu type="其他" level="3" label="非心非佛"/>
+     2 <mulu type="其他" level="3" label="須彌山"/>
+     2 <mulu type="其他" level="3" label="風頭稍硬"/>
+     2 <mulu type="其他" level="3" label="香嚴上樹"/>
+     2 <mulu type="其他" level="3" label="魯祖面壁"/>
+     2 <mulu type="其他" level="3" label="黃龍三關"/>
+     2 <mulu type="其他" level="4" label="汾陽善昭禪師法嗣"/>
+     2 <mulu type="其他" level="4" label="洪州黃龍慧南禪師法嗣"/>
+     2 <mulu type="其他" level="4" label="終南山惟政禪師"/>
+     2 <mulu type="其他" level="4" label="蘄州五祖法演禪師"/>
+     2 <mulu type="其他" level="5" label="杭州徑山道欽禪師"/>
+     2 <mulu type="其他" level="5" label="舒州天柱山崇慧禪師"/>
+     3 <mulu type="其他" level="2" label="南嶽第十四世"/>
+     3 <mulu type="其他" level="2" label="青原第十三世"/>
+     3 <mulu type="其他" level="3" label="偶作"/>
+     3 <mulu type="其他" level="3" label="南嶽下第五世"/>
+     3 <mulu type="其他" level="3" label="南泉油餈"/>
+     3 <mulu type="其他" level="3" label="有句無句"/>
+     3 <mulu type="其他" level="3" label="江西道一禪師嗣法"/>
+     3 <mulu type="其他" level="3" label="百丈再參馬祖"/>
+     3 <mulu type="其他" level="3" label="青原下第七世"/>
+     3 <mulu type="其他" level="3" label="青原下第六世"/>
+     3 <mulu type="其他" level="4" label="江西馬祖道一禪師法嗣"/>
+     4 <mulu type="其他" level="2" label="南嶽第十三世"/>
+     4 <mulu type="其他" level="3" label="二祖安心"/>
+     4 <mulu type="其他" level="3" label="外道問佛"/>
+     4 <mulu type="其他" level="3" label="示眾"/>
+     4 <mulu type="其他" level="3" label="罽賓斬師子尊者"/>
+     4 <mulu type="其他" level="3" label="贊達磨"/>
+     5 <mulu type="其他" level="2" label="南嶽第十五世"/>
+     5 <mulu type="其他" level="2" label="南嶽第十六世"/>
+     5 <mulu type="其他" level="3" label="＆CB00177；樹"/>
+     6 <mulu type="其他" level="3" label="達磨見武帝"/>
+     7 <mulu type="其他" level="3" label="狗子無佛性"/>
+     7 <mulu type="其他" level="3" label="麻三斤"/>
+     8 <mulu type="其他" level="3" label="自贊"/>
+     8 <mulu type="其他" level="3" label="風幡"/>
+     9 <mulu type="其他" level="2" label="音釋"/>
+     9 <mulu type="其他" level="3" label="勘婆"/>
+     9 <mulu type="其他" level="3" label="野狐"/>
+    13 <mulu type="其他" level="3" label="女子出定"/>
+    20 <mulu type="其他" level="3" label="音釋"/>

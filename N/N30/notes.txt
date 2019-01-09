@@ -1,0 +1,484 @@
+p0002
+  01 此半偈於底本中缺，今依暹羅本插入。因而其與底本之半偈，不相一致，應知為依暹羅本而來。
+  02 隨法之籌，底本暹羅本均為 salākā dhammakuttarā，今讀為 salākā dhammikuttarā，作如斯譯。
+  03 採用暹羅本之 kathaliṁ。
+p0003
+  04 採用脚註異本之 rajanaṁ pana。
+  05 由意義上，於此處加入此半偈，以下諸偈之番號與底本一致。
+  06 採用脚註之異本之 kin te me piḷite n' ttho。
+  07 採用暹羅本之 ayāeito tathāgato。
+p0004
+  08 採用脚註異本及暹羅本之 sabbagāhitaṁ。
+p0006
+  09 採用暹羅本之 pubbakaṁ pattaṁ。
+p0008
+  10 採用脚註異本之 kasmā。
+p0009
+  11 採用暹羅本之 atthaṁ ñāṇena。
+p0010
+  12 採用脚註異本之 sugado。
+p0011
+  13 採用脚註異本及暹羅本之 dhatā。
+  14 底本有「六百萬」為「車」之數字，今採用暹羅本之 saṭṭhī rathasahassāni。
+p0012
+  15 採用暹羅本之 tambamayā。
+  16 底本暹羅本皆為 paduddhāre bhave，此 paduddhāre 在韻律之關係上想為 padadhāre 變化為 paduddhāre。
+  17 採用脚註異本之 asantaṁ mānasaṁ。
+p0014
+  18 採用暹羅本之現在複數形。
+  19 採用脚註異本及暹羅本之 atuccho jhānamañco。
+p0015
+  20 底本中有「第五之」（pañcame），為如何之第五不明，今採用脚註異本中之 apaṭime 及暹羅本中之 ca' paṭime。
+  21 採用暹羅本之 abyādhi ca sadā homi。
+p0016
+  22 採用暹羅本之 amataṁ bhattaṁ。
+p0019
+  01 依脚註異本及暹羅本讀為 āsi so sabbalokassa……。
+  02 以下之淨法，一切底本均為 pūgadhamma，但今採用脚註異本之 subhadhamma。
+  03 採用暹羅本之 tipulohakarā tathā。
+  04 採用暹羅本之 calakā。
+p0020
+  05 依脚註及暹羅讀為 sampatti hi karitvāna。
+p0022
+  06 底本雖為 sīlavīcisamākiṇṇo，今採用依暹羅本之 sīladhīti，更將 dhīti 讀為 dhiti。今採用脚註異本之。
+  07 底本為 vedakaro，今採用脚註異本之 devakāro。
+  08 採用暹羅本之 sabhāvadassako。
+  09 採用暹羅本之 dhiti。
+  10 採用暹羅本之 agadūpamo。
+p0023
+  11 採用暹羅本之 matto va kuñjaro 'danto。
+p0028
+  01 「如是自在者……」，參照底本之脚註與暹羅本讀為 Vasī tādī jitañjayo。
+  02 「蒔利益」，依暹羅本讀為 hitavappako。
+p0030
+  01 底本為 tassa，今採用暹羅本 tattha。
+  02 底本雖為 yan taṁ，今採用暹羅本 yo taṁ。
+p0031
+  03 「由家出誠難，恰如由壺出」，底本為 kumbhiyā vasuduttarā，今讀為 kumbhiyā vasuduttarā。
+  04 底本為 chapade，今採暹羅本 vappadcse。
+p0038
+  01 底本為 saṁ tanuṁ，暹羅本為 santunaṁ，脚註異本為 santanaṁ，今為將 santānaṁ 作韻律之調整，故應為 santanaṁ。
+  02 採用暹羅本之 giri-mañjari。
+p0039
+  03 採用暹羅本之 sadā。
+p0041
+  01 底本為 samotthatā 暹羅本為 samotthoṭā 二者不詳且讀為 samotatā。
+  02 採用脚註異本及暹羅本之 abhirudā。
+p0044
+  01 此一偈為依暹羅本之 sabbe gandhā vanamayā pabbate Gundhamādane。
+p0045
+  02 採用脚註異本及暹羅本之 hāsaṁ。
+p0046
+  03 採用脚註異本 Mahāmuni 之呼格。
+p0052
+  01 底本為主格單數形，依暹羅本採用呼格單數。
+  02 參照暹羅本讀為 tamandhakāravidhamam……。
+p0053
+  03 依底本之脚註及暹羅本讀為 upanidhaṁ na hissati。
+p0055
+  01 於底本「輪迴」有（saṁsarāmi）今採用暹羅本之 santarāmi。
+  02 於暹羅本有 sataṁ sahassaṁ savayaṁ datvā kārāpito mayā 而採用之。
+p0057
+  01 「無污染」，底本為 anūpatitthe，今讀為 anūpalittā。
+p0059
+  02 採用暹羅本之 dindibhā。
+p0067
+  01 「彼國諸弊生」採用暹羅本之 ratthavisā。
+  02 「興奮聲」採用暹羅本之 uddaṭasaddakaṁ。
+  03 「勇士攘擊敵」採用暹羅本之 Koṭṭayantā nivattentā。
+p0068
+  04 「勇士征未伏」採用暹羅本之 ajitanjino。
+  05 「人人皆騷動」採用暹羅本之 Saddaṁ mānusakākaṁsu。
+  06 「見」採用脚註異本及暹羅本之 passāmi。
+p0069
+  07 「多」採用脚註異本及暹羅本之 bahuṁ。
+p0070
+  08 「三種火」採用脚註異本及暹羅本之 tidhaggi。
+p0072
+  01 採用暹羅本之 mahābhoge valañjako。
+  02 師子使 sīhimajjhika 似為「居於師子中」之意。
+  03 底本為 padakā laṭukā，暹羅本為 paṭakā latukā，今假讀為 Pa ṭakālaṭakā，將來猶待研究。
+p0073
+  04 底本為 Oḍḍakā，今採用暹羅本 Andhakā。
+  05 底本為 Andhakā，今採用暹羅本 Gandhakā。
+p0074
+  06 採用暹羅本之 Saradakkhā（巧於奔走者）。
+p0075
+  07 採用暹羅本之 antarāpathaṁ。
+p0077
+  01 採用暹羅本之 vasanti nadiyā tadā。
+p0078
+  02 底本為 Kaṭṭhaṅgā，暹羅本為 hatthapātā，意義不詳。
+p0080
+  03 採用脚註異本之 Vicāretvā。
+p0100
+  01 底本與暹羅本作 pādapaggaṁ 意義不詳，今採用異本脚註之 Padamaggaṁ。
+p0103
+  01 採用暹羅本之 ajaro bhave。
+p0106
+  01 底本為 sakaṭakaṁ 意義不詳，暹羅本為 sakatikaṁ 此亦不見於巴利語辭書，梵語辭書中有 Koṭika 之植物名，今依此，但為何種植物不詳。
+p0107
+  01 「四方」。底本雖有 cātuddīpā，但分採用暹羅本之 catuddisā。
+p0109
+  01 採用暹羅本之 na kenaci 'haṁ vijjhāmi。
+  02 採用暹羅之 kathaṁ sa paridipento aniccaṁ tatthudāhari。
+p0110
+  01 「最初為自食」，採用暹羅本之 aggaṁ bhunjjeyam attanā。
+p0111
+  02 「引導至自家」，採用暹羅本之 bhikkhū netvā sahaṁgharaṁ。
+p0112
+  03 「今日我施物……」，採用暹羅本之 ajjāpi deyyadhamo me mamaṁ toseti sabbadā。
+p0114
+  01 「軍中我無缺」，採用暹羅本之 balakāye bhave c' eva。
+p0115
+  01 底本讀為 sovaṇṇ-akattarika，與本文內容不相一致，應讀為 sovaṇṇakuntalikā。
+  02 底本為 soṇṇakattaraṁ，依本文之內容應讀 soṇṇakuntalaṁ。
+p0116
+  01 採用暹羅本之 Koraṇḍakadā。
+p0118
+  01 底本意義難解，今採暹羅本之 makāsokarahito pañño……。
+p0121
+  01 採用暹羅本之 yāvatā jagato gati。
+p0136
+  01 「三種火」：貪、瞋、癡。係採用底本脚註異本及暹羅本之 tidhaggī。
+p0146
+  01 與第三七五全同，惟第三偈與第四偈前後次序不同。
+p0151
+  01 漢譯南傳大藏經第二十九卷第二四七頁、一〇七之蘆鬘施者參照。
+p0154
+  01 底本兩足主……人中之牛王均為業格，今依暹羅本為呼格。
+p0155
+  02 多羅之行樹，底本為 tālapattī，今採用脚註本及暹羅本之 tālapanti。
+p0158
+  01 第三八三譬喻（前卷四四〇～四四一頁）參照。
+p0159
+  01 第二一二譬喻（前卷三〇〇頁）參照。
+  02 巴那底（pānadhi）意義不詳，見於斯提德氏巴英字典以 pānada = upāhanā，應為一種草履。
+p0161
+  01 瓦達麋加（vatamigo）羚羊之一種。
+  02 圍裙我取砂，採用暹羅本之 ucchaṅgena puḷinaṁ gayha。
+p0162
+  01 「備矢携水筒」，採用暹羅本之 sajjitaṁ dhanum ādāya pakkhittasalilaṁ。
+p0163
+  01 「我等無利得」，採用暹羅本之 lābho mayhaṁ na vijjati。
+p0168
+  01 「以淨信心」，底本為 pasanno sehi pāṇihi，親手為何意義不明。暹羅本為 vippasasannecetasā，今則更應讀為 vippasannenacetasā。
+  02 「意思無不適」，採用脚註異本及暹羅本 anūnamanasaṅkappo。
+  03 三種之火採用脚註異本及暹羅本之 tidhaggī。
+p0170
+  01 「獨住」，採用暹羅本之 ekekaṁ。
+p0178
+  01 「由佛知宿業」，採用暹羅本之 pubbakammaṁ vibhāvitaṁ。
+p0179
+  02 「宿世非淨緣」，暹羅本參照，讀為 patipubbe na-visuddhipaccayā。
+p0181
+  01 採用脚註異本及暹羅本之 dharissati。
+  02 採用暹羅本之 sammatālasamāhitaṁ。
+p0183
+  01 「光輝」，採用暹羅本及脚註異本之 jotantaṁ。
+p0186
+  01 採用脚註異本及暹羅本之 tadā。
+p0191
+  01 「福田」，採用暹羅本之 kiṭṭhaṁ。
+  02 「小木片」，採用暹羅本之 thokakañ ca yaṁ。
+  03 「多見多聞」採用暹羅本之 diṭṭhasutā。
+p0198
+  01 採用暹羅本之 sukhado sabbapāṇinaṁ。
+p0199
+  01 與第三七七譬喻（前卷四九五頁）完全相同。
+p0200
+  01 殆與第四六三譬喻（本卷一四六頁）相同。
+p0211
+  01 「諸筐籃」，底本為 sākhārikaṁ，今採用暹羅本之 saha khārim adās' ahaṁ。
+  02 「多種福田」，底本為 puññaṁ tam ua，今採用暹本之 puññaṁ ta va bhavissati。
+p0212
+  03 「龜、犬與蜜蜂」，底本為 kumbhasoṇā madhukarā，今採用暹羅本之 kunmā soṇāmadhukarā。
+p0216
+  01 「一背闍」，底本為 ekapecchaṁ，脚註異本為 ekaṁ pacchaṁ暹羅本為 ekaṁ veccaṁ。究為何物不明，概為一種坐或乘用之具。
+p0218
+  01 「輕烤糖果」，底本為 lahupūpapavaṁ，脚註所示異本為 labhusupuṭakaṁ，又暹羅本為 supatikaṁ，以上均不明了，今暫假字讀為 lahupūpapakkaṁ（SK, Pakvaṁ）。
+p0222
+  01 「望求榮達」，底本為 vuṭṭhikāmā，今採用暹羅本之 vuddhikāmā。
+  02 「於我皆享有……此亦常於有」，底本為 bhavesaṁ sabbato bhave，今採暹羅本之 bhave'haṁ sabbadā bhave。
+p0224
+  01 「我有物甚多」，底本為 pahū tadā，今採用暹羅本之 pahū mamaṁ。
+p0226
+  02 「勝者究諦、智」，底本為 saccaneyyantago jino 應讀為 saccañe yyantago jino。
+  03 「如勝太陽」，底本為 sattasāravare tasmim，今採用暹羅本之 sataraṁsivare tasmiṁ。
+  04 「有大利」，底本為 mahiddhikā，（有大神力）今採用暹羅本之 mahātthikā。
+  05 「僧伽聽我言」，底本為 rasaddhovisamāyuto，文意不明，今採用暹羅本之 saṅghovirasamāsuto。
+p0227
+  06 「敬愛我度日」，底本為 divasa-saṅko'haṁ，又暹羅本為 saradīva sasanko'ham，兩者皆難判讀正確，今暫假讀為 diva-saṅkamanto。
+p0230
+  01 「猛光王輔師」，底本為 Pajjotassa Acaṇḍassa，今採用脚註所出異本及暹本之 Pajjotassasa Candassa。
+p0231
+  02 「我與餘七人」，底本為「我與五百人」（satehi saha pañcahi）基於長老偈（四九四～五〇二）之註中所說，採用暹羅本之 scschi saha sattahi。
+p0232
+  01 「梵天阿修羅，時時敬勇者」，底本為 brahmāmarasuraccito，今採用暹羅本之 brahmāsurasurā-acchito。
+  02 「渴望」，底本為 abhiropayiṁ，今採用脚註所示之異本及暹羅本之 abhirocayim。
+  03 「信解有仙人」，底本為 ito sattamake 'hani，今採用暹羅本之 idha saddhādhimutto isi。
+p0233
+  04 「逼母生怖畏」之母，底本為 mandam，今採暹羅本 mātā。
+  05 「有輪相」，底本為 saṅkhalaṅkena，今採暹羅本之 cakkañkitena。
+  06 「殊勝」，底本為 paraṁ，今採用暹羅 varaṁ。
+p0234
+  07 「山窟」，底本為 giriniddare，今採用暹羅本之 girikandare。
+p0236
+  01 「何處說法寶」，底本為 sabbatthaṁ，今採用暹羅本之 sabbattha。
+  02 「又為諸生物，法雲降法雨」，底本為 pajjunno pi va bhūtāni，今採用暹羅本之 pajjunnoriva bhūtānaṁ。
+  03 「時佛如鵞王，鳴如大鼓音」，底本為 haṁsadundubhīnivaco，今採用暹羅本之 haṁsadundubhinissano。
+  04 「雲色」，底本為 jimuttavaṇṇaṁ，今採用暹羅本之 jūmuttvaṇṇaṁ。
+  05 「從經」，底本為 sutaso，今採用暹羅本之 suttaso。
+p0237
+  06 「得大國王樂」，底本為 mahārajjaṁ sukhappatto，今採用暹羅本讀為 mahārajja-sukhappatto。
+p0240
+  01 「爾時大勇者」，底本為 tadahaṁ sa mahāvīro，今用暹羅本之 tdā hi so mahāvīro。
+  02 「我足以平伏」之「我」，底本為 maṁ，今採用脚註異本所示之 me。
+p0241
+  03 「諸非人」，底本為 samānusā，今採用脚註異本所示及暹羅本之 amānusā。
+  04 「教之滅亡報」，底本為 sāsanatthañ ca sūcakaṁ，今採牛暹羅本之 sāsanatthaṅgasūcake。
+  05 「我等」，底本為 sammā，今採用暹羅本之（a）mhākaṁ。
+p0242
+  06 「倒」，底本為 pātapamhase，今採用暹羅本之 pātayimhase。
+  07 「信佛已得之」，底本為 saddhā vo sulabhā laddhā，今採用暹羅本 saddhā vā dullabhā laddhā。
+  08 「梵行」，底本為 brahmacera，今採用暹羅本 Brahmacāri。
+  09 「乳飯」，底本為 khirāsana，今採用暹羅本之 khirodana。
+p0244
+  01 「被知」，底本為 va sato，今採用暹羅本之 vissuto。
+  02 「熱意於我教」，底本為 sāsanalālasaṁ，今採用暹羅本之 sāsanasālayaṁ。
+  03 「我足下」，底本為 maṁ Pādamūle，今讀為 me pādamūle。
+p0245
+  04 「諸有」，底本為 bhavākāse，今採用暹羅本之 bhavābhave。
+  05 參照可與本生經第十二榕樹鹿本生譚。
+p0247
+  01 「具足思慮者」，底本為 pin aṁsaṁ paccavekkhanaṁ，今依暹本參照採用 sampannapaccavekkhaṇaṁ。
+  02 「願求」，底本為 patthayato，今採用暹羅本之 patthayate。
+  03 「侍」，底本及暹羅本為 vuṭṭhāya一今應讀為 upaṭṭhāya。
+p0248
+  04 「鯨之住處」，底本為 makarākare，今採用暹羅本之 makarālaye。
+  05 「恭敬受供養」，底本為 sakkatapūjitaṁ，今採用暹羅本之 sakkatapūjito。
+  06 「我為阿羅漢」，底本為 arahā yan，今採用暹羅本之 arahā haṁ。
+  07 「欲得見」，底本為 duṭṭham ananta，今採用暹羅本之 datthum an anta。
+p0249
+  08 「惡鬼附牛體」，底本為 bhūtadhiṭṭhāya gāviyā，今應讀為 bhūtā dhiṭṭhita gāviyā。
+p0252
+  01 「彼岸」，底本為 sattapāraṅgaṁ，今採用脚註所出異本之 pattapāraṅgam。
+  02 「詞」，底本為 nerutte，今採用暹羅本之 nirutte。
+  03 「覺海」，底本暹羅本皆為 Buddhasāgaraṁ，今採用脚註所出異本之 buddhisāgaraṁ。
+p0255
+  01 「我德起信者」，底本為 saddhāvantaguṇaṁ，今採用暹羅本之 saddhāvantaṁ guṇemama。
+p0261
+  01 「懺悔堂」，原語為 Paṭikkamanasālā，案斯泰德氏巴英辭典為 "a hall with seets of distinction"，今依摩尼耶魯威斯氏梵英辭書 paṭikkamana 為 confession 之義。
+  02 「牀上」，原語 katabhūmi 不見於辭書，今假定為牀之義。
+  03 「石與地」，底本為 siyā mahi，今採用暹羅本之 silāmahi。
+  04 「次第具諸相」，底本為 tatiyākāran aṅkito，今參照脚註所出異本，採用暹羅本之 pātiyālakkhaṇaṇkito。
+p0262
+  05 「卿見我不知」，底本為 diṭṭhi no，今採用暹羅本之 diṭṭhin te。
+  06 「作」，底本為 hutvā，今採用暹羅本之 haritvāna。
+p0264
+  01 「導師」，底本為 cakkhumā，今採用脚註所出異本及暹羅本之 nāyako。
+p0265
+  02 「梵」，底本為 brahā，今採用脚註所出之異本反暹羅本之 brahmā。
+  03 「妙音」，底本為 dhaṁsanā，今採用脚註所出之異本及暹羅本之 mañjunā。
+p0269
+  01 「充滿中」，底本為 ākiṇṇo，今採用脚註異本及暹羅本之 ākiṇṇe。
+  02 「天或犍闥婆」，底本為 deva-dānava-gandhabbā，今採用暹羅本之 devalā atha gandhabbā。
+p0270
+  03 「七日以上」，底本為 sattāhikaṁ，今採用暹羅本之 sattāhakādhikaṁ。
+  04 「前往傭主家，見索食之人」，今採用暹羅本之 gacchim tam-esantā mam addasuṁ。
+p0271
+  05 「為使抗敵軍，我為造門摒」，今採用暹羅本之 sattukassa tadā duṭṭho dvārarodhaṁ akārayim。
+  06 「非福業」，底本為 Puññakammena，今採用暹羅本之 apuññakammena。
+  07 「幸福生活」，採用暹羅本之 suvatthito。
+p0274
+  01 「調理言語者」，底本為 vālisaddūla，今採用暹羅本之 vādisūdana。
+  02 「歸依處作者」，底本為 saraṇantaga，今採用暹羅本之 saraṇaṁkara。
+  03 「地上者信賴」，底本為 vissānabhūmisantānaṁ，今採用暹羅本之 vissāsaṁ bhūmisantānaṁ。
+p0275
+  04 「前唯見七尺」，底本為 yugamattaṁ nirikkhitaṁ，今採用暹羅本之 yugamattaṁ udikkhataṁ。
+  05 「詩心」，Kavyacitta 不勤觀行，腐心作詩而加以非難之意。
+p0276
+  06 「即今」，底本為 dānena，今採用暹羅本之 dāni。
+  07 「第一」，底本為 aggaṁ，今採用暹羅本之 agge。
+p0282
+  01 隱覆（說），底本為 vyāhaṭaṁ 應讀為 Vyāvataṁ（vyāvṛta）。
+  02 「何處亦無畏」，底本為 sabbasattha，今採用暹羅本 sabbatthā'pi。
+p0285
+  01 「釋迦」，底本為 Sakyāna，今採用暹羅本之 Sakyā na。
+  02 「問」，底本為 'nurañjatha，今採用暹羅本之 apucchatha。
+p0286
+  03 「專注於修習」，底本為 saṁviggaṁ anubrūhaye，今採用暹羅本之 taṁ viddhā anubrūhaye。
+  04 「我等不可爭」，底本為 Na hi tosaṁ Karontena，今採用暹羅本之 na hi no saṅgarantena。直即為「我等不可與彼鬥爭」。
+p0288
+  01 「瓦察婆羅門」，底本 Vacchagotto ti Jotissa……，今採用暹羅本之 Vacchagatto dijotassa……。
+p0290
+  01 「德」，底本為 vivaddho，今採用所出次異本及暹羅本之 guṇena。
+  02 「惡論藪」，底本為 kupāda-kaceha 依脚註所出之異本及暹羅本，應讀為 kuvādagaccha。
+  03 「消除煩惱毒」，底本為 kilesa-visanāayako，今採用暹羅本之 kilesavisanāsako。
+p0294
+  01 「彼處」，底本為 idha，今採用暹羅本之 tattha。
+p0296
+  01 「造塔」，底本為 thūpaṁ kārāpitā ahaṁ，今採用脚註所出異本之 thūpakārāpika ahaṁ。
+p0299
+  01 底本為 Ekapiṇḍadāyikā，今採用暹羅本之 Ekapiṇḍapātadāyikā。
+p0300
+  02 「黃巾」，底本為 mahānelena，今採用暹羅本之 pitacolena。
+p0304
+  01 「見」，底本為 dasuṁ，今採用暹羅本之 daṭṭhuṁ。
+p0310
+  01 「有天香」，底本為 pupphagandhikaṁ，今採用暹羅本之 devagandh ikaṁ。
+p0316
+  01 「極美身」，底本為 sucitattā va huvā，今讀為 sucittattā。
+p0318
+  01 「大受用」，底本為 mahābhāge，今採用暹羅本之 mahābhoge。
+p0319
+  02 「欲得」，底本為 labhantaṁ，今採用暹羅本之 labhanti。
+  03 「依卿」，底本為 mayā，今採用暹羅本之 tayā。
+p0320
+  04 「妙光莊嚴」，底本為 Sappabhālaṅkataṁ，今採用暹羅本之 Suppabhālankataṁ。
+  05 「於此」，底本為 pāde，今採用暹羅本之 tato。
+p0321
+  06 「打論驕慢者」，底本為 vādidappāpabharino，今採用暹羅本之 Vādidappapahārino。
+  07 「苦之集合所」，底本為 dukkhapaṅke，今採用暹羅本之 dukkhasaṅke。
+  08 「世間」，底本為 lalaṁ，今採用暹羅本之 lokam。
+  09 「輝」，底本為 hāsanti，今採用暹羅本之 bhāsanti。
+p0322
+  10 「受卿之請」，底本為 samajjhiṭṭho，今採用脚註所出異本之 samijjhiṭṭho。
+p0324
+  11 「佛命保育者」，底本為 dīpit, āpādikā，今採用暹羅本之 jīvitāpālikā。
+p0325
+  12 「皆」，底本為 sesā，今採用暹羅本之 sabbā。
+p0326
+  13 「哀愍者」，底本為 'nukampitā，今採用暹羅本之 'nukampikā。
+  14 「彼女」，底本為 tava，今採用暹羅本之 tāya。
+p0328
+  15 「無漏」，底本為 nirāsanā，今採用脚註所出異本及暹羅本之 nirāsavā。
+  16 「海浪」，底本為 sāgaro，今依義應讀為 sāgare。
+p0329
+  17 「美」，底本為 vitatā，今採用脚註所出異本及暹羅本之 cittakā。
+p0330
+  18 「我懸念」，底本為 saṅketaṁ，依脚註異本為 saṅkehaṁ，今應讀為 saṅkc'ham。
+p0335
+  01 「由德」，底本為 guṇikaṁ，今採用暹羅本之 guṇato。
+  02 「滿足」，底本及暹羅本為 tappanti，今參照脚註所出異本之 tapenti，應讀為 tappenti。
+p0338
+  03 「微妙義」，底本為 m' aduraṭṭhaṁ，今採用暹羅本之 madhuratthaṁ。
+p0341
+  01 「生異」，底本為 nāmasambhavā，今採用脚註異本所出之 nānāsambhavā。
+  02 「手中油」，底本為 telaṁ vatthigataṁ，今採用暹羅本之 telam hatthagatañ。
+  03 「童子」，底本為 mārako，今採用暹羅本之 komārako。
+  04 「芬伽草」，底本為 cittappuññaṁ cittamuñjaṁ。
+  05 「壞」，底本為 pada。今採用暹羅本之 maddi。
+  06 「明」，底本為 saṁsāvetvā，今採用暹羅本之 pakāsetvā。
+p0342
+  07 「獻」，底本為 vattam，今採用暹羅本之 cattaṁ。
+  08 「伴」，底本為 pareto，今採用脚註所出異本之 sahito。
+  09 「一切知」，底本為 sabbañ，今採用暹羅本及脚註所出異本之 sab baññuṁ。
+p0343
+  10 「飲食」，底本為 mahājanena，今採用暹羅本之 annapānena。
+  11 「化導者」，底本為 vimissitam，今採用暹羅本之 vināyakaṁ。
+p0344
+  12 「鉢」，底本為。putta。依前後之關係判別，應讀為 patta。
+  13 「鉢」，底本為 patthesu，今應判讀為 pattesu。
+  14 「未受聞者粥，自行乞食時」，底本為 sutānakasakam，今採用暹羅本之 sutānaṁ attanopi ca。
+p0354
+  01 底本為 pabbatam，今採用暹羅本之 pabbate。
+  02 「全」，底本為 saccaṁ，今採用脚註所出異本及暹羅本之 sabbaṁ。
+p0358
+  01 「而我產子時」，底本為 yadā ca sa-sutā，今採用脚註所出異本及暹羅本之 yadā ca pasutā。
+p0363
+  01 「又」，底本為 ṭhāsim，今採用脚註所出異本及暹羅本之 cāpi。
+p0364
+  02 「輝」，底本雖為 sañcaranti，但今採用底本之 saṁjalanti。
+p0366
+  01 「人御者」，底本為 narasaddūlo，今採用脚註所出異本之 narasārathi。
+p0367
+  02 「得」，底本為 na acchasi，今採用脚註所出異本之 lacchasi。
+  03 「美之集」，底本為 sirisaṅkhatasannibhaṁ，今採用脚註所出異本之 sirisaṅghāṭa。
+p0368
+  04 「捨棄訶毀家，行法無非難」，採用暹羅本之 Pahāya gehaṁ gārayhaṁ cara dhammamanindite。
+  05 「應行禪學道」，底本為 jhān' ajjhena saraṁ，今採用脚註所出異本之 jhanajjhenapadam。
+  06 「人間不可得」，底本為 nettalābhañ ca mānusaṁ，今採用脚註所出異本之 na taṁlābhaṁ。
+  07 「呼息緊」，底本為 nissayanti，今採用脚註所出異本之 nissasanti。
+p0369
+  08 「容色」，底本為 vattaṁ，今採用暹羅本之 vaṇṇaṁ。
+  09 「胸美」，底本為 sūṇa，今讀為 sūrā。
+  10 「污」，底本為 'va nītakibbisa，今讀為 vinīta。
+  11 「芽充滿」，底本為 abhejjabharitā，今參照脚註所出異本及暹羅本，應讀為 amajjabharitā。
+p0375
+  01 「勝論者」，底本為 varadhārino，今採用脚註所出底本及暹羅本之 varavādino。
+  02 「往」，底本為 ahaṁ，今採用脚註所出異本及暹羅本之 gatā。
+  03 「百數之金鉢，招請[鍜>鍛]<resp="CBETA.maha">工造」，參照脚註所出之異本及暹羅本應讀為 katamattaṁ sovaṇṇaṁ satataṭṭakaṁ。
+p0376
+  04 「善集成」，底本為 samupāgatā，今採用脚註所出異本及暹羅本之 susamagatā。
+p0377
+  05 「使我」，底本為 me，今採用脚註所出異本及暹羅本之 maṁ。
+p0379
+  01 「我」，底本為 atha，今採用脚註所出異本及暹羅本之 mama。
+  02 「齡」，底本為 vayo，今採用脚註所出異本之 vaye。又暹羅本為 vayaṁhi，此概為文法上格之關係。
+p0380
+  03 「恕許」，底本為 khamantaṁ，今採用脚註所出異本之 khamantu。
+p0381
+  04 「空性」，底本為 puññataṁ，今採用脚註所出異本及暹羅本 suññataṁ。
+  05 「獻」，底本為 samattaṁ，今採用脚註所出異本及暹羅本之 sañcattaṁ。
+p0382
+  06 「享受」，底本為 paricattaṁ，今採用暹羅本之 anubhuttaṁ。
+  07 「最上仙」，底本為 isim uggataṁ，今採用暹羅木之 isimuttamam。
+  08 「可愛」，底本為 dassitaṁ，今採用脚註所出異本及暹羅本之 dayitaṁ。
+  09 「極戀」，底本為 patikantaṁ，今採用脚註所出異本及暹羅本之 atikkantaṁ。
+  10 「等覺者」，底本為 sambuddho，今採用暹羅本之 sambuddhe。
+  11 「仙人」，底本為 isiṁ，今採用脚註所出異本及暹羅本之 ise。
+p0383
+  12 「三」，底本為 tato，今採用暹羅本之 tayo。
+  13 「持主之守護」，底本為 anurakkhati sāmi no，今採用暹羅本之 anurakkhanti sāmino。
+p0387
+  01 「全長夜」，底本為 mayaṁ sabbaṁ，今採用脚註所出異本及暹羅本之 idaṁ sabbaṁ。
+p0388
+  01 「一萬八千」，底本為 yasodharīya-sahassāṁ，今採用暹羅本之 aṭṭhārasasahassāni。
+p0389
+  02 「弟子尼等」，底本為 yāvatā，今採用脚註所出異本之 sāvakā。
+p0394
+  01 「積」，底本為 uppatte，今採用暹羅本之 upacite。
+p0395
+  01 「破害」，底本為 upāgatā，今採用暹羅本之 upāhatā。
+p0396
+  02 「依卿」，底本為 tehi，今應讀為 te hi。
+  03 「架橋恒河」，底本為 setuno satta，今採用暹羅本之 setuṁ Gaṅgāya。
+p0397
+  04 「幢林豎立」，底本為 Kuṭaddhaja，今採用暹羅本之 ghaṭaddhajā。
+  05 「人中」，底本為 manussānaṁ，今採用暹羅本之 manussesu。
+  06 「我等宿業果」，底本為 kammaphalaṁ tato，今採用暹羅本之 pubbakammaphalena。
+p0399
+  01 「持」，底本暹羅本皆為 vādayām'，今應讀為 ādayām'。
+p0400
+  02 「大家」，底本為 tayosāle，今採用暹羅本之 mahāsāle。
+  03 「此為喜果報」，底本為 somanassa kataṁ phalaṁ，今採用暹羅本之 somanassass' idaṁphalaṁ。
+p0401
+  01 「愛好見佛陀」，底本為 Buddhadassanalālasā，今採用暹羅本之 Buddhadassanasālayā。
+  02 「信勝解」，底本為 aṅgavimuttānaṁ，今採用暹羅本之 saddhāvimuttānaṁ。
+p0402
+  03 「說法」，底本為 desayito，今採用脚註所出異本及暹羅本之 desayato。
+p0403
+  04 「見佛起愛好」，同註[01]解。
+  05 「行」，底本為 ev ajām'，今採用暹羅本之 vajām'。
+  06 「喜眼」，底本為 yena 'va nandanaṁ，今採用暹羅本之 nayananandanaṁ。
+  07 「住」，底本為 bhayāṁ，今採用暹羅本之 viharām'。
+  08 「信勝解者」，底本為 Saṅgavimuttikā，今採用暹羅本之 saddhādhimuttikā。
+p0405
+  01 「人虎」，底本為 varasaddūlo，今採用脚註所出異本及暹羅本之 narasadūlo。
+  02 「論中之勇者」，底本為 dīpavaro，今採用暹羅本之 vadataṁ varo。
+p0406
+  03 「行」，底本為 bhamitvā' va，今採用暹羅本之 gamitvāna。
+  04 參考漢譯南傳大藏經相應部經典一之夜叉相應第九敘迦羅。
+p0407
+  01 「愛尊敬」，底本為 dassitā sajanassā，今採用脚註所出異本及暹羅本之 dayitā pūjaniyā。
+p0408
+  02 「於茲為我故」，底本為 idaṁ me-m' atthe，今參照暹羅本應讀為 idhamamatthe。
+  03 「說色」，底本為 rūpadassiṁ，今採用暹羅本之 rūpadessim。
+p0411
+  01 「法義受質問」，底本為 atthatthaparipucchikā，今採用暹羅本之 dhammatthaparipucchitā。
+p0412
+  02 「冷」，底本為 sīte，今應讀為 sītaṁ。
+  03 「使隨喜」，底本為 anumānetvā，今採用暹羅本之 anumodetvā。
+p0415
+  01 「生」，底本及暹羅本皆為 Pasutā，今應讀為 Pasūtā。

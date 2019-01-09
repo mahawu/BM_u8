@@ -1,0 +1,57 @@
+p0003
+  01 原本為 katham ca 依暹羅本讀為 kañ ca。
+p0007
+  02 原本為 ucchepake vate nata，讀為 Uccherake va te ratā（參照 PTS Dictionary, ucchepaka 項）。
+p0013
+  03 原本為 vimaddhaṁ 依暹羅及 M. I. P. 385 的同文，讀為 vimaṭṭhaṁ。
+p0025
+  01 原本為 sacittam sarāgaṁ 參照原本二七頁之文，如 Neumann，讀為 yaṁ cittaṁ sarāgaṁ。
+p0034
+  01 無病（aroga），依照佛音，為常住之義。再生於徧淨天而有光輝。〔注釋〕。
+p0053
+  01 原本讀為 Pavibhattāni Paṭivibhattāni（Neumann）。
+p0060
+  01 於律藏，經分別之文中，為一日乃至七日不取食之謂（參照南傳大藏經，第一卷，律藏一、二〇頁）。
+p0062
+  02 原本有「汝賴吒惒羅！汝為父母既愛且憐之獨子……宜享受愛慾，樂行福德」之文句，在文意上則無為宜，經分別中無此句。
+p0064
+  03 經分別中有「二重造，一為金幣，一為黃金之大蓄積云云」之句。
+p0077
+  04 依異本讀為 abyositattā。
+p0124
+  01 原本遺漏，參照下文補充之。
+p0126
+  02 毘訶提（bāhitikā）外衣之義。
+p0131
+  01 原本為 Bandhukarogo 讀為 Paṇḍu roga。
+p0147
+  01 原本遺漏 satta-ussado kho pana so bhavaṁ Gotamo，參照 D. XIV, Mahāpadāna-suttanta & XXX, Lakkhaṇa-suttanta 補足之。
+  02 原本為 adduvaṃ 讀為 aḍḍhavaṃ, √rdh。
+  03 原本 adharakāyo va iñjati 讀如暹羅本之 āraddhakāyo va'na iñjati。
+p0150
+  04 依暹羅本補入 addasāma antaragharaṃ pavisanṭaṃ。
+p0169
+  01 依註釋，噴那，是知持祭典用杓之握持方法。
+p0186
+  01 原本無 upasaṁkamati，參照中部第七十經之同文以及下文而改變之。
+p0279
+  01 原本 saññaṁ 為 suññaṁ 之誤排。
+p0280
+  01 gaṇānaṁ gaṇānājivānaṁ Lord Chalmer；Neumann 均解為「算數家之算數生活」，今依字面解釋作如是譯之。
+p0285
+  02 sāmañña 有二義，一為心平等性，二為沙門性。今依前後之關係而取前者之義。
+p0287
+  01 平常，比丘在自己住處內只著三衣中的最下衣安陀會（下衣），外出時，則特別在上半身纏上鬱多羅僧（上衣）。因此，此處之衣是指上衣。
+  02 此處之衣是指僧伽梨。此丘外出時，習慣身纏上下二衣，於腕上則掛僧伽梨衣。
+p0292
+  03 原本有 sātthaṁ sabyañjanaṁ kevalaparipuṇṇam parisuddhaṁ brahmacariyaṁ abhivadanti，任何一字都應解釋為和 abhivadanti 有關係，諸異本最初二字 sattha sabyañjana，作為諸法之同格，今如是譯之。
+p0294
+  04 原本有 gopakehihi，為 gopakehiti 之誤排。
+p0298
+  01 原本中附以「？」，想是誤排。
+p0300
+  02 前文有關「受」之述，原本脫漏。
+p0301
+  03 原本有 patipucchavīnitā，作如是譯在 Saṁyutta-N 中有 Patipucchā-vinitā（熟練於質問）。後者之例甚多，或者此為正確！
+p0304
+  01 tuṇhībhūtaṁ tuṇhībhūtaṁ 同語重覆，用力表現，作如是譯。

@@ -1,0 +1,97 @@
+p0001
+  01 「如絲縷纏結」tantākulaka-jātā，於翻譯名義集有 tantra-jala-jātaḥ（如亂髮），如榊博士之推定，應是相當此巴利語之梵語 tantra-kulaka-jātaḥ 之誤。
+  02 「如腫物所蔽」gulaguṇṭhika-jātā 名義集，此相當於漢譯（北傳）之「如亂絲」。
+p0003
+  03 「天之天相」devānaṁ vā devattāya，人本欲生經、大因經，作神神種，天天種，devattā 是「天之事」或「天之本性」的意義，兩者文法上之格有不同，今以「天之天相」譯之。
+p0009
+  04 「名目之觸」adhivacana-samphassa 對語於其次出「有對之觸」paṭigha-samphassa 名色之「名」指五蘊中受、想、行、識的心，以知心是唯名而無形體。色是極微所成之質礙謂有色蘊。而直譯為名目之觸，即前者當名之觸，於本文括孤中，率直表現此義，以載大緣方便經之譯語：「心觸」。對此，「有對觸」，是對色之觸，此又以載同經譯語之「身觸」。然 adhivacana 中阿含大因緣經，譯為增語。
+p0016
+  05 底本 yāvatā vaṭṭaṁ 雖重複，但於異本不重複，今信異本為正確，故從之而譯，因為此於底本第二二節不重複。
+  06 原文 satta 是 sattā 之誤。
+p0030
+  01 自由人（bhujissa）依覺音註：戒律救濟愛欲之奴隸的人為自由人，故名謂自由人。
+p0045
+  02 法鏡（dhammādāsa）意為由正法所作的鏡。
+  03 avinipāta-dhamma 譯為「不退轉法」vinipāta 意為「墮惡趣」故，avinipāta 即是不墮惡趣之義。
+p0048
+  04 「國土」依覺音註云：「城市」。
+p0051
+  05 mutthi 譯為「握拳」，云婆羅門之阿闍梨如握拳奧義書教弟子而不明瞭。
+p0052
+  06 「洲」之原語為 dīpa 有洲與明燈二義。覺音註為「大洋中之洲」義。故今從覺音而譯為洲。
+p0079
+  07 原語 sūkara maddave，依覺音註亦有說不年青、不年老之殊勝的野羊肉，於軟柔飯中加上牛乳，亦謂五味食等說。又有人譯為「山豬肉乾」，然依 Dr. Hoey 此地方之農夫，今尚喜食叢林中所生之一種[救>球]<resp="CBETA.maha">狀茸根，此稱為 sūkara-kaṇḍa，北傳漢譯有譯為栴檀樹耳，認為茸說較有力，今譯為「茸」。
+p0128
+  01 惒跋單 'Upavattana（SK. Upavartana）是娛樂場所或為競馬場之意。或者譯為保養所、郊外。於中阿含見有音譯之惒跋單應該是固有名詞。本是拘尸那揭羅城邊之娛樂場所或競馬場，漸漸看成固有名詞。今以固有名詞譯之。
+p0129
+  02 「歡騷」於原本為 khādatha，當譯為「齟」，在此 khīḍatha, kīḷat ha, khīḍḍatha 皆是誤寫。想無不相當於梵的 krīḍatha，北傳之漢譯，譯為戲笑語。
+p0131
+  03 「從習制」原本為 yathā-bhuttaṁ bhuñjatha 如可以食就食，意思是依習慣而食，故譯之如上。
+p0132
+  04 七處（sattappatiṭṭho）是指四脚、鼻、兩牙之七處。
+  05 「純白」原本為 sabba-seto，於同此文之中部經典（LMN. vol. 111. P. 174）雖作 seso 是 seto 的誤排是很明顯，於此譯為純白。然，Mahāvastu 1. P. 108; Lalitavistara P. 16 及漢譯常為 sarvaṁ nīlaṁ 紺青色。依覺音之註釋書，有 vijjullatā-vinaddha-saradakāla-seta-valāhakarāsi-sassīriko 如黑光，又如白雲之堆積，光輝之意。
+p0135
+  06 如意德是 iddhi 之譯，為起人之德。於次經 iddhipada 雖譯為神足，今以七寶相列時，即如上譯為如意德。
+p0136
+  07 「植……種種華，使四季花自然開」mālaṁ ropapeyyaṁ 補譯為（植華鬘）。
+  08 「讓群眾之欣賞。」sabbajanassa anācāraṁ 之 anācāraṁ 常多不道德之意，今以稀有現象之意譯如上。
+p0148
+  09 「銀製乳桶。」（kaṅsupadhāraṇa）是由 Jātaka547（vol. VI. p. 504）之註有銀製乳鉢（rajatamaya-khīra-paṭicchannabhāja）而譯之如上。
+p0149
+  10 八萬四千，在原本唯有「千」，五及一一，則更為八萬四千而譯之。
+  11 執著，於前面譯為希望同字（apekha）。前的時候，向將來表示積極之意義而譯為希望（意欲），對現狀表示消極的意義而譯為執著。
+p0160
+  01 闍尼沙 Janavasabha 是人牛王之意，今音譯為闍尼沙。
+  02 Giñjakāvasatha（磚瓦堂）當時磚瓦造之屋，還很新穎，幾乎以固有名詞呼之。北傳漢譯為公瓦寔迦精舍。
+  03 原語 avinipāta-dhamma 被咒即無生存者，即為不墮惡趣之意。
+p0161
+  04 「記說」者，原語為 vyākaroti，此語原為解說、說明之意，名詞為 veyyākaraṇa，普通譯為授記，於此之意義，有關死後之運命（禍福）而言。
+p0165
+  05 「身毛豎立」原文 lomāni naṭṭhāni 是 lomāni haṭṭhāni 之誤寫。
+p0166
+  06 「偶然」原文為 anacchariyaṁ 註釋解為 anu-acchariyaṁ 從此而譯。
+p0170
+  07 充滿。bindu 譯為（滴），如水滴全部之質。
+  08 不亂。由 avisārī 譯之，謂明瞭不分散。
+  09 廣博。由 ninnādi 譯之，謂聲響至廣遠。
+p0171
+  10 一身。原文 ekante（一方），有 ekattena（以身）今取後者之意。
+  11 「結跏趺坐」原文 pallaṅkena nisiditvā 有 pallaṅke pallaṅkena nisīditvā，今取後者。
+  12 原語 chanda-samādhi-padhāna-saṁkhāra-samannāgata，此在北傳之漢譯，譯為欲定滅行成就，意義缺明瞭，其滅 padhāna（勤勇）梵語化時，誤見為 prahāna（捨離）而譯，因此即更不明其意義。
+p0174
+  13 心和平者，由原文 vippasidati 而譯之。
+p0176
+  14 次之生類，想是指一來者之次的不還者。
+  15 以上雖是闍尼沙夜叉，聞自毘沙門天王，照其原樣告世尊，又於此世尊告阿難而結束。以下是經編者之言。
+p0182
+  01 「離開」apanujja 認為是 apanudati 的不變分詞。
+  02 「他之」原本有 maññe 取 aññe 之義，見註[03]。
+p0188
+  03 「他之」原本有 maññe 另一本為 aññe，今依此。
+p0190
+  04 「幸福」原文為 bhava 以中性譯之。
+p0198
+  05 於原本有 nāssuda 另一本作 nāssa 今從此。
+p0202
+  06 「欲行犧牲」原本為 yatthu-kāmassa 別本作 yiṭṭha-kāmassa 今依此。
+p0205
+  07 「執著」原本有 ārabhavho 別本作 ārambho 依此。
+p0209
+  08 「效果」原本有 sa-uddisā 別本作 sa-udrayā 依此。
+p0210
+  09 「漏」原本有 āsāvānaṁ 是 āsavānaṁ 之誤。
+p0229
+  01 原本有 bhaddan，西藏譯並高楠博士編巴利語講本的大會經，依據 bhadante 而譯為「諸賢！」
+p0232
+  02 「火焰頂」jalam aggisikhā 西藏譯讀為 jala「水」從此 jalam aggi sikhā 成「水火之頂」。
+p0238
+  03 龍（naga）西藏譯為「象」。
+p0239
+  04 「彼」西藏譯為（Gotama 瞿曇）。
+p0288
+  01 「病是苦，」vyādhi pi dukkhā 於定本有〔〕括弧之記號。中部經典之分別聖諦經（saccavibhan ga sutta）無此句，出在相應部經典之轉法輪品第二（Dhammacakkappavattanavaggo-dutiyo）想此句，應是由轉法輪品取來，加添在此經。
+p0312
+  01 「小夫人」原文為 mātu-sapattiṁ 是「母之對手之夫人」的意義。
+  02 「妻」原文 apabhoggā「享樂物」之意義。
+p0319
+  03 原本雖為 aññataro janapada-padeso vuṭṭhasi 別本有 aññataro janapade sattho vuṭṭhāsi，從此而譯之。

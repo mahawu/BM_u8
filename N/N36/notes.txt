@@ -1,0 +1,167 @@
+p0004
+  01 底本為 āvuso，今取脚註之 upāsaka。
+p0010
+  01 英譯註為「自負之標徵」。
+p0013
+  02 比較他人先，即誰亦未曾飲水之意（註釋）。
+p0018
+  01 劍、槍、戰斧、弓、盾之五種（見奇魯達斯辭典）。
+p0030
+  01 一帕達（pāda）為一金幣之四分之一，而一錢（māsaka）為一帕達之二分之一。
+p0047
+  01 異本名 Pancāla。
+  02 為多羅維多族之一族，云住於森林中之諸人。
+p0050
+  03 黑執天（Asita-devala 或 Kāla-devaka）asita 與 Kala 皆是黑之意。
+p0051
+  04 底本為 Siva 異本為 Sivi 今採用異本。
+p0059
+  01 異本為「妾等不得千金，當然無有娛樂」。
+p0087
+  01 「徧之輪」（Kasiṇa-maṇḍala）為修地徧處定所用土製之輪。
+p0131
+  01 原文 Kassapadasabala，譯迦葉十力，即迦葉佛之事，為過去古佛中七佛中之第六佛。
+  02 「隨意能為」原文 ahaṁ yathākammaṁ gamissami，逐字譯為「隨我所行而行」，今意譯為「隨意能為」。
+p0133
+  03 黑羽根之矢原文 kāla-kaṇṇi-salākā，譯為黑耳之矢，即黑羽根之矢，意味有不幸凶事之前兆。
+  04 「鎧」原文 ura-cchada-pasādhana 譯為防胸之飾，即指鎧而言。
+p0135
+  05 「三十二」原文 dvattiṁsā，因音律之關係改為 battiṁsa。
+  06 「如法大量富」原文 Vipulañ ca bhogaṁ，註釋為 dhammaladdhaṁ dhanarāsim，從註釋譯為「大量如法之富」。
+p0136
+  07 「惡趣惱無極」從註釋為添加之譯。
+p0137
+  01 微笑之所以，底本為 Sita-karaṇa（微笑之事），而其次又有 Sita-kāraṇa 可為參照，今採用後者。
+p0138
+  02 五罪所伴隨原文有 Pañca-sādhāraṇa-bhāva，脚註為 pañcannaṁ verānaṁ sādhāraṇa-bhāva，譯為隨伴五罪之事。而五罪即是破五戒。
+p0139
+  03 古魯聖篤樹，原文 indavāruṇika-rukkha，葫蘆科植物之一種。
+  04 地水火風，原文有 Paṭhaviāpa tejavāyusamo hutvā，譯為成如地水火風，如地水火風四大，解作無感覺之意味。
+  05 苦行原文為 dhutaguṇa dhutaṅga，即修行法（頭陀支）之意。
+p0140
+  06 斯將巴提（Sujampati）帝釋之名。
+  07 黑性（kaṇha-bhava）意味罪惡所行之果報。
+p0143
+  08 障害原文為 antarāyakarā，為 ābādhā 之有財釋，故譯為「障害」之物。而依註釋為苦行有障害之意，以故添加為「對苦行」之字義。
+  09 此偈亦出於 Milinda-pañha P. 384。
+p0144
+  10 疾病原文為 ārogā，而譯註讀為 arogā 或改為 ārogyā 較好。
+p0145
+  01 Puṇṇaka-jātaka「奔那伽樹本生譚」於本生譚集中未有出現，彼為第五四五本生譚之一部分。
+p0147
+  01 金地國（Suvaṇṇabhūmi）指今之緬甸及泰國地方。
+  02 香醉山窟（Gandhamādana）為喜馬拉雅山之洞窟。
+  03 「福田」（Puññakkhetta）謂教團之聖眾。
+p0148
+  04 「勒沙婆」（Usabha）印度里程之名，約二十尋（一尋八尺）。
+p0153
+  01 「外道」底本為 bāhira-āsana，係 bāhira-sāsana 之誤。
+p0154
+  02 「吐痰之團子」chaddi-takheḷapiṇḍa，意味出家者財寶為不必要。
+p0156
+  03 「沉默」底本為 tuṇhi-kkhako，今改從脚註 tuṇhi-kkato 且為參酌偈領而為斯譯。
+p0157
+  04 「一生」在原文因韻律關係用 aorist，文意上譯為未來。
+  05 「自他利」（attatha-parattha）為從偈頌之註釋插入者。
+p0158
+  06 「暗夜」原語 kāḷapakkha，意為月不出之夜，指無月之十四日間，故暗夜之月乃月不現之狀。
+p0160
+  01 四依，為比丘生活四種必要之物，即衣服、飲食、臥具、湯藥。
+p0161
+  02 拷問，底本為 Potheti，但應改讀為 sodheti，如 PTS 巴英字典所云。
+p0162
+  03 sakalika-hīra 譯為「刺」。
+p0163
+  04 護符譯為 Paritta 真言，或譯咒法為宜。
+  05 saccakiriya 譯為真言，真譯為「真實動作」之意，有關於呪法，譯為「真言」較佳。
+p0165
+  06 如意堂 opāna-bhūta，從註釋為如十字路公共蓮池之物，文意上用為施食堂之意，故譯為如意堂。
+p0166
+  07 「家之碎屑」為 "kule antimagandhino" 之意譯，直譯為於家之最後之物。換言之，指墮落者。
+p0169
+  01 石女 Vañjh'itthi（無子之女），從佛教用語而譯。
+  02 妊娠原語 gabbhiniparihāra，意味妊娠中之起居動作乃至就胎兒之注意。
+  03 布帶原語 pilotikā-veṭhana。
+p0171
+  04 普提迦（pottika 貧乏人），從註為 potthika，與 pontī 同義，「襤褸」之意且有「貧乏人」之意。
+p0172
+  05 石板（silā-paṭṭa）為石造之休息臺，公園內王之休息用石板，即指玉座而言。
+  06 王者之五象徵（pañca rāja-kakudhabhaṇḍāni）為劍、天蓋、王冠、上靴及扇五種。
+p0173
+  07 pottiya 普提迦俗稱 pottika 貧乏人，常被如此使用。
+p0174
+  08 「撲打」底本為（koṭṭhāpeti），今從註 koṭṭāpeti 為正。
+p0175
+  09 「王罰」底本祇有王字，依註為 rāja-daṇḍa（王罰、依王命刑罰之意），今從此譯。
+p0176
+  10 「殉死」mataṁ seyyo，按文意之意譯。
+p0179
+  01 殺親之所行（Pitughātaka-kamma），底本為 PitughātaKamma，今從脚註而譯。
+  02 「不受」底本 gahetvā，今從脚註改為 agahetvā。
+p0181
+  03 比拉莉（Biḷālī）及卡蘭巴（Kalamba），俱為食用草根之名。
+p0182
+  04 非業（ludda-kamma）謂「殘忍之行」。底本有 kamma karosi luddaṁ, kammaṁ K. 為脚註之誤植。
+p0183
+  05 不吉之原語為 kāḷa-kaṇṇin，黑耳之意，黑耳為不吉之兆。
+p0188
+  01 「厭離」底本為 Parivajjemu，應為 Parivajjema。
+  02 「我等」底本為 amhaṁ，此為單數不合故，從註釋譯為 amhākaṁ。蓋 amhaṁ 為由音律關係而來者。
+p0189
+  03 「通曉吠陀」為 Vedaguno，從脚註讀為 Vedaguṇā。
+  04 此一偈見於 Dhp. P. 126, Jāt. I. p. 31, Theragāthā P. 35。
+p0190
+  05 「無病息災」，原文為 ārogo 係 arogo 之誤。
+  06 「葉」Paṇṇa 單譯為葉，按印度之習慣為多羅（tāla）葉，即指貝葉。
+p0192
+  01 「交」ghaṁsati 譯為磨或養，依文意上意譯為「交」。
+p0193
+  02 「結約破約」，nānā va katvā saṁsaggaṁ，按文字為「結種種協約」之意，從註釋意譯為「結約又破約」。
+  03 「有場所」yattha，從註為 "sahāyassa geho" 指有所指食財之友家。
+p0229
+  01 象居之處，食樹芽而荒，樹不能成長，今因彼不在，而不食，樹木得以繁榮生長之意。
+p0233
+  01 巴利語 Nāgasamāla 漢譯那伽波羅又譯象護，原語為 Nāgapāla。
+  02 五點（Pañcasu ṭhānesu）按英譯之註，五點為五之 abhabbaṭṭhāna（不可能處），意義為何不明。
+p0243
+  01 三十三天一日一夜，當人間世界之百年。可與雜阿毘曇心論卷二、俱舍論卷十二、S. Hardy; Manual of Buddhism P. 25 參照。
+  02 人間之壽命依時代為由八萬歲至十萬歲。
+  03 貨幣 Māsaka 指一般以銅、木等製造之小貨幣而言。漢譯為一錢。
+p0245
+  04 Kahāpaṇa 為四角之銅幣，重 1 Penny 之六分之五，約當三四錢重。
+p0248
+  05 原典為 Tan cāpi jahāti avītarāgo，原典之註為 Taṇhāvasiko puggalo ettakena piyasena atitto maraṇakāle avitarāgo va taṁ vijahati……，英譯德譯皆誤，應譯為「未離欲者，雖有如何之財產國土、父母妻子、眷屬、從僕等，死時不能將之持去，一切捨棄，一人墮於惡趣」。
+p0250
+  01 英譯於第四一二，德譯於第三〇五及第四〇八中舉出。
+p0251
+  02 指身口意三者。
+  03 香醉山 Nandamūlaka 為辟支佛所住之洞窟。
+p0254
+  04 Sarā 穀物所造之酒（穀酒）。meraya 植物之汁所造之酒（調和酒）。
+  05 原文 Ye Janā patham'āsu no，註 Ye no gāme janā paṭhamaṁ evarūpā āsuṁ ahesuṁ（於我村最初如此之人人）。
+p0259
+  01 「真珠之網」，底本為（muttājālākāre nalagge）應讀為 muttājālākārena lagge 方為正確。
+p0262
+  02 「汝急去」云，為后命令侍女之言，「為賢者」為向王子之傳言。
+p0263
+  01 八世間法 aṭṭha lokadhammā：一、得（Iābha）二、不得（alābha）三、稱（yaso）四、譏（ayaso）五、毀（nindā）六、譽（pasaṁsā）七、樂（Sukhaṁ）八、苦（dukkhaṁ）。
+p0264
+  02 彈指，嘲弄人時或叱責人時所作之表示。
+p0265
+  03 揭天蓋乃即王位之意。
+  04 王之五標章 pañca rājakakudhabhaṇḍani：一、扇（vāḷavījanī），二、冠（uṇhīsa），三、劍（khagga），四、天蓋（Chatta），五、履物（pādukā）。
+  05 四種之軍隊 Caturaṅginī senā：一、象兵（hatthāruhā），二、馬兵（assāruhā, anika-ṭṭhā），三、車兵（rathikā），四、步兵（pattikārikā）。
+p0269
+  06 「螺貝之首」（kambu-gīvo）註為「似黃金之相首」（suvaṇṇalingasadisagīvo），此在 Stede 辭典中釋為 having a neck shaped like a shell, i. e. in spirals, having linesor folds, considered as lucky。英德兩譯亦有類似之說明。
+p0271
+  01 業處 Kammaṭṭhāna，巴利佛教有四十業處之數，即十遍處、十不淨觀、十念、四無量、四無色、界差別、食厭觀。
+  02 在德譯之註，舉預流、一來、不還、羅漢四種。然四種人依漢譯亦有幾種，例如：一、從闇趣闇，二、從闇趣明，三、從明趣闍，四、從明趣明；又一、順流行者，二、逆流行者，三、自住者，四、到彼岸者等是。
+  03 「最平淡無奇者」（padaparama），英德兩譯為 The most devoted to worldly conditions; der weltlichkeit am nächsten，兩者為同樣之註釋。於 Stede 之辭書中說明為 one whose highest attainment is the word（of the text, and not the sense of it）。
+p0273
+  04 「四攝」即布施、愛語、利行、同事。
+p0278
+  01 Paññāpāramī 為梵語之 Prajñā-pārāmitā，普通漢譯為般若波羅蜜（多），譯為度或到彼岸。巴利語波羅蜜（pāramī）為最極最上之義。
+p0280
+  02 原文為 tumhehi ārocitasaññāya niyyāmako bhavissāmi 譯為「自己盲目，不能見海與空，諸君以觀察告予，予依其言之狀況判斷，駛船操作」之意。
+p0285
+  03 宇沙婆 usabha，一宇沙婆等於百四十肘，即二百尺餘，故八宇沙婆約一千六百餘尺。

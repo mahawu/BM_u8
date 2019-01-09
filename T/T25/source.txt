@@ -1,0 +1,44 @@
+T25 檔案比對版本來源記錄 20070919
+
+S:蕭鎮國大德  Text as provided by Mister Hsiao Chen-kuo
+K:維習安所提供高麗藏CD經文  Tripitaka Koreana as provided by Christian Wittern
+J:維習安所提供日本CD經文  Other Text as provided by Christian Wittern
+W:維習安所提供經文   Text as provided by Christian Wittern
+E:佛教電腦資訊庫功德會 Electronic Buddhadharma Society
+P:眾生出版社 Chong-Sheng Publishing House
+4:4 club
+H:厚觀法師提供新式標點 Punctuated text as provided by Ven. Houguan
+f:李明芳大德提供新式標點 Punctuated text as provided by Mr. Li Ming-Fang
+s:Salian 大德提供新式標點 Punctuated text as provided by Salian
+
+S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
+K:維習安大德提供之高麗藏 CD 經文, Tripitaka Koreana as provided by Mr. Christian Wittern
+J:其他, Others
+W:維習安大德提供, Text as provided by Mr. Christian Wittern
+E:佛教電腦資訊庫功德會提供, Text as provided by Electronic Buddhadharma Society (EBS)
+P:眾生出版社提供, Text as provided by Chung Sheng Publishing Company
+4:北美某大德提供, Text as provided by Anonymous from USA
+H:厚觀法師提供新式標點, Punctuated text as provided by Ven. Houguan
+f:李明芳大德提供新式標點, Punctuated text as provided by Mr. Li Ming-Fang
+s:Salian 大德提供新式標點, Punctuated text as provided by Salian
+
+
+
+比對版本  大正經號-冊-頁  版本   日期       卷數  經名                                     【朝代 譯者或作者】            高麗經號-冊
+───────────────────────────────────────────────────────────────────
+SK4fJ     T1505-25-p0001  V1.0   1999/12/10    2  四阿鋡暮抄解                             【婆素跋陀造  符秦 鳩摩羅佛提等譯】        K1019-30
+SK4fJ     T1506-25-p0015  V1.0   1999/12/10    3  三法度論                                 【東晉 僧伽提婆譯】            K0965-28
+SK4fJ     T1507-25-p0030  V1.0   1999/12/10    5  分別功德論                               【失譯附後漢錄】               K0973-29
+SK4fJ     T1508-25-p0053  V1.0   1999/12/10    1  阿含口解十二因緣經                       【後漢 安玄共嚴佛調譯】        K1023-30
+WEP4HJ    T1509-25-p0057  V1.02  2000/03/01  100  大智度論                                 【龍樹菩薩造  後秦 鳩摩羅什譯】 K0549-14
+SK4sJ     T1510a25-p0757  V1.01  1999/12/10    2  金剛般若論                               【無著菩薩造  隋 達磨笈多譯】  K0555-15
+SK4sJ     T1510b25-p0766  V1.0   1999/12/10    3  金剛般若波羅蜜經論                       【無著菩薩造  隋 達磨笈多譯】  K0555-15
+SK4fJ     T1511-25-p0781  V1.0   1999/12/10    3  金剛般若波羅蜜經論                       【天親菩薩造  元魏 菩提流支譯】 K0558-15
+SE4fJ     T1512-25-p0798  V1.0   1999/12/10   10  金剛仙論                                 【世親菩薩造  金剛仙論師釋  元魏 菩提流支譯】  -
+SK4fJ     T1513-25-p0875  V1.0   1999/12/10    3  能斷金剛般若波羅蜜多經論釋               【無著菩薩造頌  世親菩薩釋  唐 義淨譯】 K0557-15
+SK4fJ     T1514-25-p0885  V1.0   1999/12/10    1  能斷金剛般若波羅蜜多經論頌               【無著菩薩造  唐 義淨譯】      K0556-15
+SK4fJ     T1515-25-p0887  V1.0   1999/12/10    2  金剛般若波羅蜜經破取著不壞假名論         【功德施菩薩造  唐 地婆訶羅等譯】 K0559-15
+SK4fJ     T1516-25-p0898  V1.01  1999/12/10    2  聖佛母般若波羅蜜多九頌精義論             【勝德赤衣菩薩造  宋 法護等譯】 K1478-41
+SK4fJ     T1517-25-p0900  V1.01  1999/12/10    4  佛母般若波羅蜜多圓集要義釋論             【三寶尊菩薩造  大域龍菩薩造本論  宋 施護等譯】 K1459-40
+SK4fJ     T1518-25-p0912  V1.0   1999/12/10    1  佛母般若波羅蜜多圓集要義論               【大域龍菩薩造  宋 施護等譯】   K1458-40
+───────────────────────────────────────────────────────────────────

@@ -1,0 +1,82 @@
+T13 檔案比對版本來源記錄 102299
+
+4:北美某大德提供
+S:蕭鎮國大德提供
+K:維習安大德提供高麗藏 CD 原經文
+O:CBETA 自行掃瞄辨識
+F:曾國豐大德輸入
+C:姜佩君大德輸入
+W:維習安大德提供
+G:斯覺大德輸入（卷上）
+B:佛教藏 OCR 小組輸入（卷三、卷四）
+D:佛教藏 OCR 小組輸入
+z:張曌昱大德提供新式標點
+c:中華佛教百科文獻基金會提供新式標點
+j:陳建同大德提供新式標點
+q:毛佩君、廖予安、廖予慈大德提供新式標點
+f:范振業大德提供新式標點
+m:Jasmine 提供新式標點
+i:黃金愛大德提供新式標點
+u:朱輝提供新式標點
+b:陳伯勳大德提供新式標點
+x:邱昱翔提供新式標點
+l:Lilneige 提供新式標點
+a:李明芳大德提供新式標點
+k:張革豐大德提供新式標點重校
+
+4:北美某大德提供, Text as provided by Anonymous from USA
+S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
+K:維習安大德提供之高麗藏 CD 經文, Tripitaka Koreana as provided by Mr. Christian Wittern
+O:CBETA 自行掃瞄辨識, CBETA OCR Group
+F:曾國豐大德輸入, Text as inputted by Mr. Tseng Kuo-Feng
+C:姜佩君大德輸入, Text as inputted by Ms. Chiang Pei-Chun
+W:維習安大德提供, Text as provided by Mr. Christian Wittern
+G:斯覺大德輸入, Text as inputted by Mr. Sijue
+B:佛教藏 OCR 小組輸入, Text as inputted by Buddhist Tripitaka OCR Team
+D:佛教藏 OCR 小組輸入, Text as inputted by Buddhist Tripitaka OCR Team
+z:張曌昱大德提供新式標點, Punctuated text as provided by Mr. Zhang Zhao-Yu
+c:中華佛教百科文獻基金會提供新式標點, Punctuated text as provided by Chinese Buddhist Literary Foundation
+j:陳建同大德提供新式標點, Punctuated text as provided by Mr. Chen Jian-Tong
+q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An and Liao Yu-Ci
+f:范振業大德提供新式標點, Punctuated text as provided by Mr. Fan Zhen-Ye
+m:Jasmine 提供新式標點, Punctuated text as provided by Jasmine
+i:黃金愛大德提供新式標點, Punctuated text as provided by Ms. Huang Jin-Ai
+u:朱輝提供新式標點, Punctuated text as provided by Mr. Zhu Hui
+b:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-Xun
+x:邱昱翔提供新式標點, Punctuated text as provided by Qiu Yu-Xiang
+l:Lilneige 提供新式標點, Punctuated text as provided by Lilneige
+a:李明芳大德提供新式標點, Punctuated text as provided by Mr. Li Ming-Fang
+k:張革豐大德提供新式標點重校, Re-proofing punctuated text as provided by Mr. Zhang Ge-Feng
+
+
+比對版本  大正經號-冊-頁  版本   日期       卷數  經名                                     【朝代 譯者或作者】            高麗經號-冊
+───────────────────────────────────────────────────────────────────
+SK4m      T0397-13-p0001  V1.0   1999/12/10   60  大方等大集經                             【北涼 曇無讖譯】              K0056-07
+SKW4q     T0398-13-p0409  V1.0   1999/12/10    8  大哀經                                   【西晉 竺法護譯】              K0072-07
+SK4i      T0399-13-p0452  V1.0   1999/12/10    4  寶女所問經                               【西晉 竺法護譯】              K0074-07
+SK4f      T0400-13-p0473  V1.0   1999/12/10   18  佛說海意菩薩所問淨印法門經               【宋 惟淨等譯】                K1481-41
+SK4z      T0401-13-p0522  V1.0   1999/12/10    2  佛說無言童子經                           【西晉 竺法護譯】              K0077-07
+SK4m      T0402-13-p0536  V1.0   1999/12/10   10  寶星陀羅尼經                             【唐 波羅頗蜜多羅譯】          K0078-07
+SK4q      T0403-13-p0583  V1.0   1999/12/10    7  阿差末菩薩經                             【西晉 竺法護譯】              K0070-07
+SK4f      T0404-13-p0613  V1.0   1999/12/10    8  大集大虛空藏菩薩所問經                   【唐 不空譯】                  K1339-37
+SKC4a     T0405-13-p0647  V1.0   1999/12/10    1  虛空藏菩薩經                             【姚秦 佛陀耶舍譯】            K0062-07
+S4Oj      T0406-13-p0656  V1.0   1999/12/10    1  虛空藏菩薩神呪經                    【失譯】                            -
+SK4i      T0407-13-p0662  V1.0   1999/12/10    1  虛空藏菩薩神呪經                    【宋 曇摩蜜多譯】              K0063-07
+SKG4a     T0408-13-p0667  V1.0   1999/12/10    2  虛空孕菩薩經                             【隋 闍那崛多譯】              K0061-07
+SK4i      T0409-13-p0677  V1.01  2000/03/01    1  觀虛空藏菩薩經                           【劉宋 曇摩蜜多譯】            K0064-07
+SK4f      T0410-13-p0681  V1.0   1999/12/10    8  大方廣十輪經                             【失譯】                       K0058-07
+SKB4l     T0411-13-p0721  V1.01  2000/03/01   10  大乘大集地藏十輪經                       【唐 玄奘譯】                  K0057-07
+SWF4c     T0412-13-p0777  V1.0   1999/12/10    2  地藏菩薩本願經                           【唐 實叉難陀譯】                   -
+SK4ik     T0413-13-p0790  V1.0   1999/12/10    1  百千頌大集經地藏菩薩請問法身讚           【唐 不空譯】                  K1283-36
+SK4q      T0414-13-p0793  V1.0   1999/12/10    5  菩薩念佛三昧經                           【劉宋 功德直譯】              K0060-07
+SK4q      T0415-13-p0830  V1.0   1999/12/10   10  大方等大集經菩薩念佛三昧分               【隋 達磨笈多譯】              K0065-07
+SK4q      T0416-13-p0872  V1.0   1999/12/10    5  大方等大集經賢護分                       【隋 闍那崛多譯】              K0066-07
+SKW4f     T0417-13-p0897  V1.0   1999/12/10    1  般舟三昧經                               【後漢 支婁迦讖譯】            K0068-07
+SKW4q     T0418-13-p0902  V1.0   1999/12/10    3  般舟三昧經                               【後漢 支婁迦讖譯】            K0067-07
+SK4b      T0419-13-p0920  V1.0   1999/12/10    1  拔陂菩薩經                               【失譯】                       K0069-07
+SKD4u     T0420-13-p0924  V1.0   1999/12/10    2  自在王菩薩經                             【姚秦 鳩摩羅什譯】            K0075-07
+SK4q      T0421-13-p0935  V1.0   1999/12/10    2  奮迅王問經                               【元魏 瞿曇般若流支譯】        K0076-07
+SK4b      T0422-13-p0948  V1.0   1999/12/10    2  大集譬喻王經                             【隋 闍那崛多譯】              K0073-07
+SK4f      T0423-13-p0959  V1.0   1999/12/10    4  僧伽吒經                                 【元魏 月婆首那譯】            K0398-13
+SK4x      T0424-13-p0976  V1.0   1999/12/10    5  大集會正法經                             【宋 施護譯】                  K1412-40
+───────────────────────────────────────────────────────────────────
