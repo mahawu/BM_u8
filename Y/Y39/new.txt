@@ -932,17 +932,17 @@ Y39n0037_p0063a06_##內的根相等具足。這一十地說，與大乘的「十
 Y39n0037_p0063a07_##王的繼承為譬喻，以說明菩薩行位的，主要是大乘的十住說。十住的先後傳譯，譯名略有不同，
 Y39n0037_p0063a08_##今舉佛陀跋陀羅（Buddhabhadra）譯的六十卷本《華嚴經》，實叉難陀（Śikṣānanda）譯的八
 Y39n0037_p0063a09_##十卷本《華嚴經》，梵本 [gaṇḍa-vyūha>Gaṇḍavyūha] 所說，對列如下：
-Y39n0037_p0063a10Ff#<c>　　　六十華嚴<c>　　八十華嚴<c>　　[gaṇḍa-vyūha>Gaṇḍavyūha]
-Y39n0037_p0063a11_f#<c>　　　初發心<c>　　初發心<c>　　prathamacittotpādika
-Y39n0037_p0063a12_f#<c>　　　治地<c>　　新學<c>　　ādikarmika
-Y39n0037_p0063a13_f#<c>　　　修行<c>　　修行<c>　　yogācāra
-Y39n0037_p0063a14_f#<c>　　　生貴<c>　　生貴<c>　　[janma ja>janmaja]
-Y39n0037_p0064a01_f#<c>　　　方便道<c>　　方便具足<c>　　[pūrvayogasampanna>pūrvayogasaṃpanna]
-Y39n0037_p0064a02_f#<c>　　　成就直心<c>　　成就正心<c>　　śuddhādhyāśaya
-Y39n0037_p0064a03_f#<c>　　　不退<c>　　不退<c>　　avivartya
-Y39n0037_p0064a04_f#<c>　　　童真<c>　　童子<c>　　kumārabhūta
-Y39n0037_p0064a05_f#<c>　　　深忍<c>　　法王子<c>　　[yauvarājyata>mahādharmayauvarājyābhiṣikta]
-Y39n0037_p0064a06_f#<c>　　　灌頂<c>　　灌頂<c>　　[abhiṣekata>abhiṣekaprāpta]</F>
+Y39n0037_p0063a10Ff#<c>六十華嚴<c>八十華嚴<c>[gaṇḍa-vyūha>Gaṇḍavyūha]
+Y39n0037_p0063a11_f#<c>初發心<c>初發心<c>prathamacittotpādika
+Y39n0037_p0063a12_f#<c>治地<c>新學<c>ādikarmika
+Y39n0037_p0063a13_f#<c>修行<c>修行<c>yogācāra
+Y39n0037_p0063a14_f#<c>生貴<c>生貴<c>[janma ja>janmaja]
+Y39n0037_p0064a01_f#<c>方便道<c>方便具足<c>[pūrvayogasampanna>pūrvayogasaṃpanna]
+Y39n0037_p0064a02_f#<c>成就直心<c>成就正心<c>śuddhādhyāśaya
+Y39n0037_p0064a03_f#<c>不退<c>不退<c>avivartya
+Y39n0037_p0064a04_f#<c>童真<c>童子<c>kumārabhūta
+Y39n0037_p0064a05_f#<c>深忍<c>法王子<c>[yauvarājyata>mahādharmayauvarājyābhiṣikta]
+Y39n0037_p0064a06_f#<c>灌頂<c>灌頂<c>[abhiṣekata>abhiṣekaprāpta]</F>
 Y39n0037_p0064a07_##<p,0,2>十住行位的名目，充分表示了輪王登位過程的譬喻。生貴，是出生（誕生）在貴勝家——生
 Y39n0037_p0064a08_##在佛家。方便具足，如悉達多（Siddhārtha）太子的學書、學武、學一切技術。童真，是沒有結
 Y39n0037_p0064a09_##婚以前。立為太子，是王子位。受灌頂而成為輪王，是灌頂位。這五位，明顯的以王子的一生為
