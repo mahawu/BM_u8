@@ -2,11 +2,11 @@
 
 C:CBETA 人工輸入（版本一）
 R:CBETA 人工輸入（版本二）
-L:LINDEN 大德提供
+L:LINDEN 大德提供新式標點
 
 C:CBETA 人工輸入（版本一）, Input by CBETA(first version)
 R:CBETA 人工輸入（版本二）, Input by CBETA(second version)
-L:LINDEN 大德提供, Text as provided by LINDEN
+L:LINDEN 大德提供新式標點, Punctuated text as provided by LINDEN
 
 版本  補編編號-冊-頁 版本   日期       卷數  典籍名稱                                                     【朝代 譯者或作者】
 ────────────────────────────────────────────────────────────────────
