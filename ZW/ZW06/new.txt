@@ -8078,7 +8078,7 @@ ZW06na038_p0407a19r##　　　　落合俊典（日本）
 ZW06na038_p0407a20r##　　　　胡海燕（德國）
 ZW06na038_p0407a21r##　　　　陳金華（加拿大）
 ZW06na038_p0407a22_##
-ZW06na038_p0408a01#<Q1 m=英文>《Buddhist Texts Not Contained in the Tripiṭaka》
+ZW06na038_p0408a01_##<Q1 m=英文>《Buddhist Texts Not Contained in the Tripiṭaka》
 ZW06na038_p0408a02Q1=Editorial Board
 ZW06na038_p0408a03_##<L_sp><I1>Advisers: ZHAO Puchu. REN Jiyu. ZHOU Shaoliang. WU Limin.
 ZW06na038_p0408a04I1#Editor-in-Chief: FANG Guangchang.
