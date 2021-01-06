@@ -1,7 +1,7 @@
-ZW10na057_pa001a01_##<mj 001><Q1 m=目錄>
+ZW10na057_pa001a01_##<mj 001>
 ZW10na057_pa001a02_##
-ZW10na057_pa001a03Ff#<c2><bold>目錄</bold>
-ZW10na057_pa001a04_f#<c>卷首語<c>（1）
+ZW10na057_pa001a03Q1#目錄
+ZW10na057_pa001a04Ff#<c>卷首語<c>（1）
 ZW10na057_pa001a05_f#<c>錄文校勘體例<c>（7）
 ZW10na057_pa001a06_f#<c2><bold>梵藏典籍新譯</bold>
 ZW10na057_pa001a07_f#<c>三自性論<c>（3）

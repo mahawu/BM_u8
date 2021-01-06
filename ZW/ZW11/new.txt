@@ -1,7 +1,7 @@
 ZW11na063_pa001a01_##<mj 001>
-ZW11na063_pa001a02_##<Q1 m=目錄>
-ZW11na063_pa001a03Ff#<c2><bold>目錄</bold>
-ZW11na063_pa001a04_f#<c>卷首語<c>（1）
+ZW11na063_pa001a02_##
+ZW11na063_pa001a03Q1#目錄
+ZW11na063_pa001a04Ff#<c>卷首語<c>（1）
 ZW11na063_pa001a05_f#<c>錄文校勘體例<c>（7）
 ZW11na063_pa001a06_f#<c2><bold>三階教資料</bold>
 ZW11na063_pa001a07_f#<c>讚禮地藏菩薩懺悔發願法<c>（3）

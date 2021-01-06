@@ -1,7 +1,7 @@
 ZW12na069_pa001a01_##<mj 001>
-ZW12na069_pa001a02_##<Q1 m=目錄>
-ZW12na069_pa001a03Ff#<c2><bold>目錄</bold>
-ZW12na069_pa001a04_f#<c>卷首語<c>（1）
+ZW12na069_pa001a02_##
+ZW12na069_pa001a03Q1#目錄
+ZW12na069_pa001a04Ff#<c>卷首語<c>（1）
 ZW12na069_pa001a05_f#<c>錄文校勘體例<c>（7）
 ZW12na069_pa001a06_f#<c2><bold>三藏論疏</bold>
 ZW12na069_pa001a07_f#<c>金剛般若經義疏卷二<c>（3）
