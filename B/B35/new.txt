@@ -14626,7 +14626,7 @@ B35n0196_p0866a03_f#<c r4>〔三○〕<c>何以得知三寶名殊其體是一。
 B35n0196_p0866a04_f#<c>ha ẖi tig ci sam〔pe ẖu〕mye śu khi the śi 'ir? Tab: yu ẖba gyeṅ ẖun phur
 B35n0196_p0866a05_f#<c>即是
 B35n0196_p0866a06_f#<c>tsig śi
-B35n0196_p0866a07_f#<c r4>〔三一〕<c>法、々即是眾。是三寶皆無為相、與虛空等」。納
+B35n0196_p0866a07_f#<c r4>〔三一〕<c>法、[々>法]即是眾。是三寶皆無為相、與虛空等」。納
 B35n0196_p0866a08_f#<c>phab〔phab〕tsig śi juṅ śi sam pe ẖu ke ẖbu ẖu syoṅ yi hu khoṅ diṅ ẖda〔b〕
 B35n0196_p0866a09_f#<c>此義
 B35n0196_p0866a10_f#<c>tshi ẖgi
@@ -14640,11 +14640,11 @@ B35n0196_p0867a03_f#<c>上、小
 B35n0196_p0867a04_f#<c>〈śaṅ〉〈śi ẖu〉
 B35n0196_p0867a05_f#<c r4>〔三四〕<c>乘初果已上、以為僧寶。問、何名別相。答、一
 B35n0196_p0867a06_f#<c>śiṅ chu gva〈yi〉〈śaṅ〉 yi ẖu siṅ pe ẖu Bun: ha mye phar〔syaṅ〕? Tab: 'ir
-B35n0196_p0867a07_f#<c>々相殊、
+B35n0196_p0867a07_f#<c>[々>一]相殊、
 B35n0196_p0867a08_f#<c>'ir syaṅ〔śu〕
 B35n0196_p0867a09_f#<c r4>〔三五〕<c>名為別相。問、云何一一相殊。答、佛寶不是
 B35n0196_p0867a10_f#<c>mye ẖu phar syaṅ. Bun: ẖun ha 'ir 'ir〔syaṅ〕śu? Tab: phur pe ẖu ẖbu śi
-B35n0196_p0867a11_f#<c>法。々不是眾、
+B35n0196_p0867a11_f#<c>法。[々>法]不是眾、
 B35n0196_p0867a12_f#<c>phab: phab ẖbu śi juṅ
 B35n0196_p0867a13_f#<c r4>〔三六〕<c>形狀不同故名別相。問、云何名為住持三
 B35n0196_p0867a14_f#<c>heṅ tshoṅ ẖbu thoṅ ko mye phar syaṅ Bun: ẖun ha mye ẖu siṅ（sic）chi sam
@@ -14780,7 +14780,7 @@ B35n0196_p0877a03_f#<c>受、受緣觸、觸緣六入、
 B35n0196_p0877a04_f#<c>śi ẖu; śi ẖu yvan chog ; chog yvan lug `zib ;
 B35n0196_p0877a05_f#<c r4>〔七一〕<c>〔六〕入緣名色、名色緣識、識緣行、行〔緣〕無
 B35n0196_p0877a06_f#<c>〔lug〕`zib yvan mye śeg ; mye śeg yvan sig ; śig yvan heṅ ; heṅ〔yvan〕ẖbu
-B35n0196_p0877a07_f#<c>明、々々〔緣〕一念不覺。〔問〕(一八)此十二因
+B35n0196_p0877a07_f#<c>明、[々々>無明]〔緣〕一念不覺。〔問〕(一八)此十二因
 B35n0196_p0877a08_f#<c>mye ; ẖbu mye〔yvan〕'ir nyam ẖbu kag. tshi śib ^zi 'in
 B35n0196_p0877a09_f#<c r4>〔七二〕<c>緣、何者緣因果過十二支。〔答〕因無明行現在十二
 B35n0196_p0877a10_f#<c>yvan. Ha ja yvan 'in gva kva śib `zi ci? 'In ẖbu mye heṅ hyan tshe śib `zi
