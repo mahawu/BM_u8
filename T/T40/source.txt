@@ -5,7 +5,7 @@ J:伽耶山基金會提供, Text as provided by Gaya Foundation
 4:北美某大德提供, Text as provided by Anonymous from USA
 n:南林尼僧苑提供新式標點, Punctuated text as provided by Nanlin Monastery
 c:CBETA 提供新式標點, Punctuated text as provided by CBETA
-l:北京龍泉寺人提供新式標點, Punctuated text as provided by Beijing Longquan Temple
+l:北京龍泉寺提供新式標點, Punctuated text as provided by Beijing Longquan Temple
 y:釋慈印法師提供新式標點, Punctuated text as provided by Ven. Shi Ci-Yin
 f:釋法利法師提供新式標點, Punctuated text as provided by Ven. Shi Fa-Li
 d:丁小平大德提供新式標點, Punctuated text as provided by Mr. Ding Xiao-Ping
