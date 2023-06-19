@@ -1,6 +1,6 @@
-# 原書無此「續比丘尼傳守培序」一文，CBETA 依其他刊本補入。
-# 原書無此「樂助功德芳名」一文，CBETA 依其他刊本補入。
+# 原書無「續比丘尼傳守培序」一文，CBETA 依 Liu Tao-Lin 大德提供之電子檔補入。
+# 原書無「樂助功德芳名」一文，CBETA 依 Liu Tao-Lin 大德提供之電子檔補入。
 # 電子版本來源：
   CBETA OCR
-  Taolin LIU
-  青莲佛学网 http://www.qlfxw.com/wap/view.php?id=259
+  Liu Tao-Lin
+  青莲佛学网
