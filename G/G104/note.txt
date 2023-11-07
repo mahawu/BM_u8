@@ -8,3 +8,17 @@
 ※G104n2279：CBETA 新式標點
 # 檢查 G104n2270_p0525a02-G104n2270_p0526a22 轉 XML 狀況
 # 為令手工圖表呈現正常，有些 pre 段落 BM 採用 <kai> 標記。
+# G104n2254 有以下標記，轉 XML 檢測要留意：
+<circle>甲</circle>
+<circle>乙</circle>
+<circle>丙</circle>
+<circle>丁</circle>
+<circle>戊</circle>
+<circle>己</circle>
+<circle>庚</circle>
+<circle>辛</circle>
+<circle>壬</circle>
+<circle>癸</circle>
+<border>
+</border>
+# G104n2272_p0529a01 有大表格要檢查。
