@@ -6,10 +6,12 @@ e:佛教電腦資訊庫功德會提供新式標點, Punctuated text as provided 
 c:中華佛教百科文獻基金會提供新式標點, Punctuated text as provided by Chinese Buddhist Literary Foundation
 j:釋覺光法師提供新式標點, Punctuated text as provided by Ven. Jueguang
 t:天台宗電子圖書館提供新式標點, Punctuated text as provided by The Electronic Library of Tiantai Buddhism
+b:CBETA 提供新式標點, Punctuated text as provided by CBETA
+g:釋覺光法師提供新式標點重校, Re-proofing Punctuated text as provided by Ven. Jueguang
 
 比對版本  大正經號-冊-頁  版本   日期       卷數  經名                                     【朝代 譯者或作者】            高麗經號-冊
 ───────────────────────────────────────────────────────────────────
-S4        T1911-46-p0001  V1.0   2001/01/01   10  摩訶止觀                                 【隋 智顗說】                       -
+S4bg      T1911-46-p0001  V1.0   2001/01/01   10  摩訶止觀                                 【隋 智顗說】                       -
 S4        T1912-46-p0141  V1.0   2001/01/01   10  止觀輔行傳弘決                           【唐 湛然述】                       -
 S4        T1913-46-p0447  V1.0   2001/01/01    2  止觀義例                                 【唐 湛然述】                       -
 S4        T1914-46-p0459  V1.0   2001/01/01    1  止觀大意                                 【唐 湛然述】                       -
