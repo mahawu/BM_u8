@@ -16,7 +16,7 @@ L:LINDEN 大德提供, Text as provided by LINDEN
 P:北京龍泉寺人工智能標點引擎提供新式標點初稿, Punctuated draft text as provided by Beijing Longquan Temple AI punctuation engine
 i:黃金愛大德提供新式標點, Punctuated text as provided by Ms. Huang Jin-Ai
 c:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-Xun
-x:常修慈大德提供新式標點, Punctuated text as provided by Ms. Chang Xiu-ci
+x:常修慈大德提供新式標點, Punctuated text as provided by Ms. Chang Xiu-Ci
 g:高萌大德提供新式標點, Punctuated text as provided by Gao Meng
 b:CBETA 提供新式標點, Punctuated text as provided by CBETA
 
