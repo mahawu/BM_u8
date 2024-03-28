@@ -14,7 +14,7 @@ R:CBETA 人工輸入（版本二）, Input by CBETA(second version)
 L:LINDEN 大德提供, Text as provided by LINDEN
 l:LINDEN 大德提供之部份經文, Part of text as provided by LINDEN
 i:黃金愛大德提供新式標點, Punctuated text as provided by Ms. Huang Jin-Ai
-p:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An
+q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An
 c:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-Xun
 b:CBETA 提供新式標點, Punctuated text as provided by CBETA
 
