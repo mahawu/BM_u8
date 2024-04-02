@@ -2,7 +2,6 @@ J20 檔案比對版本來源記錄 2009/06/05
 
 C:CBETA 人工輸入（版本一）
 R:CBETA 人工輸入（版本二）
-L:北京龍泉寺人工智能標點引擎提供新式標點初稿
 i:黃金愛大德提供新式標點
 q:毛佩君、廖予安、廖予慈大德提供新式標點
 c:陳伯勳大德提供新式標點
@@ -10,7 +9,6 @@ g:高萌大德提供新式標點
 
 C:CBETA 人工輸入（版本一）, Input by CBETA(first version)
 R:CBETA 人工輸入（版本二）, Input by CBETA(second version)
-L:北京龍泉寺人工智能標點引擎提供新式標點初稿, Punctuated draft text as provided by Beijing Longquan Temple AI punctuation engine
 i:黃金愛大德提供新式標點, Punctuated text as provided by Ms. Huang Jin-Ai
 q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An and Liao Yu-Ci
 c:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-Xun
@@ -23,6 +21,6 @@ CRi       JB091_20_p0329  V1.0   2009/06/05    1  道餘錄                     
 CRi       JB095_20_p0385  V1.0   2008/05/16    1  蕅益三頌                                      【明 智旭述並序　三頌為華嚴．楞嚴．法華　有偶拈問答及重刻自跋】
 CRi       JB096_20_p0395  V1.0   2008/05/16   10  周易禪解                                      【明 智旭著】
 CRq       JB097_20_p0469  V1.0   2009/03/10    3  天樂鳴空集                                    【明 鮑宗肇述　智旭定】
-CRLq      JB098_20_p0503  V1.0   2009/03/10    6  黃蘗無念禪師復問                              【明 深有撰　明 聞刪定】
-CRLg      JB103_20_p0653  V1.0   2008/05/16    1  寒山子詩集                                    【唐 閭丘胤集並序　明 王宗沐序　附拾得．豐干詩】
+CRq       JB098_20_p0503  V1.0   2009/03/10    6  黃蘗無念禪師復問                              【明 深有撰　明 聞刪定】
+CRg       JB103_20_p0653  V1.0   2008/05/16    1  寒山子詩集                                    【唐 閭丘胤集並序　明 王宗沐序　附拾得．豐干詩】
 ─────────────────────────────────────────────────────────
