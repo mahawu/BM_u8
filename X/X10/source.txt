@@ -2,11 +2,11 @@ X10 檔案比對版本來源記錄 2006/03/05
 
 K:CBETA 人工輸入
 O:CBETA 掃瞄辨識
-g:古籍酷人工智能標點引擎提供新式標點初稿
+g:古籍酷 AI 自動標點引擎提供新式標點初稿
 
 K:CBETA 人工輸入, Input by CBETA
 O:CBETA 掃瞄辨識, OCR by CBETA
-g:古籍酷人工智能標點引擎提供新式標點初稿, Punctuated draft text as provided by GJ.cool AI punctuation engine
+g:古籍酷 AI 自動標點引擎提供新式標點初稿, Punctuated draft text as provided by GJ.cool AI punctuation engine
 
 比對版本  卍續經號-冊-頁  版本   日期       卷數  經名                                          【朝代 譯者或作者】
 ─────────────────────────────────────────────────────────
