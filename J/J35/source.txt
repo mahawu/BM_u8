@@ -3,7 +3,7 @@ J35 檔案比對版本來源記錄 2009/06/17
 C:CBETA 人工輸入（版本一）
 R:CBETA 人工輸入（版本二）
 L:LINDEN 大德提供
-l:LINDEN 大德提供之部份經文
+l:LINDEN 大德提供部份經文
 c:CBETA 提供新式標點
 f:李明芳大德提供新式標點
 x:陳伯勳大德提供新式標點
@@ -12,7 +12,7 @@ m:毛佩君、廖予安、廖予慈大德提供新式標點
 C:CBETA 人工輸入（版本一）, Input by CBETA(first version)
 R:CBETA 人工輸入（版本二）, Input by CBETA(second version)
 L:LINDEN 大德提供, Text as provided by LINDEN
-l:LINDEN 大德提供之部份經文, Part of text as provided by LINDEN
+l:LINDEN 大德提供部份經文, Part of text as provided by LINDEN
 c:CBETA 提供新式標點, Punctuated text as provided by CBETA
 f:李明芳大德提供新式標點, Punctuated text as provided by Mr. Li Ming-Fang 
 x:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-Xun
@@ -28,6 +28,6 @@ CRc       JB338_35_p0715  V1.0   2008/12/03    5  靈瑞尼祖揆符禪師妙湛
 CRlc      JB339_35_p0741  V1.0   2008/12/03    5  靈瑞禪師嵒華集                                【清 符（尼）說　振澂等記】
 CRx       JB340_35_p0761  V1.0   2008/12/03    3  慧覺衣禪師語錄                                【清 照衣說　徹御等編】
 CRx       JB341_35_p0779  V1.0   2008/12/03    1  佛語御禪師語錄                                【清 徹御說　法傑．法秀等編　聖可序】
-CR        JB342_35_p0783  V1.0   2008/12/03    5  華嚴聖可禪師語錄                              【清 德玉說　光佛等編】
+CRm       JB342_35_p0783  V1.0   2008/12/03    5  華嚴聖可禪師語錄                              【清 德玉說　光佛等編】
 CRc       JB343_35_p0809  V1.0   2008/12/03   12  廣福山勝覺寺密印禪師語錄                      【清 真傳說　如暐等編】
 ─────────────────────────────────────────────────────────

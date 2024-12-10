@@ -3,7 +3,7 @@ J29 檔案比對版本來源記錄 2008/12/18
 C:CBETA 人工輸入（版本一）
 R:CBETA 人工輸入（版本二）
 L:LINDEN 大德提供
-l:LINDEN 大德提供之部份經文
+l:LINDEN 大德提供部份經文
 i:黃金愛大德提供新式標點
 z:常修慈大德提供新式標點
 c:陳伯勳大德提供新式標點
@@ -15,7 +15,7 @@ m:毛佩君、廖予安、廖予慈大德提供新式標點
 C:CBETA 人工輸入（版本一）, Input by CBETA(first version)
 R:CBETA 人工輸入（版本二）, Input by CBETA(second version)
 L:LINDEN 大德提供, Text as provided by LINDEN
-l:LINDEN 大德提供之部份經文, Part of text as provided by LINDEN
+l:LINDEN 大德提供部份經文, Part of text as provided by LINDEN
 i:黃金愛大德提供新式標點, Punctuated text as provided by Ms. Huang Jin-Ai
 z:常修慈大德提供新式標點, Punctuated text as provided by Ms. Chang Xiu-Ci
 c:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-Xun
@@ -37,7 +37,7 @@ CRlf      JB230_29_p0245  V1.0   2008/12/18   10  天王水鑑海和尚六會錄
 CRb       JB231_29_p0285  V1.0   2008/12/18    6  天王水鑑海和尚五會錄                                   【清 慧海說　原澂等編】
 CRf       JB232_29_p0309  V1.0   2008/12/18    3  天王水鑑海和尚住金粟語錄                               【清 慧海說　原澂．原上等編】
 CRlb      JB233_29_p0323  V1.0   2008/12/18   10  介菴進禪師語錄                                         【清 悟進說　真理等編　附源流頌】
-CR        JB234_29_p0379  V1.0   2008/12/18    2  一初元禪師語錄                                         【清 元說　真開．真智等編】
+CRg       JB234_29_p0379  V1.0   2008/12/18    2  一初元禪師語錄                                         【清 元說　真開．真智等編】
 CRlc      JB235_29_p0397  V1.0   2008/12/18    6  蓮月禪師語錄                                           【清 道正說　性容等錄】
 CRLz      JB236_29_p0431  V1.0   2008/12/18    2  玉泉蓮月正禪師語錄                                     【清 道正說　發慧等錄】
 CRlc      JB237_29_p0443  V1.0   2008/12/18    4  月幢了禪師語錄                                         【清 了說　達最等編】

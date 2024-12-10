@@ -3,7 +3,7 @@ J28 檔案比對版本來源記錄 2008/11/19
 C:CBETA 人工輸入（版本一）
 R:CBETA 人工輸入（版本二）
 L:LINDEN 大德提供
-l:LINDEN 大德提供之部份經文
+l:LINDEN 大德提供部份經文
 i:黃金愛大德提供新式標點
 q:毛佩君、廖予安、廖予慈大德提供新式標點
 c:陳伯勳大德提供新式標點
@@ -13,7 +13,7 @@ f:李明芳大德提供新式標點
 C:CBETA 人工輸入（版本一）, Input by CBETA(first version)
 R:CBETA 人工輸入（版本二）, Input by CBETA(second version)
 L:LINDEN 大德提供, Text as provided by LINDEN
-l:LINDEN 大德提供之部份經文, Part of text as provided by LINDEN
+l:LINDEN 大德提供部份經文, Part of text as provided by LINDEN
 i:黃金愛大德提供新式標點, Punctuated text as provided by Ms. Huang Jin-Ai
 p:毛佩君、廖予安大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An
 c:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-Xun

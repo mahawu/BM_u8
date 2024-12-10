@@ -3,7 +3,7 @@ J40 檔案比對版本來源記錄 2009/02/20
 C:CBETA 人工輸入（版本一）
 R:CBETA 人工輸入（版本二）
 L:LINDEN 大德提供
-l:LINDEN 大德提供之部份經文
+l:LINDEN 大德提供部份經文
 g:高萌大德提供新式標點
 f:李明芳大德提供新式標點
 c:CBETA 提供新式標點
@@ -11,7 +11,7 @@ c:CBETA 提供新式標點
 C:CBETA 人工輸入（版本一）, Input by CBETA(first version)
 R:CBETA 人工輸入（版本二）, Input by CBETA(second version)
 L:LINDEN 大德提供, Text as provided by LINDEN
-l:LINDEN 大德提供之部份經文, Part of text as provided by LINDEN
+l:LINDEN 大德提供部份經文, Part of text as provided by LINDEN
 g:高萌大德提供新式標點, Punctuated text as provided by Mr. Gao-Meng
 f:李明芳大德提供新式標點, Punctuated text as provided by Mr. Li Ming-Fang 
 c:CBETA 提供新式標點, Punctuated text as provided by CBETA
