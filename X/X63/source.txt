@@ -7,14 +7,16 @@ Z:維習安大德提供之 ZENCD 經文, ZENCD as provided by Mr. Christian Witt
 q:林伯謙大德提供, Text as provided by Lin Bo Qian
 c:CBETA 提供基本句讀, Basic punctuated text as provided by CBETA
 g:古籍酷 AI 自動標點引擎提供新式標點初稿, Punctuated draft text as provided by GJ.cool AI punctuation engine
+f:李明芳大德提供新式標點, Punctuated text as provided by Mr. Li Ming-Fang
+x:常修慈大德提供新式標點, Punctuated text as provided by Ms. Chang Xiu-Ci
 
 比對版本  卍續經號-冊-頁  版本   日期       卷數  經名                                     【朝代 譯者或作者】
 ─────────────────────────────────────────────────────────
-KOcg      X1217_63_p0001  V1.0   2004/07/21    1  菩提達磨大師略辨大乘入道四行觀           【梁 菩提達磨說】
-KZ g      X1218_63_p0002  V1.0   2004/07/21    1  達磨大師血脉論                      【梁 菩提達磨述】
-KZ g      X1219_63_p0005  V1.0   2004/07/21    1  達磨大師悟性論                           【梁 菩提達磨述】
-KZ g      X1220_63_p0008  V1.0   2004/07/21    1  達磨大師破相論                           【梁 菩提達磨述】
-KOcg      X1222_63_p0014  V1.0   2004/07/21    1  修禪要訣                                 【北天竺 覺愛略說　唐 明恂隨錄　慧智傳譯】
+KOcf      X1217_63_p0001  V1.0   2004/07/21    1  菩提達磨大師略辨大乘入道四行觀           【梁 菩提達磨說】
+KZ x      X1218_63_p0002  V1.0   2004/07/21    1  達磨大師血脉論                      【梁 菩提達磨述】
+KZ x      X1219_63_p0005  V1.0   2004/07/21    1  達磨大師悟性論                           【梁 菩提達磨述】
+KZ x      X1220_63_p0008  V1.0   2004/07/21    1  達磨大師破相論                           【梁 菩提達磨述】
+KOcx      X1222_63_p0014  V1.0   2004/07/21    1  修禪要訣                                 【北天竺 覺愛略說　唐 明恂隨錄　慧智傳譯】
 KF g      X1223_63_p0017  V1.0   2004/07/21    1  頓悟入道要門論                           【唐 慧海撰】
 KOcg      X1224_63_p0024  V1.0   2004/07/21    1  諸方門人參問語錄                         【唐 慧海撰】
 KF g      X1225_63_p0031  V1.0   2004/07/21    1  中華傳心地禪門師資承襲圖                 【唐 裴休問　宗密答】
