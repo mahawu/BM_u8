@@ -1,6 +1,6 @@
 G116 檔案比對版本來源記錄 2025/06/07
 
-C:CBETA 人工輸入（版本一）, Input by CBETA(first version)
+C:CBETA 人工輸入, Input by CBETA
 O:CBETA OCR, OCR by CBETA
 
 比對版本  佛教大藏經經號-冊-頁  版本   日期       卷數  經名                         【朝代 譯者或作者】
