@@ -9142,7 +9142,7 @@ ZW03na018_p0470a05_##<L_sp><I1>Advisers: ZHAO Puchu. REN Jiyu. ZHOU Shaoliang. W
 ZW03na018_p0470a06I1#Editor-in-Chief: FANG Guangchang.
 ZW03na018_p0470a07I1#Joint Editors: Li Jiazhen. YAO Changshou. SU Jun. HUA Fangtian.
 ZW03na018_p0470a08I1#Board of Consulting Editors: FANG Guangchang. HUA Fangtian.
-ZW03na018_p0470a09_##HUANG Weizhong. LI Jining. LI Jiazhen. LI Ming. SU Jun. XU
+ZW03na018_p0470a09_## HUANG Weizhong. LI Jining. LI Jiazhen. LI Ming. SU Jun. XU
 ZW03na018_p0470a10_## Shaoqiang. YAO Changshou.
 ZW03na018_p0470a11I1#Editors abroad:
 ZW03na018_p0470a12I2#Japan: Toshinori OCHIAI.

@@ -255,7 +255,7 @@ ZW06na033_p0011a01_## Chinese. However, this work, on the whole, being frequentl
 ZW06na033_p0011a02_## and on, had not been really unfolded. The situation has changed
 ZW06na033_p0011a03_## somewhat since 1980's. The Buddhist circles in Taiwan have
 ZW06na033_p0011a04_## been engaged in translating the southern Buddhist scriptures from
-ZW06na033_p0011a05_##Japanese while the Buddhist scholars in the mainland have made
+ZW06na033_p0011a05_## Japanese while the Buddhist scholars in the mainland have made
 ZW06na033_p0011a06_## efforts to translate the scriptures directly from the original Pali
 ZW06na033_p0011a07_## texts. What is especially worth mentioning is Prof. Deng Dianchen's
 ZW06na033_p0011a08_## great determination and dedication to the cause, into
@@ -276,7 +276,7 @@ ZW06na033_p0011a22_## are published in the fifth number of the <bold>Buddhist Te
 ZW06na033_p0011a23_## in the Tripitaka,</bold> are all Prof. Deng's posthumous works,
 ZW06na033_p0011a24_## and the <bold>Da Nian Chu Jing</bold> has been jointly translated by Prof.
 ZW06na033_p0011a25_## Deng and Mrs. Zhao. In addition, the <bold>Da Sui Dao Ben Sheng
-ZW06na033_p0011a26_##Jing Zhuan</bold> translated by Prof. Deng has been published and included
+ZW06na033_p0011a26_## Jing Zhuan</bold> translated by Prof. Deng has been published and included
 ZW06na033_p0011a27_## into the <bold>"Library of Dharma Voice"</bold> by the Chinese Buddhist
 ZW06na033_p0011a28_## Association, and his <bold>Zhang Lao Ji</bold> and <bold>Zhang Lao Ni Ji</bold>
 ZW06na033_p0012a01_## have also been put into one book and published by the Chinese Social
@@ -430,7 +430,7 @@ ZW06na033_p0017a08_## at probing the catalog structure of the <bold>Kaibaozang,<
 ZW06na033_p0017a09_## object I have examined is the inclusion of the scriptures of the
 ZW06na033_p0017a10_## Tiantai Sect into the Tripitaka. Since I have made an appointment
 ZW06na033_p0017a11_## with Mr. 緒方香州, a Japanese scholar, to cooperate with
-ZW06na033_p0017a12_##each other in the program of studying and restoring the original
+ZW06na033_p0017a12_## each other in the program of studying and restoring the original
 ZW06na033_p0017a13_## catalog of the <bold>Kaibaozang,</bold> this paper is in fact a partial result of
 ZW06na033_p0017a14_## the above-mentioned research.
 ZW06na033_p0017a15_##<p,0,2>The third number of the <bold>Buddhist Texts Not Contained in
@@ -449,7 +449,7 @@ ZW06na033_p0017a27_## our best to publish one number every six months, if our fu
 ZW06na033_p0017a28_## be guaranteed and no other special matters occur unexpectedly. In
 ZW06na033_p0018a01_## terms of the content, in addition to publishing continuously some
 ZW06na033_p0018a02_## of the collated texts of the Azhali Sect, we shall still lay stress on
-ZW06na033_p0018a03_##the collation of the Dunhuang surviving books.
+ZW06na033_p0018a03_## the collation of the Dunhuang surviving books.
 ZW06na033_p0018a04_##
 ZW06na033_p0018a05_##<B>Fang Guangchang
 ZW06na033_p0018a06B##Beijing
